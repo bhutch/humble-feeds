@@ -4,7 +4,7 @@
     <title>Humble Software Bundles</title>
     <link>https://www.humblebundle.com/software</link>
     <description>Current Humble Bundle software bundles</description>
-    <lastBuildDate>Sun, 13 Sep 2026 13:53:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:05:44 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>The Builder’s Vault by Hivemind - Unreal Engine Edition</title>
@@ -133,6 +133,13 @@
       <description>&lt;img src="https://hb.imgix.net/4ea041f318ce1b91c355e99f1d2a688074376c4c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=f59e2d3c3177f5febc924db68c79815e"&gt;&lt;br&gt;Unlock badass blades, blasters, and beasts!&lt;br&gt;Ends: 2026-09-17</description>
     </item>
     <item>
+      <title>JROTools Pro Photobash Reference Megapack</title>
+      <link>https://www.humblebundle.com/software/jrotools-pro-photobash-reference-megapack-software</link>
+      <guid isPermaLink="false">jrotoolsprophotobashreferencemegapack_softwarebundle</guid>
+      <pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/2477c9da67f48687c347bae252f59a224dcab19e.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=000a8851b1999c47915ca3514254241f"&gt;&lt;br&gt;Professional asset tools by JROTools!&lt;br&gt;Ends: 2026-10-03</description>
+    </item>
+    <item>
       <title>Code Naturally With Python</title>
       <link>https://www.humblebundle.com/software/code-naturally-with-python-software</link>
       <guid isPermaLink="false">codenaturallywithpython_softwarebundle</guid>
@@ -166,13 +173,6 @@
       <guid isPermaLink="false">agileinactionscrumjiraaiprojectmanagement_bookbundle</guid>
       <pubDate>Thu, 27 Aug 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/76516eef781bfd017e3de8918ab4756a28cb8563.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9ba457515db6e58e8c919f19dfda98bf"&gt;&lt;br&gt;Unlock your Project Management superpowers&lt;br&gt;Ends: 2026-09-17</description>
-    </item>
-    <item>
-      <title>JROTools Pro Photobash Reference Megapack</title>
-      <link>https://www.humblebundle.com/software/jrotools-pro-photobash-reference-megapack-software</link>
-      <guid isPermaLink="false">jrotoolsprophotobashreferencemegapack_softwarebundle</guid>
-      <pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/2477c9da67f48687c347bae252f59a224dcab19e.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=000a8851b1999c47915ca3514254241f"&gt;&lt;br&gt;Professional asset tools by JROTools!&lt;br&gt;Ends: 2026-10-03</description>
     </item>
     <item>
       <title>Big Blast'n Sounds for Game Devs</title>
