@@ -4,7 +4,7 @@
     <title>Humble Software Bundles</title>
     <link>https://www.humblebundle.com/software</link>
     <description>Current Humble Bundle software bundles</description>
-    <lastBuildDate>Mon, 14 Sep 2026 04:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:55:01 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>The Builder’s Vault by Hivemind - Unreal Engine Edition</title>
@@ -119,13 +119,6 @@
       <description>&lt;img src="https://hb.imgix.net/ca0692cc4eed602c74c74bc6681b7f8797304fc6.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=0fdd1c0ff5cf3898b2364ecdfc7e6af3"&gt;&lt;br&gt;600+ assets to create massive industrial worlds&lt;br&gt;Ends: 2026-09-14</description>
     </item>
     <item>
-      <title>Open World Essentials II</title>
-      <link>https://www.humblebundle.com/software/open-world-essentials-ii-software</link>
-      <guid isPermaLink="false">openworldessentialsii_softwarebundle</guid>
-      <pubDate>Wed, 26 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/96ffca77217ec860d873f0c19e548c8855bce3e4.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=df0b295b4cdbcc1e1249ca8edbaaef3d"&gt;&lt;br&gt;Broaden your horizons with open world essentials&lt;br&gt;Ends: 2026-09-16</description>
-    </item>
-    <item>
       <title>Blades, Blasters &amp; Beasts</title>
       <link>https://www.humblebundle.com/software/blades-blasters-beasts-software</link>
       <guid isPermaLink="false">bladesblastersbeasts_softwarebundle</guid>
@@ -133,11 +126,25 @@
       <description>&lt;img src="https://hb.imgix.net/4ea041f318ce1b91c355e99f1d2a688074376c4c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=f59e2d3c3177f5febc924db68c79815e"&gt;&lt;br&gt;Unlock badass blades, blasters, and beasts!&lt;br&gt;Ends: 2026-09-17</description>
     </item>
     <item>
-      <title>JROTools Pro Photobash Reference Megapack</title>
-      <link>https://www.humblebundle.com/software/jrotools-pro-photobash-reference-megapack-software</link>
-      <guid isPermaLink="false">jrotoolsprophotobashreferencemegapack_softwarebundle</guid>
-      <pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/2477c9da67f48687c347bae252f59a224dcab19e.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=000a8851b1999c47915ca3514254241f"&gt;&lt;br&gt;Professional asset tools by JROTools!&lt;br&gt;Ends: 2026-10-03</description>
+      <title>Agile in Action: Scrum, Jira &amp; AI Project Management</title>
+      <link>https://www.humblebundle.com/software/agile-in-action-scrum-jira-ai-project-management-software</link>
+      <guid isPermaLink="false">agileinactionscrumjiraaiprojectmanagement_bookbundle</guid>
+      <pubDate>Thu, 27 Aug 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/76516eef781bfd017e3de8918ab4756a28cb8563.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9ba457515db6e58e8c919f19dfda98bf"&gt;&lt;br&gt;Unlock your Project Management superpowers&lt;br&gt;Ends: 2026-09-17</description>
+    </item>
+    <item>
+      <title>Open World Essentials II</title>
+      <link>https://www.humblebundle.com/software/open-world-essentials-ii-software</link>
+      <guid isPermaLink="false">openworldessentialsii_softwarebundle</guid>
+      <pubDate>Wed, 26 Aug 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/96ffca77217ec860d873f0c19e548c8855bce3e4.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=df0b295b4cdbcc1e1249ca8edbaaef3d"&gt;&lt;br&gt;Broaden your horizons with open world essentials&lt;br&gt;Ends: 2026-09-16</description>
+    </item>
+    <item>
+      <title>The Hands-On DevOps Bundle</title>
+      <link>https://www.humblebundle.com/software/handson-devops-bundle-software</link>
+      <guid isPermaLink="false">handsondevopsbundle_softwarebundle</guid>
+      <pubDate>Tue, 11 Aug 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/3cb1376c2bc771393cc1f9a6ac6d302135b0e3e3.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=2b734ae1189ebf47925d1caf2a3a93da"&gt;&lt;br&gt;Take a hands-on approach to DevOps&lt;br&gt;Ends: 2026-09-15</description>
     </item>
     <item>
       <title>Code Naturally With Python</title>
@@ -154,25 +161,11 @@
       <description>&lt;img src="https://hb.imgix.net/45f835cdb52ff5f73d5a1f1089c2e370af9525a1.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=3e02d41c9886565de2d8c50c8f0f4ce0"&gt;&lt;br&gt;Unleash your creativity with CAD Pro 14!&lt;br&gt;Ends: 2026-09-15</description>
     </item>
     <item>
-      <title>Complete Design Studio</title>
-      <link>https://www.humblebundle.com/software/complete-design-studio-software</link>
-      <guid isPermaLink="false">completedesignstudio_softwarebundle</guid>
-      <pubDate>Fri, 14 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/2dcc9b050256f0514bd1a079b754642f1e23ec4b.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=11ba80b3b51cfa64cd239c0c3e474424"&gt;&lt;br&gt;Reimagine your space.&lt;br&gt;Ends: 2026-09-18</description>
-    </item>
-    <item>
-      <title>The Hands-On DevOps Bundle</title>
-      <link>https://www.humblebundle.com/software/handson-devops-bundle-software</link>
-      <guid isPermaLink="false">handsondevopsbundle_softwarebundle</guid>
-      <pubDate>Tue, 11 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/3cb1376c2bc771393cc1f9a6ac6d302135b0e3e3.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=2b734ae1189ebf47925d1caf2a3a93da"&gt;&lt;br&gt;Take a hands-on approach to DevOps&lt;br&gt;Ends: 2026-09-15</description>
-    </item>
-    <item>
-      <title>Agile in Action: Scrum, Jira &amp; AI Project Management</title>
-      <link>https://www.humblebundle.com/software/agile-in-action-scrum-jira-ai-project-management-software</link>
-      <guid isPermaLink="false">agileinactionscrumjiraaiprojectmanagement_bookbundle</guid>
-      <pubDate>Thu, 27 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/76516eef781bfd017e3de8918ab4756a28cb8563.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9ba457515db6e58e8c919f19dfda98bf"&gt;&lt;br&gt;Unlock your Project Management superpowers&lt;br&gt;Ends: 2026-09-17</description>
+      <title>JROTools Pro Photobash Reference Megapack</title>
+      <link>https://www.humblebundle.com/software/jrotools-pro-photobash-reference-megapack-software</link>
+      <guid isPermaLink="false">jrotoolsprophotobashreferencemegapack_softwarebundle</guid>
+      <pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/2477c9da67f48687c347bae252f59a224dcab19e.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=000a8851b1999c47915ca3514254241f"&gt;&lt;br&gt;Professional asset tools by JROTools!&lt;br&gt;Ends: 2026-10-03</description>
     </item>
     <item>
       <title>Big Blast'n Sounds for Game Devs</title>
@@ -180,6 +173,13 @@
       <guid isPermaLink="false">bigblastnsoundsforgamedevs_softwarebundle</guid>
       <pubDate>Fri, 28 Aug 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/05cb20451cf64395489a8ca0c4aa9f8f6e5514ae.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=97e9b12214058e408ab25bc0877629f7"&gt;&lt;br&gt;Big blast’n sounds for any situation!&lt;br&gt;Ends: 2026-09-18</description>
+    </item>
+    <item>
+      <title>Complete Design Studio</title>
+      <link>https://www.humblebundle.com/software/complete-design-studio-software</link>
+      <guid isPermaLink="false">completedesignstudio_softwarebundle</guid>
+      <pubDate>Fri, 14 Aug 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/2dcc9b050256f0514bd1a079b754642f1e23ec4b.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=11ba80b3b51cfa64cd239c0c3e474424"&gt;&lt;br&gt;Reimagine your space.&lt;br&gt;Ends: 2026-09-18</description>
     </item>
   </channel>
 </rss>
