@@ -4,21 +4,14 @@
     <title>Humble Games Bundles</title>
     <link>https://www.humblebundle.com/games</link>
     <description>Current Humble Bundle games bundles</description>
-    <lastBuildDate>Mon, 14 Sep 2026 17:55:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 04:05:06 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
-      <title>Beyond the Metroidverse Bundle</title>
-      <link>https://www.humblebundle.com/games/beyond-metroidverse-bundle</link>
-      <guid isPermaLink="false">beyondmetroidversebundle_bundle</guid>
-      <pubDate>Wed, 26 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/752ce5c24e6b1035b9e33bd6d8acef2130221f7d.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=65c9c79a214ab31c5c470b71c2b1291b"&gt;&lt;br&gt;The Metroidverse is calling your name&lt;br&gt;Ends: 2026-09-17</description>
-    </item>
-    <item>
-      <title>Decked Out Deckbuilders</title>
-      <link>https://www.humblebundle.com/games/decked-out-deckbuilders</link>
-      <guid isPermaLink="false">deckedoutdeckbuilders_bundle</guid>
-      <pubDate>Fri, 11 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/4a6283328305339152c11558b939c9f1da85ae86.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9daa7e1ebd7c25869c5b637e0ac7f55b"&gt;&lt;br&gt;Build your perfect deck&lt;br&gt;Ends: 2026-10-03</description>
+      <title>CRPG Pack: Isometric Immersion</title>
+      <link>https://www.humblebundle.com/games/crpg-pack-isometric-immersion</link>
+      <guid isPermaLink="false">crpgpackisometricimmersion_bundle</guid>
+      <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/55482b1af736b2e3914a293d0f714ac158baaa8a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=4d6d79eda26d4d7d535143794763f93a"&gt;&lt;br&gt;A new angle on adventure&lt;br&gt;Ends: 2026-09-24</description>
     </item>
     <item>
       <title>Run It Back - Roguelikes Bundle</title>
@@ -28,18 +21,32 @@
       <description>&lt;img src="https://hb.imgix.net/784fd04df33d252f701750304d84133aa3eead69.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5f54e1625bb23160f36026df5cf15d35"&gt;&lt;br&gt;Don’t be afraid to start over&lt;br&gt;Ends: 2026-10-03</description>
     </item>
     <item>
-      <title>CRPG Pack: Isometric Immersion</title>
-      <link>https://www.humblebundle.com/games/crpg-pack-isometric-immersion</link>
-      <guid isPermaLink="false">crpgpackisometricimmersion_bundle</guid>
-      <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/55482b1af736b2e3914a293d0f714ac158baaa8a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=4d6d79eda26d4d7d535143794763f93a"&gt;&lt;br&gt;A new angle on adventure&lt;br&gt;Ends: 2026-09-24</description>
-    </item>
-    <item>
       <title>Mega Man: Recharged Collection</title>
       <link>https://www.humblebundle.com/games/mega-man-recharged-collection</link>
       <guid isPermaLink="false">megamanrechargedcollection_bundle</guid>
       <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/fbf2c487c24f3e106f56cb3ed2a273173ea67ddc.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=26ff890fe34f96bee83f4b06e2ab6173"&gt;&lt;br&gt;Experience the original action-platformer!&lt;br&gt;Ends: 2026-10-01</description>
+    </item>
+    <item>
+      <title>Humble 15th Anniversary - Ready Player One ... and Two</title>
+      <link>https://www.humblebundle.com/games/humble-15th-anniversary-ready-player-one-and-two</link>
+      <guid isPermaLink="false">humble15thanniversaryreadyplayeroneandtwo_bundle</guid>
+      <pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/96a249a6a5dbf9eaca53c576fb05d91e59dce1d8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=4942d25d6331e7d2d093f5ac021c0396"&gt;&lt;br&gt;It takes two to tango&lt;br&gt;Ends: 2026-09-19</description>
+    </item>
+    <item>
+      <title>Decked Out Deckbuilders</title>
+      <link>https://www.humblebundle.com/games/decked-out-deckbuilders</link>
+      <guid isPermaLink="false">deckedoutdeckbuilders_bundle</guid>
+      <pubDate>Fri, 11 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/4a6283328305339152c11558b939c9f1da85ae86.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9daa7e1ebd7c25869c5b637e0ac7f55b"&gt;&lt;br&gt;Build your perfect deck&lt;br&gt;Ends: 2026-10-03</description>
+    </item>
+    <item>
+      <title>Beyond the Metroidverse Bundle</title>
+      <link>https://www.humblebundle.com/games/beyond-metroidverse-bundle</link>
+      <guid isPermaLink="false">beyondmetroidversebundle_bundle</guid>
+      <pubDate>Wed, 26 Aug 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/752ce5c24e6b1035b9e33bd6d8acef2130221f7d.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=65c9c79a214ab31c5c470b71c2b1291b"&gt;&lt;br&gt;The Metroidverse is calling your name&lt;br&gt;Ends: 2026-09-17</description>
     </item>
     <item>
       <title>Crawling Through the Dungeons</title>
@@ -54,13 +61,6 @@
       <guid isPermaLink="false">dreadanddarkfantasiesrpgcollection_bundle</guid>
       <pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/1a9830034ec9bb05461d42e85b9577b7da4e3719.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=efdcbd925e7d9e66bfa4f1157d126a08"&gt;&lt;br&gt;Explore the depths of dark fantasy RPGs&lt;br&gt;Ends: 2026-09-19</description>
-    </item>
-    <item>
-      <title>Humble 15th Anniversary - Ready Player One ... and Two</title>
-      <link>https://www.humblebundle.com/games/humble-15th-anniversary-ready-player-one-and-two</link>
-      <guid isPermaLink="false">humble15thanniversaryreadyplayeroneandtwo_bundle</guid>
-      <pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/96a249a6a5dbf9eaca53c576fb05d91e59dce1d8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=4942d25d6331e7d2d093f5ac021c0396"&gt;&lt;br&gt;It takes two to tango&lt;br&gt;Ends: 2026-09-19</description>
     </item>
     <item>
       <title>Narrative Masterpieces</title>
@@ -82,13 +82,6 @@
       <guid isPermaLink="false">makeplaygamesingodot_softwarebundle</guid>
       <pubDate>Fri, 04 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/a9d800fc5c88f4e103f8af9688ab042ff4b1ffbf.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9d8ff63ceda70b9b247a88cfe3015bc8"&gt;&lt;br&gt;Make &amp;amp; play your own games!&lt;br&gt;Ends: 2026-09-25</description>
-    </item>
-    <item>
-      <title>Shantae &amp; Heroic Heroines</title>
-      <link>https://www.humblebundle.com/games/shantae-heroic-heroines</link>
-      <guid isPermaLink="false">shantaeheroicheroines_bundle</guid>
-      <pubDate>Mon, 17 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/827c03bbea0a5f88f07639c63edcc272926eeb73.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=edd5f1bb3f076ded31ee89f974896c35"&gt;&lt;br&gt;Half-genie, big adventures!&lt;br&gt;Ends: 2026-09-15</description>
     </item>
     <item>
       <title>Yes Chef! - Cooking Bundle</title>
