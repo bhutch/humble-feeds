@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Thu, 17 Sep 2026 04:08:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:33:33 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Software Architecture 2026 by O'Reilly</title>
@@ -147,18 +147,18 @@
       <description>&lt;img src="https://hb.imgix.net/4a0d4b135f55dc62bd800a397819ea71c355eb24.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=6692f06c073c3fa71bcdc78f24bf936d"&gt;&lt;br&gt;Award-winning comics by Kurt Busiek&lt;br&gt;Ends: 2026-10-07</description>
     </item>
     <item>
-      <title>Tales From the Iron Kingdoms</title>
-      <link>https://www.humblebundle.com/books/tales-from-iron-kingdoms-books</link>
-      <guid isPermaLink="false">talesfromironkingdoms_bookbundle</guid>
-      <pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/a3f283e0bcbad307bb9123aaa0d6ffc8c0a70948.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=29f32b41e3d8df2d7acd1e8122a4d068"&gt;&lt;br&gt;Step into a world forged in steam and iron and tempered by war&lt;br&gt;Ends: 2026-09-23</description>
-    </item>
-    <item>
       <title>Dying Earth RPG Collection</title>
       <link>https://www.humblebundle.com/books/dying-earth-rpg-collection-book</link>
       <guid isPermaLink="false">dyingearthrpgcollection_bookrbundle</guid>
       <pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/d6f11b9675ab97a9d709b43b92f387e335f659e5.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=08a9040e156c079d3ece260b3be65ffa"&gt;&lt;br&gt;Quips cut deeper than swords!&lt;br&gt;Ends: 2026-09-18</description>
+    </item>
+    <item>
+      <title>Tales From the Iron Kingdoms</title>
+      <link>https://www.humblebundle.com/books/tales-from-iron-kingdoms-books</link>
+      <guid isPermaLink="false">talesfromironkingdoms_bookbundle</guid>
+      <pubDate>Wed, 19 Aug 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/a3f283e0bcbad307bb9123aaa0d6ffc8c0a70948.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=29f32b41e3d8df2d7acd1e8122a4d068"&gt;&lt;br&gt;Step into a world forged in steam and iron and tempered by war&lt;br&gt;Ends: 2026-09-23</description>
     </item>
   </channel>
 </rss>
