@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Thu, 17 Sep 2026 16:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 03:54:21 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Software Architecture 2026 by O'Reilly</title>
@@ -77,13 +77,6 @@
       <description>&lt;img src="https://hb.imgix.net/468d91b9ecc9e7d678a117f58edc0dda84cdcc53.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=b6502fd2dace780df46f3c07edc7eba5"&gt;&lt;br&gt;Thrive in any off-grid element!&lt;br&gt;Ends: 2026-09-21</description>
     </item>
     <item>
-      <title>Painting Nature with Watercolor from Open Road</title>
-      <link>https://www.humblebundle.com/books/painting-nature-with-watercolor-from-open-road-books</link>
-      <guid isPermaLink="false">paintingnaturewithwatercolorfromopenroad_bookbundle</guid>
-      <pubDate>Thu, 27 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/db6ca762b55f5639707eb7cc102cbcfadd9e6d76.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1efa0a327ede3ef67541518c84c2fda3"&gt;&lt;br&gt;Let your paintbrush do the talking&lt;br&gt;Ends: 2026-09-17</description>
-    </item>
-    <item>
       <title>The EC Comics Artists Library by Fantagraphics</title>
       <link>https://www.humblebundle.com/books/ec-comics-artists-library-fantagraphics-books</link>
       <guid isPermaLink="false">eccomicsartistslibraryfantagraphics_bookbundle</guid>
@@ -138,6 +131,13 @@
       <guid isPermaLink="false">ultimatelinuxcloudinfrastructurebundlepackt_bookbundle</guid>
       <pubDate>Wed, 09 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/82c39c55249f7afcc4302f60493989e7a93d54b2.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d42e1020522d0f028954297760a9c8d1"&gt;&lt;br&gt;Master the ins and outs of Linux&lt;br&gt;Ends: 2026-09-30</description>
+    </item>
+    <item>
+      <title>50 Essential Fantagraphics Titles by Fantagraphics</title>
+      <link>https://www.humblebundle.com/books/50-essential-fantagraphics-titles-fantagraphics-books</link>
+      <guid isPermaLink="false">50essentialfantagraphicstitlesfantagraphics_bookbundle</guid>
+      <pubDate>Thu, 17 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/810e275c9bc6ce1bd065fd3690b209de23669881.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=c8a5f88df340a6cb9667ef28192fd8a8"&gt;&lt;br&gt;Catch up on Fantagraphics favorites&lt;br&gt;Ends: 2026-10-08</description>
     </item>
     <item>
       <title>Kurt Busiek's Astro City: The 30th Anniversary by Image Comics</title>
