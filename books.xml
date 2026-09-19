@@ -4,8 +4,22 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Fri, 18 Sep 2026 16:04:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 03:51:22 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
+    <item>
+      <title>50 Essential Fantagraphics Titles by Fantagraphics</title>
+      <link>https://www.humblebundle.com/books/50-essential-fantagraphics-titles-fantagraphics-books</link>
+      <guid isPermaLink="false">50essentialfantagraphicstitlesfantagraphics_bookbundle</guid>
+      <pubDate>Thu, 17 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/810e275c9bc6ce1bd065fd3690b209de23669881.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=c8a5f88df340a6cb9667ef28192fd8a8"&gt;&lt;br&gt;Catch up on Fantagraphics favorites&lt;br&gt;Ends: 2026-10-08</description>
+    </item>
+    <item>
+      <title>Kurt Busiek's Astro City: The 30th Anniversary by Image Comics</title>
+      <link>https://www.humblebundle.com/books/kurt-busieks-astro-city-30th-anniversary-image-comics-books</link>
+      <guid isPermaLink="false">kurtbusieksastrocity30thanniversaryimagecomics_bookbundle</guid>
+      <pubDate>Wed, 16 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/4a0d4b135f55dc62bd800a397819ea71c355eb24.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=6692f06c073c3fa71bcdc78f24bf936d"&gt;&lt;br&gt;Award-winning comics by Kurt Busiek&lt;br&gt;Ends: 2026-10-07</description>
+    </item>
     <item>
       <title>Software Architecture 2026 by O'Reilly</title>
       <link>https://www.humblebundle.com/books/software-architecture-2026-oreilly-books</link>
@@ -81,7 +95,7 @@
       <link>https://www.humblebundle.com/books/ec-comics-artists-library-fantagraphics-books</link>
       <guid isPermaLink="false">eccomicsartistslibraryfantagraphics_bookbundle</guid>
       <pubDate>Fri, 14 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/635eaa206d12b7243e8e0fa5e88d9d208138e74b.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d1eda343f5364598ce0b162042d17621"&gt;&lt;br&gt;Celebrate the art of these fantastic comics&lt;br&gt;Ends: 2026-09-18</description>
+      <description>&lt;img src="https://hb.imgix.net/635eaa206d12b7243e8e0fa5e88d9d208138e74b.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d1eda343f5364598ce0b162042d17621"&gt;&lt;br&gt;Celebrate the art of these fantastic comics&lt;br&gt;Ends: 2026-09-25</description>
     </item>
     <item>
       <title>Elizabeth Moon: Paksenarrion and More! A Minibundle by Baen Books</title>
@@ -133,25 +147,11 @@
       <description>&lt;img src="https://hb.imgix.net/82c39c55249f7afcc4302f60493989e7a93d54b2.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d42e1020522d0f028954297760a9c8d1"&gt;&lt;br&gt;Master the ins and outs of Linux&lt;br&gt;Ends: 2026-09-30</description>
     </item>
     <item>
-      <title>50 Essential Fantagraphics Titles by Fantagraphics</title>
-      <link>https://www.humblebundle.com/books/50-essential-fantagraphics-titles-fantagraphics-books</link>
-      <guid isPermaLink="false">50essentialfantagraphicstitlesfantagraphics_bookbundle</guid>
-      <pubDate>Thu, 17 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/810e275c9bc6ce1bd065fd3690b209de23669881.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=c8a5f88df340a6cb9667ef28192fd8a8"&gt;&lt;br&gt;Catch up on Fantagraphics favorites&lt;br&gt;Ends: 2026-10-08</description>
-    </item>
-    <item>
-      <title>Kurt Busiek's Astro City: The 30th Anniversary by Image Comics</title>
-      <link>https://www.humblebundle.com/books/kurt-busieks-astro-city-30th-anniversary-image-comics-books</link>
-      <guid isPermaLink="false">kurtbusieksastrocity30thanniversaryimagecomics_bookbundle</guid>
-      <pubDate>Wed, 16 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/4a0d4b135f55dc62bd800a397819ea71c355eb24.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=6692f06c073c3fa71bcdc78f24bf936d"&gt;&lt;br&gt;Award-winning comics by Kurt Busiek&lt;br&gt;Ends: 2026-10-07</description>
-    </item>
-    <item>
       <title>Dying Earth RPG Collection</title>
       <link>https://www.humblebundle.com/books/dying-earth-rpg-collection-book</link>
       <guid isPermaLink="false">dyingearthrpgcollection_bookrbundle</guid>
       <pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/d6f11b9675ab97a9d709b43b92f387e335f659e5.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=08a9040e156c079d3ece260b3be65ffa"&gt;&lt;br&gt;Quips cut deeper than swords!&lt;br&gt;Ends: 2026-09-18</description>
+      <description>&lt;img src="https://hb.imgix.net/d6f11b9675ab97a9d709b43b92f387e335f659e5.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=08a9040e156c079d3ece260b3be65ffa"&gt;&lt;br&gt;Quips cut deeper than swords!&lt;br&gt;Ends: 2026-09-25</description>
     </item>
     <item>
       <title>Tales From the Iron Kingdoms</title>
