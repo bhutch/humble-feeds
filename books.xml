@@ -4,8 +4,15 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Sun, 20 Sep 2026 15:43:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 04:05:16 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
+    <item>
+      <title>Batman Day Comics Bundle by DC Comics</title>
+      <link>https://www.humblebundle.com/books/batman-day-comics-bundle-dc-comics-books</link>
+      <guid isPermaLink="false">batmandaycomicsbundledccomics_bookbundle</guid>
+      <pubDate>Sat, 19 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/61acb85588c28261b33429f73291b5cd0a417443.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=18f5f7fc1b4db69db32b4dc2c1931a4f"&gt;&lt;br&gt;Rule the Night&lt;br&gt;Ends: 2026-10-10</description>
+    </item>
     <item>
       <title>50 Essential Fantagraphics Titles by Fantagraphics</title>
       <link>https://www.humblebundle.com/books/50-essential-fantagraphics-titles-fantagraphics-books</link>
@@ -25,7 +32,7 @@
       <link>https://www.humblebundle.com/books/software-architecture-2026-oreilly-books</link>
       <guid isPermaLink="false">softwarearchitecture2026oreilly_bookbundle</guid>
       <pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/d0f222d428e55bd3a60cd2d419b753b58032126c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=f7bf4635cfd1312a2600e4e5568aef2f"&gt;&lt;br&gt;Evolve your architecture skillsets with ease&lt;br&gt;Ends: 2026-09-20</description>
+      <description>&lt;img src="https://hb.imgix.net/d0f222d428e55bd3a60cd2d419b753b58032126c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=f7bf4635cfd1312a2600e4e5568aef2f"&gt;&lt;br&gt;Evolve your architecture skillsets with ease&lt;br&gt;Ends: 2026-09-28</description>
     </item>
     <item>
       <title>Legend In The Mist &amp; :Otherscape RPG Collection by Son of Oak</title>
@@ -138,13 +145,6 @@
       <guid isPermaLink="false">ultimatelinuxcloudinfrastructurebundlepackt_bookbundle</guid>
       <pubDate>Wed, 09 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/82c39c55249f7afcc4302f60493989e7a93d54b2.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d42e1020522d0f028954297760a9c8d1"&gt;&lt;br&gt;Master the ins and outs of Linux&lt;br&gt;Ends: 2026-09-30</description>
-    </item>
-    <item>
-      <title>Batman Day Comics Bundle by DC Comics</title>
-      <link>https://www.humblebundle.com/books/batman-day-comics-bundle-dc-comics-books</link>
-      <guid isPermaLink="false">batmandaycomicsbundledccomics_bookbundle</guid>
-      <pubDate>Sat, 19 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/61acb85588c28261b33429f73291b5cd0a417443.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=18f5f7fc1b4db69db32b4dc2c1931a4f"&gt;&lt;br&gt;Rule the Night&lt;br&gt;Ends: 2026-10-10</description>
     </item>
     <item>
       <title>Dying Earth RPG Collection</title>
