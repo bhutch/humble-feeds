@@ -4,7 +4,7 @@
     <title>Humble Games Bundles</title>
     <link>https://www.humblebundle.com/games</link>
     <description>Current Humble Bundle games bundles</description>
-    <lastBuildDate>Mon, 21 Sep 2026 04:05:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 18:02:00 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>IGN 30th Anniversary Bundle</title>
@@ -103,6 +103,13 @@
       <guid isPermaLink="false">makeplaygamesingodot_softwarebundle</guid>
       <pubDate>Fri, 04 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/a9d800fc5c88f4e103f8af9688ab042ff4b1ffbf.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9d8ff63ceda70b9b247a88cfe3015bc8"&gt;&lt;br&gt;Make &amp;amp; play your own games!&lt;br&gt;Ends: 2026-09-25</description>
+    </item>
+    <item>
+      <title>The Almighty God Games Bundle</title>
+      <link>https://www.humblebundle.com/games/almighty-god-games-bundle</link>
+      <guid isPermaLink="false">almightygodgamesbundle_bundle</guid>
+      <pubDate>Mon, 21 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/80577c975216dac3858148d1ac39712be42a9756.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9d088bde1a1f956e7172da7db6da7fda"&gt;&lt;br&gt;Play God&lt;br&gt;Ends: 2026-10-13</description>
     </item>
   </channel>
 </rss>
