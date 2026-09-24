@@ -4,7 +4,7 @@
     <title>Humble Games Bundles</title>
     <link>https://www.humblebundle.com/games</link>
     <description>Current Humble Bundle games bundles</description>
-    <lastBuildDate>Wed, 23 Sep 2026 16:26:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 03:53:39 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>IGN 30th Anniversary Bundle</title>
@@ -14,11 +14,18 @@
       <description>&lt;img src="https://hb.imgix.net/1f1228c28baab146d971a05795810a4f5ac7955d.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d298ff644b100a81d4652c966f891b6d"&gt;&lt;br&gt;Happy Anniversary to IGN &lt;br&gt;Ends: 2026-10-10</description>
     </item>
     <item>
-      <title>The Almighty God Games Bundle</title>
-      <link>https://www.humblebundle.com/games/almighty-god-games-bundle</link>
-      <guid isPermaLink="false">almightygodgamesbundle_bundle</guid>
-      <pubDate>Mon, 21 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/80577c975216dac3858148d1ac39712be42a9756.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9d088bde1a1f956e7172da7db6da7fda"&gt;&lt;br&gt;Play God&lt;br&gt;Ends: 2026-10-13</description>
+      <title>Bundle - Indie Fears</title>
+      <link>https://www.humblebundle.com/games/best-bundle-indie-fears-bundle</link>
+      <guid isPermaLink="false">bestbundleindiefearsbundle_bundle</guid>
+      <pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/981465043341f1f0bc013279e3ef9c6f41d31e33.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1a7cca66cb94f6606a924b041abf642b"&gt;&lt;br&gt;Indie thrills and chills&lt;br&gt;Ends: 2026-10-15</description>
+    </item>
+    <item>
+      <title>Trineverse Triple Co-Op Pack</title>
+      <link>https://www.humblebundle.com/games/trineverse-triple-coop-pack</link>
+      <guid isPermaLink="false">trineversetriplecooppack_bundle</guid>
+      <pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/8d89fad10119826147ba8b63c95f500dcf4fdfae.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=2f57f94eac9c92a65eb83cdb36354eb1"&gt;&lt;br&gt;Adventure comes in threes&lt;br&gt;Ends: 2026-10-15</description>
     </item>
     <item>
       <title>Dread and Dark Fantasies RPG Collection</title>
@@ -42,13 +49,6 @@
       <description>&lt;img src="https://hb.imgix.net/fbf2c487c24f3e106f56cb3ed2a273173ea67ddc.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=26ff890fe34f96bee83f4b06e2ab6173"&gt;&lt;br&gt;Experience the original action-platformer!&lt;br&gt;Ends: 2026-10-01</description>
     </item>
     <item>
-      <title>- Sniper Elite: Classics Collection</title>
-      <link>https://www.humblebundle.com/games/boh-sniper-elite-classics-collection</link>
-      <guid isPermaLink="false">bohsnipereliteclassicscollection_bundle</guid>
-      <pubDate>Tue, 15 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/32dca4041ea81a43877750e2d2b547e36c61b406.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=8e17b93e701d7a6782d55f80f35a3881"&gt;&lt;br&gt;Line up the perfect shot&lt;br&gt;Ends: 2026-10-07</description>
-    </item>
-    <item>
       <title>Run It Back - Roguelikes Bundle</title>
       <link>https://www.humblebundle.com/games/run-it-back-roguelikes-bundle</link>
       <guid isPermaLink="false">runitbackroguelikes_bundle</guid>
@@ -56,11 +56,25 @@
       <description>&lt;img src="https://hb.imgix.net/784fd04df33d252f701750304d84133aa3eead69.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5f54e1625bb23160f36026df5cf15d35"&gt;&lt;br&gt;Don’t be afraid to start over&lt;br&gt;Ends: 2026-10-03</description>
     </item>
     <item>
+      <title>The Almighty God Games Bundle</title>
+      <link>https://www.humblebundle.com/games/almighty-god-games-bundle</link>
+      <guid isPermaLink="false">almightygodgamesbundle_bundle</guid>
+      <pubDate>Mon, 21 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/80577c975216dac3858148d1ac39712be42a9756.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9d088bde1a1f956e7172da7db6da7fda"&gt;&lt;br&gt;Play God&lt;br&gt;Ends: 2026-10-13</description>
+    </item>
+    <item>
       <title>Decked Out Deckbuilders</title>
       <link>https://www.humblebundle.com/games/decked-out-deckbuilders</link>
       <guid isPermaLink="false">deckedoutdeckbuilders_bundle</guid>
       <pubDate>Fri, 11 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/4a6283328305339152c11558b939c9f1da85ae86.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9daa7e1ebd7c25869c5b637e0ac7f55b"&gt;&lt;br&gt;Build your perfect deck&lt;br&gt;Ends: 2026-10-03</description>
+    </item>
+    <item>
+      <title>- Sniper Elite: Classics Collection</title>
+      <link>https://www.humblebundle.com/games/boh-sniper-elite-classics-collection</link>
+      <guid isPermaLink="false">bohsnipereliteclassicscollection_bundle</guid>
+      <pubDate>Tue, 15 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/32dca4041ea81a43877750e2d2b547e36c61b406.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=8e17b93e701d7a6782d55f80f35a3881"&gt;&lt;br&gt;Line up the perfect shot&lt;br&gt;Ends: 2026-10-07</description>
     </item>
     <item>
       <title>Crawling Through the Dungeons</title>
