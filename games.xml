@@ -4,7 +4,7 @@
     <title>Humble Games Bundles</title>
     <link>https://www.humblebundle.com/games</link>
     <description>Current Humble Bundle games bundles</description>
-    <lastBuildDate>Fri, 25 Sep 2026 16:52:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 04:13:07 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>IGN 30th Anniversary Bundle</title>
@@ -12,6 +12,20 @@
       <guid isPermaLink="false">ign30thanniversarybundle_bundle</guid>
       <pubDate>Fri, 18 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/1f1228c28baab146d971a05795810a4f5ac7955d.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d298ff644b100a81d4652c966f891b6d"&gt;&lt;br&gt;Happy Anniversary to IGN &lt;br&gt;Ends: 2026-10-10</description>
+    </item>
+    <item>
+      <title>Gear &amp; Glory Action RPGs</title>
+      <link>https://www.humblebundle.com/games/gear-glory-action-rpgs</link>
+      <guid isPermaLink="false">geargloryactionrpgs_bundle</guid>
+      <pubDate>Fri, 25 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/eee2c7049ac7ec4927895c0f6d3ad5606dabf122.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=3867cc64acca18f1ba3f52f0de8cfe19"&gt;&lt;br&gt;For glory—and shiny new gear!&lt;br&gt;Ends: 2026-10-17</description>
+    </item>
+    <item>
+      <title>Fall into Fall Fun-dle</title>
+      <link>https://www.humblebundle.com/games/fall-into-fall-fundle</link>
+      <guid isPermaLink="false">fallintofallfundle_bundle</guid>
+      <pubDate>Fri, 25 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/66aa08ab205649ebcd44cd0244442be7ccc67e60.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=c93f8e89bec022f7ba6d3b4f44688863"&gt;&lt;br&gt;Fall for these cozy games&lt;br&gt;Ends: 2026-10-17</description>
     </item>
     <item>
       <title>Bundle - Indie Fears</title>
@@ -26,13 +40,6 @@
       <guid isPermaLink="false">trineversetriplecooppack_bundle</guid>
       <pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/8d89fad10119826147ba8b63c95f500dcf4fdfae.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=2f57f94eac9c92a65eb83cdb36354eb1"&gt;&lt;br&gt;Adventure comes in threes&lt;br&gt;Ends: 2026-10-15</description>
-    </item>
-    <item>
-      <title>Dread and Dark Fantasies RPG Collection</title>
-      <link>https://www.humblebundle.com/games/dread-and-dark-fantasies-rpg-collection</link>
-      <guid isPermaLink="false">dreadanddarkfantasiesrpgcollection_bundle</guid>
-      <pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/1a9830034ec9bb05461d42e85b9577b7da4e3719.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=efdcbd925e7d9e66bfa4f1157d126a08"&gt;&lt;br&gt;Explore the depths of dark fantasy RPGs&lt;br&gt;Ends: 2026-09-26</description>
     </item>
     <item>
       <title>CRPG Pack: Isometric Immersion</title>
@@ -84,13 +91,6 @@
       <description>&lt;img src="https://hb.imgix.net/5c973c49053ca76c679124491a28675d9da28ce7.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=ad858d48c033bb7cccc9d27f300ab2ff"&gt;&lt;br&gt;The depths are calling your name!&lt;br&gt;Ends: 2026-10-01</description>
     </item>
     <item>
-      <title>Narrative Masterpieces</title>
-      <link>https://www.humblebundle.com/games/narrative-masterpieces</link>
-      <guid isPermaLink="false">narrativemasterpieces_bundle</guid>
-      <pubDate>Fri, 04 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/237e287090cb6be66d645d2f3051821b90c178f7.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=f9bf2076bd9175bb45b4f7d52f0939c7"&gt;&lt;br&gt;Step into the story of Narrative Masterpieces!&lt;br&gt;Ends: 2026-09-26</description>
-    </item>
-    <item>
       <title>Garbage Dwellers</title>
       <link>https://www.humblebundle.com/games/garbage-dwellers</link>
       <guid isPermaLink="false">garbagedwellers_bundle</guid>
@@ -116,7 +116,7 @@
       <link>https://www.humblebundle.com/games/make-play-games-in-godot-software</link>
       <guid isPermaLink="false">makeplaygamesingodot_softwarebundle</guid>
       <pubDate>Fri, 04 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/a9d800fc5c88f4e103f8af9688ab042ff4b1ffbf.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9d8ff63ceda70b9b247a88cfe3015bc8"&gt;&lt;br&gt;Make &amp;amp; play your own games!&lt;br&gt;Ends: 2026-09-25</description>
+      <description>&lt;img src="https://hb.imgix.net/a9d800fc5c88f4e103f8af9688ab042ff4b1ffbf.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9d8ff63ceda70b9b247a88cfe3015bc8"&gt;&lt;br&gt;Make &amp;amp; play your own games!&lt;br&gt;Ends: 2026-10-02</description>
     </item>
   </channel>
 </rss>

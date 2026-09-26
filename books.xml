@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Fri, 25 Sep 2026 16:52:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 04:13:07 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Batman Day Comics Bundle by DC Comics</title>
@@ -84,13 +84,6 @@
       <description>&lt;img src="https://hb.imgix.net/f1caef1f2aa1c6aec94f07c131837c203abc8b1e.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=bb7583350bd98bdf2bafae7567f22940"&gt;&lt;br&gt;Make it in modern design&lt;br&gt;Ends: 2026-09-29</description>
     </item>
     <item>
-      <title>The EC Comics Artists Library by Fantagraphics</title>
-      <link>https://www.humblebundle.com/books/ec-comics-artists-library-fantagraphics-books</link>
-      <guid isPermaLink="false">eccomicsartistslibraryfantagraphics_bookbundle</guid>
-      <pubDate>Fri, 14 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/635eaa206d12b7243e8e0fa5e88d9d208138e74b.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d1eda343f5364598ce0b162042d17621"&gt;&lt;br&gt;Celebrate the art of these fantastic comics&lt;br&gt;Ends: 2026-09-25</description>
-    </item>
-    <item>
       <title>Image in the '20s: A Megabundle by Image Comics</title>
       <link>https://www.humblebundle.com/books/image-in-20s-megabundle-image-comics-books</link>
       <guid isPermaLink="false">imagein20smegabundleimagecomics_bookbundle</guid>
@@ -133,6 +126,13 @@
       <description>&lt;img src="https://hb.imgix.net/48d9fb72bdf7b44f554fc40fd83d01ebcaa99d02.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=576eb764f980a4edc4ff65123ee0224e"&gt;&lt;br&gt;Celebrate the birthday of one of sci-fi’s masters&lt;br&gt;Ends: 2026-10-01</description>
     </item>
     <item>
+      <title>The Best of C.J. Cherryh by Daw Books</title>
+      <link>https://www.humblebundle.com/books/best-cj-cherryh-daw-books-books</link>
+      <guid isPermaLink="false">bestcjcherryhdawbooks_bookbundle</guid>
+      <pubDate>Thu, 03 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/6526ad9f7042b6756a41541512accab1d418487b.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=7e7f4ba81d32ff17422aff73694a579d"&gt;&lt;br&gt;C.J. Cherryh’s universes await&lt;br&gt;Ends: 2026-10-08</description>
+    </item>
+    <item>
       <title>Kurt Busiek's Astro City: The 30th Anniversary by Image Comics</title>
       <link>https://www.humblebundle.com/books/kurt-busieks-astro-city-30th-anniversary-image-comics-books</link>
       <guid isPermaLink="false">kurtbusieksastrocity30thanniversaryimagecomics_bookbundle</guid>
@@ -152,13 +152,6 @@
       <guid isPermaLink="false">bestbrianwaldissopenroadmedia_bookbundle</guid>
       <pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/438a9cb6210a71929483115085bde69c7631e539.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=01e22751579d5af7fa2861d4bbaa41b9"&gt;&lt;br&gt;Sci-fi like you’ve never seen it before&lt;br&gt;Ends: 2026-10-14</description>
-    </item>
-    <item>
-      <title>Dying Earth RPG Collection</title>
-      <link>https://www.humblebundle.com/books/dying-earth-rpg-collection-book</link>
-      <guid isPermaLink="false">dyingearthrpgcollection_bookrbundle</guid>
-      <pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/d6f11b9675ab97a9d709b43b92f387e335f659e5.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=08a9040e156c079d3ece260b3be65ffa"&gt;&lt;br&gt;Quips cut deeper than swords!&lt;br&gt;Ends: 2026-09-25</description>
     </item>
   </channel>
 </rss>
