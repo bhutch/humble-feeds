@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Sun, 27 Sep 2026 04:28:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 16:40:00 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Batman Day Comics Bundle by DC Comics</title>
@@ -133,13 +133,6 @@
       <description>&lt;img src="https://hb.imgix.net/4a0d4b135f55dc62bd800a397819ea71c355eb24.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=6692f06c073c3fa71bcdc78f24bf936d"&gt;&lt;br&gt;Award-winning comics by Kurt Busiek&lt;br&gt;Ends: 2026-10-07</description>
     </item>
     <item>
-      <title>Gatchaman and Speed Racer by Mad Cave Studios</title>
-      <link>https://www.humblebundle.com/books/gatchaman-and-speed-racer-mad-cave-studios-books</link>
-      <guid isPermaLink="false">gatchamanandspeedracermadcavestudios_bookbundle</guid>
-      <pubDate>Sat, 26 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/6ebc84e7fd060d8648eb1541c4bf91b9606fcc3a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=b792419ea9e9ce21f74c9e266aac3e66"&gt;&lt;br&gt;Catch up with Speed Racer &amp;amp; friends!&lt;br&gt;Ends: 2026-10-17</description>
-    </item>
-    <item>
       <title>Joe Haldeman: The Forever War and Beyond by Open Road Media</title>
       <link>https://www.humblebundle.com/books/joe-haldeman-forever-war-and-beyond-open-road-media-books</link>
       <guid isPermaLink="false">joehaldemanforeverwarandbeyondopenroadmedia_bookbundle</guid>
@@ -152,6 +145,13 @@
       <guid isPermaLink="false">bestbrianwaldissopenroadmedia_bookbundle</guid>
       <pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/438a9cb6210a71929483115085bde69c7631e539.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=01e22751579d5af7fa2861d4bbaa41b9"&gt;&lt;br&gt;Sci-fi like you’ve never seen it before&lt;br&gt;Ends: 2026-10-14</description>
+    </item>
+    <item>
+      <title>Gatchaman and Speed Racer by Mad Cave Studios</title>
+      <link>https://www.humblebundle.com/books/gatchaman-and-speed-racer-mad-cave-studios-books</link>
+      <guid isPermaLink="false">gatchamanandspeedracermadcavestudios_bookbundle</guid>
+      <pubDate>Sat, 26 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/6ebc84e7fd060d8648eb1541c4bf91b9606fcc3a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=b792419ea9e9ce21f74c9e266aac3e66"&gt;&lt;br&gt;Catch up with Speed Racer &amp;amp; friends!&lt;br&gt;Ends: 2026-10-17</description>
     </item>
   </channel>
 </rss>
