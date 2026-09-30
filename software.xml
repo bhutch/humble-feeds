@@ -4,7 +4,7 @@
     <title>Humble Software Bundles</title>
     <link>https://www.humblebundle.com/software</link>
     <description>Current Humble Bundle software bundles</description>
-    <lastBuildDate>Wed, 30 Sep 2026 04:45:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:47:51 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Best of Synty Game Dev Assets Bundle 6</title>
@@ -112,13 +112,6 @@
       <description>&lt;img src="https://hb.imgix.net/ad83eb754243f058045dbcd0f551ca3d76975b16.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=a30664fbd6fcad9d47bbb26403bb8783"&gt;&lt;br&gt;Unlock your creativity&lt;br&gt;Ends: 2026-09-30</description>
     </item>
     <item>
-      <title>Learn to Make Games in GODOT 2026</title>
-      <link>https://www.humblebundle.com/software/learn-to-make-games-in-godot-2026-software</link>
-      <guid isPermaLink="false">learntomakegamesingodot2026_softwarebundle</guid>
-      <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/4081672b8538873e43afe3538606c58884f73baf.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=82ce56fd80b5d6967b7ce0faa2f93937"&gt;&lt;br&gt;Imagine your future as a game developer!&lt;br&gt;Ends: 2026-10-13</description>
-    </item>
-    <item>
       <title>Ultimate Game Audio Bundle - Access 300,000 Premium Music and Sound Effects</title>
       <link>https://www.humblebundle.com/software/ultimate-game-audio-bundle-access-300000-premium-music-and-sound-effects-software</link>
       <guid isPermaLink="false">ultimategameaudiobundleaccess300000premiummusicandsoundeffects_softwarebundle</guid>
@@ -133,6 +126,13 @@
       <description>&lt;img src="https://hb.imgix.net/302446d9dabeebaf6d020e0c1af05872ce77e873.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=baee53141a925bd251af8483d1881c2a"&gt;&lt;br&gt;Flex your miniature printing might&lt;br&gt;Ends: 2026-09-30</description>
     </item>
     <item>
+      <title>Learn to Make Games in GODOT 2026</title>
+      <link>https://www.humblebundle.com/software/learn-to-make-games-in-godot-2026-software</link>
+      <guid isPermaLink="false">learntomakegamesingodot2026_softwarebundle</guid>
+      <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/4081672b8538873e43afe3538606c58884f73baf.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=82ce56fd80b5d6967b7ce0faa2f93937"&gt;&lt;br&gt;Imagine your future as a game developer!&lt;br&gt;Ends: 2026-10-13</description>
+    </item>
+    <item>
       <title>Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures</title>
       <link>https://www.humblebundle.com/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software</link>
       <guid isPermaLink="false">lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle</guid>
@@ -140,18 +140,18 @@
       <description>&lt;img src="https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5ff106f7d300b5ab77b47c7200b00420"&gt;&lt;br&gt;Spine-crawling Lovecraftian miniatures await.&lt;br&gt;Ends: 2026-10-13</description>
     </item>
     <item>
-      <title>Mega Unreal Engine Bundle</title>
-      <link>https://www.humblebundle.com/software/mega-unreal-engine-bundle-software</link>
-      <guid isPermaLink="false">megaunrealenginebundle_softwarebundle</guid>
-      <pubDate>Mon, 21 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/a9616ec83451752a4a7e56d1b2ec2dd3bea0268d.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=4acc3e2042bfc75aaeef88643df0004b"&gt;&lt;br&gt;Upgrade your Unreal Engine asset library&lt;br&gt;Ends: 2026-10-12</description>
-    </item>
-    <item>
       <title>Game Dev Mega Cities</title>
       <link>https://www.humblebundle.com/software/game-dev-mega-cities-software</link>
       <guid isPermaLink="false">gamedevmegacities_softwarebundle</guid>
       <pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=485935e678bf2776efa0fb99a8e39255"&gt;&lt;br&gt;Build next-gen mega cities with 500+ Assets! &lt;br&gt;Ends: 2026-10-20</description>
+    </item>
+    <item>
+      <title>Mega Unreal Engine Bundle</title>
+      <link>https://www.humblebundle.com/software/mega-unreal-engine-bundle-software</link>
+      <guid isPermaLink="false">megaunrealenginebundle_softwarebundle</guid>
+      <pubDate>Mon, 21 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/a9616ec83451752a4a7e56d1b2ec2dd3bea0268d.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=4acc3e2042bfc75aaeef88643df0004b"&gt;&lt;br&gt;Upgrade your Unreal Engine asset library&lt;br&gt;Ends: 2026-10-12</description>
     </item>
     <item>
       <title>Ultimate SFX for Games</title>
