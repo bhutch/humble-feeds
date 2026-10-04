@@ -4,7 +4,7 @@
     <title>Humble Games Bundles</title>
     <link>https://www.humblebundle.com/games</link>
     <description>Current Humble Bundle games bundles</description>
-    <lastBuildDate>Sun, 04 Oct 2026 05:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:39:01 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>IGN 30th Anniversary Bundle</title>
@@ -110,6 +110,27 @@
       <guid isPermaLink="false">garbagedwellers_bundle</guid>
       <pubDate>Fri, 18 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/e0df5c7a2868238573e38f8e5bc648c448437839.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=58264216e4e7538b357ed5c9d093049b"&gt;&lt;br&gt;One man's trash is another man’s treasure.&lt;br&gt;Ends: 2026-10-10</description>
+    </item>
+    <item>
+      <title>Indies in Space</title>
+      <link>https://www.humblebundle.com/games/indies-in-space</link>
+      <guid isPermaLink="false">indiesinspace_bundle</guid>
+      <pubDate>Wed, 16 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/258c14aba7fcb20faf1abe8c7714c9bd6afe4873.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=98cd778a0c4267952a5a091ecb78f3db"&gt;&lt;br&gt;Take to the stars&lt;br&gt;Ends: 2026-10-08</description>
+    </item>
+    <item>
+      <title>Assemble Entertainment Cozy Games Collection</title>
+      <link>https://www.humblebundle.com/games/assemble-entertainment-cozy-games-collection</link>
+      <guid isPermaLink="false">assembleentertainmentcozygamescollection_bundle</guid>
+      <pubDate>Wed, 16 Sep 2026 20:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/e62d7f8049adcf8477f74091677c8fd9d90b2b06.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=ccb7db6a68800a9c8103767962d3a16f"&gt;&lt;br&gt;Cozy up to great games this fall&lt;br&gt;Ends: 2026-10-08</description>
+    </item>
+    <item>
+      <title>Make &amp; Play Games in Godot</title>
+      <link>https://www.humblebundle.com/games/make-play-games-in-godot-software</link>
+      <guid isPermaLink="false">makeplaygamesingodot_softwarebundle</guid>
+      <pubDate>Fri, 04 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/a9d800fc5c88f4e103f8af9688ab042ff4b1ffbf.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9d8ff63ceda70b9b247a88cfe3015bc8"&gt;&lt;br&gt;Make &amp;amp; play your own games!&lt;br&gt;Ends: 2026-10-09</description>
     </item>
   </channel>
 </rss>
