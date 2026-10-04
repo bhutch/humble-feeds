@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Sat, 03 Oct 2026 15:57:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 05:01:20 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Software Architecture 2026 by O'Reilly</title>
@@ -12,13 +12,6 @@
       <guid isPermaLink="false">softwarearchitecture2026oreilly_bookbundle</guid>
       <pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/d0f222d428e55bd3a60cd2d419b753b58032126c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=f7bf4635cfd1312a2600e4e5568aef2f"&gt;&lt;br&gt;Evolve your architecture skillsets with ease&lt;br&gt;Ends: 2026-10-05</description>
-    </item>
-    <item>
-      <title>Dungeon Master's Guild Top Content from the D&amp;D Community</title>
-      <link>https://www.humblebundle.com/books/dungeon-masters-guild-top-content-from-dd-community-books</link>
-      <guid isPermaLink="false">dungeonmastersguildtopcontentfromddcommunity_bookbundle</guid>
-      <pubDate>Sat, 12 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/5563d36d5ea56e563106c7dd277083ea506328ad.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=ebb2aa2f68f7153f6d9466b93c924083"&gt;&lt;br&gt;Top-rated adventures&lt;br&gt;Ends: 2026-10-03</description>
     </item>
     <item>
       <title>AI in Production: Governance, Reliability, and Application by Manning</title>
@@ -119,13 +112,6 @@
       <description>&lt;img src="https://hb.imgix.net/b0bfca53c721b412281fe48d1fdf54f868871d52.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d10328192f10a0f74a000ada33a12445"&gt;&lt;br&gt;Fortify your digital worlds with elite cybersecurity.&lt;br&gt;Ends: 2026-10-31</description>
     </item>
     <item>
-      <title>Masters of the Craft: A Megabundle by Valiant Entertainment</title>
-      <link>https://www.humblebundle.com/books/masters-craft-megabundle-valiant-entertainment-books</link>
-      <guid isPermaLink="false">masterscraftmegabundlevaliantentertainment_bookbundle</guid>
-      <pubDate>Sat, 29 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/15924b6cd96e5298e858ef7cc06fb5b84430b7ee.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=28b406315032972b42fe36470f14b7de"&gt;&lt;br&gt;THE LEGENDS OF VALIANT — ALL IN ONE INCREDIBLE COLLECTION&lt;br&gt;Ends: 2026-10-03</description>
-    </item>
-    <item>
       <title>The Best of Brian W. Aldiss by Open Road Media</title>
       <link>https://www.humblebundle.com/books/best-brian-w-aldiss-open-road-media-books</link>
       <guid isPermaLink="false">bestbrianwaldissopenroadmedia_bookbundle</guid>
@@ -138,6 +124,13 @@
       <guid isPermaLink="false">imagein20smegabundleimagecomics_bookbundle</guid>
       <pubDate>Mon, 24 Aug 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/a55b5be99fd4aeb06b3ad4616e0bd658ba6256d3.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=7e30ec3bc3d27cb024c82bed1e929d05"&gt;&lt;br&gt;New favorites, modern classics&lt;br&gt;Ends: 2026-10-05</description>
+    </item>
+    <item>
+      <title>Gamer's Kitchen Cookbooks by Insight Editions</title>
+      <link>https://www.humblebundle.com/books/gamers-kitchen-cookbooks-insight-editions-books</link>
+      <guid isPermaLink="false">gamerskitchencookbooksinsighteditions_bookbundle</guid>
+      <pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/5dddb96db4bfc7b717dfe54780277cd900172bb8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1aeb1430e837d6bde1cd24e12ecf15c3"&gt;&lt;br&gt;Games have never looked so delicious&lt;br&gt;Ends: 2026-10-24</description>
     </item>
   </channel>
 </rss>
