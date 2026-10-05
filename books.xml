@@ -4,21 +4,14 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Mon, 05 Oct 2026 04:48:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 20:23:01 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
-    <item>
-      <title>Software Architecture 2026 by O'Reilly</title>
-      <link>https://www.humblebundle.com/books/software-architecture-2026-oreilly-books</link>
-      <guid isPermaLink="false">softwarearchitecture2026oreilly_bookbundle</guid>
-      <pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/d0f222d428e55bd3a60cd2d419b753b58032126c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=f7bf4635cfd1312a2600e4e5568aef2f"&gt;&lt;br&gt;Evolve your architecture skillsets with ease&lt;br&gt;Ends: 2026-10-05</description>
-    </item>
     <item>
       <title>AI in Production: Governance, Reliability, and Application by Manning</title>
       <link>https://www.humblebundle.com/books/ai-in-production-governance-reliability-and-application-manning-books</link>
       <guid isPermaLink="false">aiinproductiongovernancereliabilityandapplicationmanning_bookbundle</guid>
       <pubDate>Mon, 14 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/0c70764834e41cb421624dacef6c950a907eb2ad.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5180a57ddfc178df7fefd3cb18c44420"&gt;&lt;br&gt;Streamline your production environments with AI&lt;br&gt;Ends: 2026-10-05</description>
+      <description>&lt;img src="https://hb.imgix.net/0c70764834e41cb421624dacef6c950a907eb2ad.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5180a57ddfc178df7fefd3cb18c44420"&gt;&lt;br&gt;Streamline your production environments with AI&lt;br&gt;Ends: 2026-10-12</description>
     </item>
     <item>
       <title>The Ultimate Gene Wolfe Library by Tor Books</title>
@@ -119,18 +112,18 @@
       <description>&lt;img src="https://hb.imgix.net/438a9cb6210a71929483115085bde69c7631e539.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=01e22751579d5af7fa2861d4bbaa41b9"&gt;&lt;br&gt;Sci-fi like you’ve never seen it before&lt;br&gt;Ends: 2026-10-14</description>
     </item>
     <item>
-      <title>Image in the '20s: A Megabundle by Image Comics</title>
-      <link>https://www.humblebundle.com/books/image-in-20s-megabundle-image-comics-books</link>
-      <guid isPermaLink="false">imagein20smegabundleimagecomics_bookbundle</guid>
-      <pubDate>Mon, 24 Aug 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/a55b5be99fd4aeb06b3ad4616e0bd658ba6256d3.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=7e30ec3bc3d27cb024c82bed1e929d05"&gt;&lt;br&gt;New favorites, modern classics&lt;br&gt;Ends: 2026-10-05</description>
-    </item>
-    <item>
       <title>Gamer's Kitchen Cookbooks by Insight Editions</title>
       <link>https://www.humblebundle.com/books/gamers-kitchen-cookbooks-insight-editions-books</link>
       <guid isPermaLink="false">gamerskitchencookbooksinsighteditions_bookbundle</guid>
       <pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/5dddb96db4bfc7b717dfe54780277cd900172bb8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1aeb1430e837d6bde1cd24e12ecf15c3"&gt;&lt;br&gt;Games have never looked so delicious&lt;br&gt;Ends: 2026-10-24</description>
+    </item>
+    <item>
+      <title>Excel by Wiley</title>
+      <link>https://www.humblebundle.com/books/excel-wiley-books</link>
+      <guid isPermaLink="false">excelwiley_bookbundle</guid>
+      <pubDate>Mon, 05 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/bf4f5bc7a29a330fc4d7a1e2810a9161f8ad2281.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=71fd913a8d23d975eb0fb3e993360170"&gt;&lt;br&gt;Excel-erate your output with Microsoft 365&lt;br&gt;Ends: 2026-10-26</description>
     </item>
   </channel>
 </rss>
