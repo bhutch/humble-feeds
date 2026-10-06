@@ -4,7 +4,7 @@
     <title>Humble Software Bundles</title>
     <link>https://www.humblebundle.com/software</link>
     <description>Current Humble Bundle software bundles</description>
-    <lastBuildDate>Mon, 05 Oct 2026 20:23:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 05:35:04 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Best of Synty Game Dev Assets Bundle 6</title>
@@ -77,18 +77,18 @@
       <description>&lt;img src="https://hb.imgix.net/9a8180989947c8cd1594b150804c7a0cce2b414c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5fe971d0bacd256598220655ec9e6682"&gt;&lt;br&gt;Elite animations for professionals and digital artists&lt;br&gt;Ends: 2026-10-07</description>
     </item>
     <item>
+      <title>The Complete AI Solopreneur Bundle</title>
+      <link>https://www.humblebundle.com/software/complete-ai-solopreneur-bundle-software</link>
+      <guid isPermaLink="false">completeaisolopreneurbundle_softwarebundle</guid>
+      <pubDate>Mon, 05 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/637f71e8c077d934ab61250a205bdca00e26f336.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=46247674bd53bbfa3b45e801615eb802"&gt;&lt;br&gt;Become your own business&lt;br&gt;Ends: 2026-10-26</description>
+    </item>
+    <item>
       <title>World Builders: Horrors and Haunts</title>
       <link>https://www.humblebundle.com/software/world-builders-horrors-and-haunts-software</link>
       <guid isPermaLink="false">worldbuildershorrorsandhaunts_softwarebundle</guid>
       <pubDate>Mon, 05 Oct 2026 20:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/1e3a667bc61a77720d15b113086d4ff4e846ab84.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=64b2a7f22bd998cdb9b450cb28df7b63"&gt;&lt;br&gt;Fill your games with frights&lt;br&gt;Ends: 2026-10-26</description>
-    </item>
-    <item>
-      <title>Learn to Make Games in GODOT 2026</title>
-      <link>https://www.humblebundle.com/software/learn-to-make-games-in-godot-2026-software</link>
-      <guid isPermaLink="false">learntomakegamesingodot2026_softwarebundle</guid>
-      <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/4081672b8538873e43afe3538606c58884f73baf.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=82ce56fd80b5d6967b7ce0faa2f93937"&gt;&lt;br&gt;Imagine your future as a game developer!&lt;br&gt;Ends: 2026-10-13</description>
     </item>
     <item>
       <title>Unreal Engine Real-Time Simulation &amp; FX Suite</title>
@@ -98,6 +98,27 @@
       <description>&lt;img src="https://hb.imgix.net/f167efb5143e87c82a2a6fbde8028dfb7adbde73.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=af1eda697b873137877d8ba440f87eb0"&gt;&lt;br&gt;Add real-life richness to your next build&lt;br&gt;Ends: 2026-10-12</description>
     </item>
     <item>
+      <title>Dungeon Adventures! - 3D Printable Miniatures &amp; Scenery</title>
+      <link>https://www.humblebundle.com/software/dungeon-adventures-3d-printable-miniatures-scenery-software</link>
+      <guid isPermaLink="false">dungeonadventures3dprintableminiaturesscenery_softwarebundle</guid>
+      <pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/7354fc9f5e3c3edf7bedfca60a35ef1ec4a52d90.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=f83797c58ca5e761d2a25adfe28769c5"&gt;&lt;br&gt;Bring your dungeon to life&lt;br&gt;Ends: 2026-10-24</description>
+    </item>
+    <item>
+      <title>Learn to Make Games in GODOT 2026</title>
+      <link>https://www.humblebundle.com/software/learn-to-make-games-in-godot-2026-software</link>
+      <guid isPermaLink="false">learntomakegamesingodot2026_softwarebundle</guid>
+      <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/4081672b8538873e43afe3538606c58884f73baf.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=82ce56fd80b5d6967b7ce0faa2f93937"&gt;&lt;br&gt;Imagine your future as a game developer!&lt;br&gt;Ends: 2026-10-13</description>
+    </item>
+    <item>
+      <title>The All-Inclusive Codex, Claude Code &amp; Python Automation Bundle</title>
+      <link>https://www.humblebundle.com/software/allinclusive-codex-claude-code-python-automation-bundle-software</link>
+      <guid isPermaLink="false">allinclusivecodexclaudecodepythonautomationbundle_softwarebundle</guid>
+      <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/f62ccfc24590c358d459e6b4a3ba68a454af0c3e.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=8a2620745da1bcd6a300acfb36768b8b"&gt;&lt;br&gt;Welcome to your all-inclusive Claude Coding resort!&lt;br&gt;Ends: 2026-10-07</description>
+    </item>
+    <item>
       <title>Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures</title>
       <link>https://www.humblebundle.com/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software</link>
       <guid isPermaLink="false">lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle</guid>
@@ -105,11 +126,18 @@
       <description>&lt;img src="https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5ff106f7d300b5ab77b47c7200b00420"&gt;&lt;br&gt;Spine-crawling Lovecraftian miniatures await.&lt;br&gt;Ends: 2026-10-13</description>
     </item>
     <item>
-      <title>Picture Perfect - The Ultimate Photo &amp; Video Bundle</title>
-      <link>https://www.humblebundle.com/software/picture-perfect-ultimate-photo-video-bundle-software</link>
-      <guid isPermaLink="false">pictureperfectultimatephotovideobundle_softwarebundle</guid>
-      <pubDate>Thu, 01 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/a3e162a702ac7c75d2978508e82140cfe88d9c9b.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=0e6d1b03b835293e0c0c96c36b5470a2"&gt;&lt;br&gt;Enhance your photos and videos like a pro&lt;br&gt;Ends: 2026-10-22</description>
+      <title>Back to School Linux, Red Hat, Kubernetes and Cybersecurity Certification Bundle with Practice Exams</title>
+      <link>https://www.humblebundle.com/software/back-to-school-certification-bundle-with-practice-exams-software</link>
+      <guid isPermaLink="false">back-to-school-certification-bundle-with-practice-exams_softwarebundle</guid>
+      <pubDate>Thu, 03 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/6fd8cbe985fa566008c7a529ce7624626b50ab3c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=b9652fcdf2033b68e7b30370812fa2f3"&gt;&lt;br&gt;It’s a back-to-school cybersecurity bonanza!&lt;br&gt;Ends: 2026-10-08</description>
+    </item>
+    <item>
+      <title>Ultimate Fantasy Miniatures Bundle</title>
+      <link>https://www.humblebundle.com/software/ultimate-fantasy-miniatures-bundle-software</link>
+      <guid isPermaLink="false">ultimatefantasyminiaturesbundle_softwarebundle</guid>
+      <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/302446d9dabeebaf6d020e0c1af05872ce77e873.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=baee53141a925bd251af8483d1881c2a"&gt;&lt;br&gt;Flex your miniature printing might&lt;br&gt;Ends: 2026-10-07</description>
     </item>
     <item>
       <title>Ultimate SFX for Games</title>
@@ -126,6 +154,20 @@
       <description>&lt;img src="https://hb.imgix.net/a9616ec83451752a4a7e56d1b2ec2dd3bea0268d.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=4acc3e2042bfc75aaeef88643df0004b"&gt;&lt;br&gt;Upgrade your Unreal Engine asset library&lt;br&gt;Ends: 2026-10-12</description>
     </item>
     <item>
+      <title>Picture Perfect - The Ultimate Photo &amp; Video Bundle</title>
+      <link>https://www.humblebundle.com/software/picture-perfect-ultimate-photo-video-bundle-software</link>
+      <guid isPermaLink="false">pictureperfectultimatephotovideobundle_softwarebundle</guid>
+      <pubDate>Thu, 01 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/a3e162a702ac7c75d2978508e82140cfe88d9c9b.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=0e6d1b03b835293e0c0c96c36b5470a2"&gt;&lt;br&gt;Enhance your photos and videos like a pro&lt;br&gt;Ends: 2026-10-22</description>
+    </item>
+    <item>
+      <title>Meshingun All-Stars</title>
+      <link>https://www.humblebundle.com/software/meshingun-allstars-software</link>
+      <guid isPermaLink="false">meshingunallstars_softwarebundle</guid>
+      <pubDate>Thu, 03 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/a82c9c2af95ea601fb7c977ec9ed95d2e2d6531c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=ef369650cd3acf8dfe7b117ea91f6897"&gt;&lt;br&gt;Hey now, Asset All-Star!&lt;br&gt;Ends: 2026-10-08</description>
+    </item>
+    <item>
       <title>Ultimate Game Audio Bundle - Access 300,000 Premium Music and Sound Effects</title>
       <link>https://www.humblebundle.com/software/ultimate-game-audio-bundle-access-300000-premium-music-and-sound-effects-software</link>
       <guid isPermaLink="false">ultimategameaudiobundleaccess300000premiummusicandsoundeffects_softwarebundle</guid>
@@ -140,27 +182,6 @@
       <description>&lt;img src="https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=485935e678bf2776efa0fb99a8e39255"&gt;&lt;br&gt;Build next-gen mega cities with 500+ Assets! &lt;br&gt;Ends: 2026-10-20</description>
     </item>
     <item>
-      <title>Dungeon Adventures! - 3D Printable Miniatures &amp; Scenery</title>
-      <link>https://www.humblebundle.com/software/dungeon-adventures-3d-printable-miniatures-scenery-software</link>
-      <guid isPermaLink="false">dungeonadventures3dprintableminiaturesscenery_softwarebundle</guid>
-      <pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/7354fc9f5e3c3edf7bedfca60a35ef1ec4a52d90.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=f83797c58ca5e761d2a25adfe28769c5"&gt;&lt;br&gt;Bring your dungeon to life&lt;br&gt;Ends: 2026-10-24</description>
-    </item>
-    <item>
-      <title>Back to School Linux, Red Hat, Kubernetes and Cybersecurity Certification Bundle with Practice Exams</title>
-      <link>https://www.humblebundle.com/software/back-to-school-certification-bundle-with-practice-exams-software</link>
-      <guid isPermaLink="false">back-to-school-certification-bundle-with-practice-exams_softwarebundle</guid>
-      <pubDate>Thu, 03 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/6fd8cbe985fa566008c7a529ce7624626b50ab3c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=b9652fcdf2033b68e7b30370812fa2f3"&gt;&lt;br&gt;It’s a back-to-school cybersecurity bonanza!&lt;br&gt;Ends: 2026-10-08</description>
-    </item>
-    <item>
-      <title>Meshingun All-Stars</title>
-      <link>https://www.humblebundle.com/software/meshingun-allstars-software</link>
-      <guid isPermaLink="false">meshingunallstars_softwarebundle</guid>
-      <pubDate>Thu, 03 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/a82c9c2af95ea601fb7c977ec9ed95d2e2d6531c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=ef369650cd3acf8dfe7b117ea91f6897"&gt;&lt;br&gt;Hey now, Asset All-Star!&lt;br&gt;Ends: 2026-10-08</description>
-    </item>
-    <item>
       <title>Best Core Game Dev Assets &amp; Tools Megabundle</title>
       <link>https://www.humblebundle.com/software/best-core-game-dev-assets-tools-megabundle-software</link>
       <guid isPermaLink="false">bestcoregamedevassetstoolsmegabundle_softwarebundle</guid>
@@ -168,32 +189,11 @@
       <description>&lt;img src="https://hb.imgix.net/13d68fc2a5f0ee7700d4646c7585d21083af234f.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=f5486671db41c99de87412a9b6537008"&gt;&lt;br&gt;Build better games, faster&lt;br&gt;Ends: 2026-10-15</description>
     </item>
     <item>
-      <title>The All-Inclusive Codex, Claude Code &amp; Python Automation Bundle</title>
-      <link>https://www.humblebundle.com/software/allinclusive-codex-claude-code-python-automation-bundle-software</link>
-      <guid isPermaLink="false">allinclusivecodexclaudecodepythonautomationbundle_softwarebundle</guid>
-      <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/f62ccfc24590c358d459e6b4a3ba68a454af0c3e.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=8a2620745da1bcd6a300acfb36768b8b"&gt;&lt;br&gt;Welcome to your all-inclusive Claude Coding resort!&lt;br&gt;Ends: 2026-10-07</description>
-    </item>
-    <item>
-      <title>Ultimate Fantasy Miniatures Bundle</title>
-      <link>https://www.humblebundle.com/software/ultimate-fantasy-miniatures-bundle-software</link>
-      <guid isPermaLink="false">ultimatefantasyminiaturesbundle_softwarebundle</guid>
-      <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/302446d9dabeebaf6d020e0c1af05872ce77e873.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=baee53141a925bd251af8483d1881c2a"&gt;&lt;br&gt;Flex your miniature printing might&lt;br&gt;Ends: 2026-10-07</description>
-    </item>
-    <item>
       <title>Miniatures and Mayhem: Adventures, Supplements and 3D Printables</title>
       <link>https://www.humblebundle.com/software/miniatures-and-mayhem-adventures-supplements-and-3d-printables-software</link>
       <guid isPermaLink="false">miniaturesandmayhemadventuressupplementsand3dprintables_softwarebundle</guid>
       <pubDate>Fri, 25 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/ca4849b3076cd3608c03e07dc97a9c27047a0b9a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=73af4c9f61d7ca140db70251afd9d0dd"&gt;&lt;br&gt;Madness, printed and printable&lt;br&gt;Ends: 2026-10-16</description>
-    </item>
-    <item>
-      <title>The Complete AI Solopreneur Bundle</title>
-      <link>https://www.humblebundle.com/software/complete-ai-solopreneur-bundle-software</link>
-      <guid isPermaLink="false">completeaisolopreneurbundle_softwarebundle</guid>
-      <pubDate>Mon, 05 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/637f71e8c077d934ab61250a205bdca00e26f336.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=46247674bd53bbfa3b45e801615eb802"&gt;&lt;br&gt;Become your own business&lt;br&gt;Ends: 2026-10-26</description>
     </item>
   </channel>
 </rss>
