@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Tue, 06 Oct 2026 05:35:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:06:31 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>The Ultimate Gene Wolfe Library by Tor Books</title>
@@ -25,7 +25,7 @@
       <link>https://www.humblebundle.com/books/legend-in-mist-otherscape-rpg-collection-son-oak-books</link>
       <guid isPermaLink="false">legendinmistotherscaperpgcollectionsonoak_bookbundle</guid>
       <pubDate>Tue, 15 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/083d3305d782c41945da1b50a8cbd5deae483764.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=263577fbce4ece5181f8802f4cd12821"&gt;&lt;br&gt;High fantasies, tech dystopias, and beyond&lt;br&gt;Ends: 2026-10-06</description>
+      <description>&lt;img src="https://hb.imgix.net/083d3305d782c41945da1b50a8cbd5deae483764.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=263577fbce4ece5181f8802f4cd12821"&gt;&lt;br&gt;High fantasies, tech dystopias, and beyond&lt;br&gt;Ends: 2026-10-13</description>
     </item>
     <item>
       <title>Joe Haldeman: The Forever War and Beyond by Open Road Media</title>
@@ -61,13 +61,6 @@
       <guid isPermaLink="false">excelwiley_bookbundle</guid>
       <pubDate>Mon, 05 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/bf4f5bc7a29a330fc4d7a1e2810a9161f8ad2281.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=71fd913a8d23d975eb0fb3e993360170"&gt;&lt;br&gt;Excel-erate your output with Microsoft 365&lt;br&gt;Ends: 2026-10-26</description>
-    </item>
-    <item>
-      <title>The Original Worlds of Timothy Zahn by Open Road Media</title>
-      <link>https://www.humblebundle.com/books/original-worlds-timothy-zahn-open-road-media-books</link>
-      <guid isPermaLink="false">originalworldstimothyzahnopenroadmedia_bookbundle</guid>
-      <pubDate>Tue, 01 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/bc5f4725781a2e0fc2a32b4bcc6b29e5d21b5876.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=4a115042c83dcc46ed23fdce13871ff0"&gt;&lt;br&gt;New worlds, far-flung adventures&lt;br&gt;Ends: 2026-10-06</description>
     </item>
     <item>
       <title>The Best of C.J. Cherryh by Daw Books</title>
@@ -124,6 +117,13 @@
       <guid isPermaLink="false">crochetbagsandwearablesopenroadmedia_bookbundle</guid>
       <pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/995023cdbf782361c11f550a484191728a003f2c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=46465876a679faef13809171d6619ce1"&gt;&lt;br&gt;Crochet your cares away&lt;br&gt;Ends: 2026-10-20</description>
+    </item>
+    <item>
+      <title>African Futurism: Nnedi Okorafor, Wole Talabi, and Adam Oyebanji by DAW Books</title>
+      <link>https://www.humblebundle.com/books/african-futurism-nnedi-okorafor-wole-talabi-and-adam-oyebanji-daw-books-books</link>
+      <guid isPermaLink="false">africanfuturismnnediokoraforwoletalabiandadamoyebanjidawbooks_bookbundle</guid>
+      <pubDate>Tue, 06 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/8485e8f16fae8daef7a0f64e08a724c0b4b5f243.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=e6bb6739d5641ca4eac55fc0332de80d"&gt;&lt;br&gt;Visions of the future&lt;br&gt;Ends: 2026-10-27</description>
     </item>
   </channel>
 </rss>
