@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Wed, 07 Oct 2026 05:05:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 18:39:36 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>The Ultimate Gene Wolfe Library by Tor Books</title>
@@ -102,7 +102,7 @@
       <link>https://www.humblebundle.com/books/kurt-busieks-astro-city-30th-anniversary-image-comics-books</link>
       <guid isPermaLink="false">kurtbusieksastrocity30thanniversaryimagecomics_bookbundle</guid>
       <pubDate>Wed, 16 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/4a0d4b135f55dc62bd800a397819ea71c355eb24.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=6692f06c073c3fa71bcdc78f24bf936d"&gt;&lt;br&gt;Award-winning comics by Kurt Busiek&lt;br&gt;Ends: 2026-10-07</description>
+      <description>&lt;img src="https://hb.imgix.net/4a0d4b135f55dc62bd800a397819ea71c355eb24.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=6692f06c073c3fa71bcdc78f24bf936d"&gt;&lt;br&gt;Award-winning comics by Kurt Busiek&lt;br&gt;Ends: 2026-10-14</description>
     </item>
     <item>
       <title>Cybersecurity Month 2026 by O'Reilly</title>
@@ -117,6 +117,13 @@
       <guid isPermaLink="false">crochetbagsandwearablesopenroadmedia_bookbundle</guid>
       <pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/995023cdbf782361c11f550a484191728a003f2c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=46465876a679faef13809171d6619ce1"&gt;&lt;br&gt;Crochet your cares away&lt;br&gt;Ends: 2026-10-20</description>
+    </item>
+    <item>
+      <title>GenAI &amp; Agentic AI by BPB</title>
+      <link>https://www.humblebundle.com/books/genai-agentic-ai-bpb-books</link>
+      <guid isPermaLink="false">genaiagenticaibpb_bookbundle</guid>
+      <pubDate>Wed, 07 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/f3029623940641acc1dd40b8756ba453d48e797c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=7b5f818407512c14a4d608ae40d29e0c"&gt;&lt;br&gt;Make AI work for you&lt;br&gt;Ends: 2026-10-28</description>
     </item>
     <item>
       <title>African Futurism: Nnedi Okorafor, Wole Talabi, and Adam Oyebanji by DAW Books</title>
