@@ -4,7 +4,7 @@
     <title>Humble Games Bundles</title>
     <link>https://www.humblebundle.com/games</link>
     <description>Current Humble Bundle games bundles</description>
-    <lastBuildDate>Thu, 08 Oct 2026 05:15:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:38:11 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>IGN 30th Anniversary Bundle</title>
@@ -14,11 +14,11 @@
       <description>&lt;img src="https://hb.imgix.net/1f1228c28baab146d971a05795810a4f5ac7955d.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d298ff644b100a81d4652c966f891b6d"&gt;&lt;br&gt;Happy Anniversary to IGN &lt;br&gt;Ends: 2026-10-10</description>
     </item>
     <item>
-      <title>Indie Fighters</title>
-      <link>https://www.humblebundle.com/games/indie-fighters</link>
-      <guid isPermaLink="false">indiefighters_bundle</guid>
-      <pubDate>Wed, 07 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/3ee2ca129d2c9c5f289b1d235be63c7505e0cda6.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=2d789fbd724e9a06d2b479dbbe6b8ec8"&gt;&lt;br&gt;Get the winning combo&lt;br&gt;Ends: 2026-10-29</description>
+      <title>The Triple-i Initiative Showcase Bundle</title>
+      <link>https://www.humblebundle.com/games/triplei-initiative-showcase-bundle</link>
+      <guid isPermaLink="false">tripleiinitiativeshowcasebundle_bundle</guid>
+      <pubDate>Thu, 08 Oct 2026 17:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/162b5b60099a685c841523bfdc28d9884d4d749d.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=f062f7c31e2ef0ac6ae67c39ae4f5027"&gt;&lt;br&gt;A no-bloat showcase of player-first games!&lt;br&gt;Ends: 2026-10-30</description>
     </item>
     <item>
       <title>Beyond Reality: Sci-Fi &amp; Survival VR Collection</title>
@@ -33,6 +33,13 @@
       <guid isPermaLink="false">bestbundleindiefearsbundle_bundle</guid>
       <pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/981465043341f1f0bc013279e3ef9c6f41d31e33.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1a7cca66cb94f6606a924b041abf642b"&gt;&lt;br&gt;Indie thrills and chills&lt;br&gt;Ends: 2026-10-15</description>
+    </item>
+    <item>
+      <title>Indie Fighters</title>
+      <link>https://www.humblebundle.com/games/indie-fighters</link>
+      <guid isPermaLink="false">indiefighters_bundle</guid>
+      <pubDate>Wed, 07 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/3ee2ca129d2c9c5f289b1d235be63c7505e0cda6.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=2d789fbd724e9a06d2b479dbbe6b8ec8"&gt;&lt;br&gt;Get the winning combo&lt;br&gt;Ends: 2026-10-29</description>
     </item>
     <item>
       <title>Run It Back - Roguelikes Bundle</title>
