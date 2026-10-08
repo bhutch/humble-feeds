@@ -4,7 +4,7 @@
     <title>Humble Games Bundles</title>
     <link>https://www.humblebundle.com/games</link>
     <description>Current Humble Bundle games bundles</description>
-    <lastBuildDate>Wed, 07 Oct 2026 18:39:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 05:15:50 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>IGN 30th Anniversary Bundle</title>
@@ -47,13 +47,6 @@
       <guid isPermaLink="false">capcomclassicsbundle_bundle</guid>
       <pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/efb49a4161f32429e755852512a1f5a0c33e6279.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=122c981e3ce70cd43affb930f9bd6615"&gt;&lt;br&gt;Nothing beats the classics&lt;br&gt;Ends: 2026-10-31</description>
-    </item>
-    <item>
-      <title>CRPG Pack: Isometric Immersion</title>
-      <link>https://www.humblebundle.com/games/crpg-pack-isometric-immersion</link>
-      <guid isPermaLink="false">crpgpackisometricimmersion_bundle</guid>
-      <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/55482b1af736b2e3914a293d0f714ac158baaa8a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=4d6d79eda26d4d7d535143794763f93a"&gt;&lt;br&gt;A new angle on adventure&lt;br&gt;Ends: 2026-10-08</description>
     </item>
     <item>
       <title>Gear &amp; Glory Action RPGs</title>
@@ -117,20 +110,6 @@
       <guid isPermaLink="false">garbagedwellers_bundle</guid>
       <pubDate>Fri, 18 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/e0df5c7a2868238573e38f8e5bc648c448437839.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=58264216e4e7538b357ed5c9d093049b"&gt;&lt;br&gt;One man's trash is another man’s treasure.&lt;br&gt;Ends: 2026-10-10</description>
-    </item>
-    <item>
-      <title>Indies in Space</title>
-      <link>https://www.humblebundle.com/games/indies-in-space</link>
-      <guid isPermaLink="false">indiesinspace_bundle</guid>
-      <pubDate>Wed, 16 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/258c14aba7fcb20faf1abe8c7714c9bd6afe4873.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=98cd778a0c4267952a5a091ecb78f3db"&gt;&lt;br&gt;Take to the stars&lt;br&gt;Ends: 2026-10-08</description>
-    </item>
-    <item>
-      <title>Assemble Entertainment Cozy Games Collection</title>
-      <link>https://www.humblebundle.com/games/assemble-entertainment-cozy-games-collection</link>
-      <guid isPermaLink="false">assembleentertainmentcozygamescollection_bundle</guid>
-      <pubDate>Wed, 16 Sep 2026 20:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/e62d7f8049adcf8477f74091677c8fd9d90b2b06.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=ccb7db6a68800a9c8103767962d3a16f"&gt;&lt;br&gt;Cozy up to great games this fall&lt;br&gt;Ends: 2026-10-08</description>
     </item>
     <item>
       <title>Make &amp; Play Games in Godot</title>
