@@ -4,7 +4,7 @@
     <title>Humble Games Bundles</title>
     <link>https://www.humblebundle.com/games</link>
     <description>Current Humble Bundle games bundles</description>
-    <lastBuildDate>Fri, 09 Oct 2026 05:18:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:08:50 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>IGN 30th Anniversary Bundle</title>
@@ -12,6 +12,20 @@
       <guid isPermaLink="false">ign30thanniversarybundle_bundle</guid>
       <pubDate>Fri, 18 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/1f1228c28baab146d971a05795810a4f5ac7955d.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d298ff644b100a81d4652c966f891b6d"&gt;&lt;br&gt;Happy Anniversary to IGN &lt;br&gt;Ends: 2026-10-10</description>
+    </item>
+    <item>
+      <title>Twisted Trilogies and Terrors: Dark Visual Novels</title>
+      <link>https://www.humblebundle.com/games/twisted-trilogies-and-terrors-dark-visual-novels</link>
+      <guid isPermaLink="false">twistedtrilogiesandterrorsdarkvisualnovels_bundle</guid>
+      <pubDate>Fri, 09 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/5a97957c77183d5da63caae754eb248e42e5387a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9386d9e9bc3addc718c97b86298a33a6"&gt;&lt;br&gt;Twisted trilogies and terrifying tales await.&lt;br&gt;Ends: 2026-10-31</description>
+    </item>
+    <item>
+      <title>Gals and Pals: PQube Japanese Games</title>
+      <link>https://www.humblebundle.com/games/gals-and-pals-pqube-japanese-games</link>
+      <guid isPermaLink="false">galsandpalspqubejapanesegames_bundle</guid>
+      <pubDate>Fri, 09 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/0ef0b293bfd552d7fba6897030a5de1a280df953.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=78ffee16247cdb616bf5f71bbcb85876"&gt;&lt;br&gt;Explore PQube’s gorgeous girls of gaming&lt;br&gt;Ends: 2026-10-31</description>
     </item>
     <item>
       <title>The Triple-i Initiative Showcase Bundle</title>
@@ -117,13 +131,6 @@
       <guid isPermaLink="false">garbagedwellers_bundle</guid>
       <pubDate>Fri, 18 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/e0df5c7a2868238573e38f8e5bc648c448437839.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=58264216e4e7538b357ed5c9d093049b"&gt;&lt;br&gt;One man's trash is another man’s treasure.&lt;br&gt;Ends: 2026-10-10</description>
-    </item>
-    <item>
-      <title>Make &amp; Play Games in Godot</title>
-      <link>https://www.humblebundle.com/games/make-play-games-in-godot-software</link>
-      <guid isPermaLink="false">makeplaygamesingodot_softwarebundle</guid>
-      <pubDate>Fri, 04 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/a9d800fc5c88f4e103f8af9688ab042ff4b1ffbf.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9d8ff63ceda70b9b247a88cfe3015bc8"&gt;&lt;br&gt;Make &amp;amp; play your own games!&lt;br&gt;Ends: 2026-10-09</description>
     </item>
   </channel>
 </rss>
