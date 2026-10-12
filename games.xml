@@ -4,7 +4,7 @@
     <title>Humble Games Bundles</title>
     <link>https://www.humblebundle.com/games</link>
     <description>Current Humble Bundle games bundles</description>
-    <lastBuildDate>Mon, 12 Oct 2026 05:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 21:04:30 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>IGN 30th Anniversary Bundle</title>
@@ -12,6 +12,13 @@
       <guid isPermaLink="false">ign30thanniversarybundle_bundle</guid>
       <pubDate>Fri, 18 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/1f1228c28baab146d971a05795810a4f5ac7955d.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d298ff644b100a81d4652c966f891b6d"&gt;&lt;br&gt;Happy Anniversary to IGN &lt;br&gt;Ends: 2026-10-17</description>
+    </item>
+    <item>
+      <title>Cozy After Dark Showcase Bundle</title>
+      <link>https://www.humblebundle.com/games/cozy-after-dark-showcase-bundle</link>
+      <guid isPermaLink="false">cozyafterdarkshowcasebundle_bundle</guid>
+      <pubDate>Mon, 12 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/6dd7c5483ec1c22103aee746b329368ca34d0f43.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=b3acb9dec4ad0dc765efae4906b57b6b"&gt;&lt;br&gt;Fun with the lights out&lt;br&gt;Ends: 2026-11-03</description>
     </item>
     <item>
       <title>Twisted Trilogies and Terrors: Dark Visual Novels</title>
