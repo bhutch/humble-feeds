@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Tue, 13 Oct 2026 06:06:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:03:00 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Gamer's Kitchen Cookbooks by Insight Editions</title>
@@ -84,13 +84,6 @@
       <description>&lt;img src="https://hb.imgix.net/b0bfca53c721b412281fe48d1fdf54f868871d52.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d10328192f10a0f74a000ada33a12445"&gt;&lt;br&gt;Fortify your digital worlds with elite cybersecurity.&lt;br&gt;Ends: 2026-10-31</description>
     </item>
     <item>
-      <title>Legend In The Mist &amp; :Otherscape RPG Collection by Son of Oak</title>
-      <link>https://www.humblebundle.com/books/legend-in-mist-otherscape-rpg-collection-son-oak-books</link>
-      <guid isPermaLink="false">legendinmistotherscaperpgcollectionsonoak_bookbundle</guid>
-      <pubDate>Tue, 15 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/083d3305d782c41945da1b50a8cbd5deae483764.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=263577fbce4ece5181f8802f4cd12821"&gt;&lt;br&gt;High fantasies, tech dystopias, and beyond&lt;br&gt;Ends: 2026-10-13</description>
-    </item>
-    <item>
       <title>The Ultimate Gene Wolfe Library by Tor Books</title>
       <link>https://www.humblebundle.com/books/ultimate-gene-wolfe-library-by-tor-books-books</link>
       <guid isPermaLink="false">ultimategenewolfelibrarybytorbooks_bookbundle</guid>
@@ -131,6 +124,20 @@
       <guid isPermaLink="false">africanfuturismnnediokoraforwoletalabiandadamoyebanjidawbooks_bookbundle</guid>
       <pubDate>Tue, 06 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/8485e8f16fae8daef7a0f64e08a724c0b4b5f243.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=e6bb6739d5641ca4eac55fc0332de80d"&gt;&lt;br&gt;Visions of the future&lt;br&gt;Ends: 2026-10-27</description>
+    </item>
+    <item>
+      <title>DIY Halloween Displays and Holiday Gifts</title>
+      <link>https://www.humblebundle.com/books/diy-electronics-gadgets-games-and-more-make-books</link>
+      <guid isPermaLink="false">diyelectronicsgadgetsgamesandmoremake_bookbundle</guid>
+      <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/7768aca530476bde2c8a00e3bc654d0683debcb8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=0ecaaea634f3ef736ffc9afd71cf4f20"&gt;&lt;br&gt;Make it happen with DIY tech skills!&lt;br&gt;Ends: 2026-11-03</description>
+    </item>
+    <item>
+      <title>Best-Sellers of Amigurumi by Meteoor Books</title>
+      <link>https://www.humblebundle.com/books/bestsellers-amigurumi-meteoor-books-books</link>
+      <guid isPermaLink="false">bestsellersamigurumimeteoorbooks_bookbundle</guid>
+      <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/c4760ac6a48f194d52ab835278049f8e6d9f0684.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=66c072040bd2472c07116eab760c38be"&gt;&lt;br&gt;Craft an amigurumi menagerie&lt;br&gt;Ends: 2026-11-03</description>
     </item>
   </channel>
 </rss>
