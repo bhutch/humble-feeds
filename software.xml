@@ -4,7 +4,7 @@
     <title>Humble Software Bundles</title>
     <link>https://www.humblebundle.com/software</link>
     <description>Current Humble Bundle software bundles</description>
-    <lastBuildDate>Mon, 12 Oct 2026 21:04:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:06:49 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Your idea. Your design. Your way. CorelDRAW Go - No Experience Required</title>
@@ -84,18 +84,18 @@
       <description>&lt;img src="https://hb.imgix.net/a9616ec83451752a4a7e56d1b2ec2dd3bea0268d.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=4acc3e2042bfc75aaeef88643df0004b"&gt;&lt;br&gt;Upgrade your Unreal Engine asset library&lt;br&gt;Ends: 2026-10-19</description>
     </item>
     <item>
+      <title>Software Engineering 2026</title>
+      <link>https://www.humblebundle.com/software/software-engineering-2026-software</link>
+      <guid isPermaLink="false">softwareengineering2026_softwarebundle</guid>
+      <pubDate>Mon, 12 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=859d915e102c60c7a2b4354eb499fbeb"&gt;&lt;br&gt;Supercharge your software engineering skills.&lt;br&gt;Ends: 2026-11-02</description>
+    </item>
+    <item>
       <title>Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures</title>
       <link>https://www.humblebundle.com/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software</link>
       <guid isPermaLink="false">lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle</guid>
       <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5ff106f7d300b5ab77b47c7200b00420"&gt;&lt;br&gt;Spine-crawling Lovecraftian miniatures await.&lt;br&gt;Ends: 2026-10-13</description>
-    </item>
-    <item>
-      <title>World Builders: Horrors and Haunts</title>
-      <link>https://www.humblebundle.com/software/world-builders-horrors-and-haunts-software</link>
-      <guid isPermaLink="false">worldbuildershorrorsandhaunts_softwarebundle</guid>
-      <pubDate>Mon, 05 Oct 2026 20:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/1e3a667bc61a77720d15b113086d4ff4e846ab84.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=64b2a7f22bd998cdb9b450cb28df7b63"&gt;&lt;br&gt;Fill your games with frights&lt;br&gt;Ends: 2026-10-26</description>
     </item>
     <item>
       <title>Ultimate Game Audio Bundle - Access 300,000 Premium Music and Sound Effects</title>
@@ -105,18 +105,11 @@
       <description>&lt;img src="https://hb.imgix.net/f76c5f2f6c8c6d0d8751c2029ac88e084963016f.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=e5c77d33f9697c2e13962d59d4461fbc"&gt;&lt;br&gt;Thousands of audio assets at your fingertips &lt;br&gt;Ends: 2026-10-13</description>
     </item>
     <item>
-      <title>Software Engineering 2026</title>
-      <link>https://www.humblebundle.com/software/software-engineering-2026-software</link>
-      <guid isPermaLink="false">softwareengineering2026_softwarebundle</guid>
-      <pubDate>Mon, 12 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=859d915e102c60c7a2b4354eb499fbeb"&gt;&lt;br&gt;Supercharge your software engineering skills.&lt;br&gt;Ends: 2026-11-02</description>
-    </item>
-    <item>
-      <title>Make Your Own Games In Unreal</title>
-      <link>https://www.humblebundle.com/software/make-your-own-games-in-unreal-software</link>
-      <guid isPermaLink="false">makeyourowngamesinunreal_softwarebundle</guid>
-      <pubDate>Thu, 08 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/3b4450d10fdb29377274782e5a4f053bffd4d896.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=3ab209cbd9e5b0ef3f21c3ebecf324e3"&gt;&lt;br&gt;Fine-tune your game dev skills!&lt;br&gt;Ends: 2026-10-29</description>
+      <title>World Builders: Horrors and Haunts</title>
+      <link>https://www.humblebundle.com/software/world-builders-horrors-and-haunts-software</link>
+      <guid isPermaLink="false">worldbuildershorrorsandhaunts_softwarebundle</guid>
+      <pubDate>Mon, 05 Oct 2026 20:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/1e3a667bc61a77720d15b113086d4ff4e846ab84.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=64b2a7f22bd998cdb9b450cb28df7b63"&gt;&lt;br&gt;Fill your games with frights&lt;br&gt;Ends: 2026-10-26</description>
     </item>
     <item>
       <title>Learn to Make Games in GODOT 2026</title>
@@ -124,6 +117,13 @@
       <guid isPermaLink="false">learntomakegamesingodot2026_softwarebundle</guid>
       <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/4081672b8538873e43afe3538606c58884f73baf.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=82ce56fd80b5d6967b7ce0faa2f93937"&gt;&lt;br&gt;Imagine your future as a game developer!&lt;br&gt;Ends: 2026-10-13</description>
+    </item>
+    <item>
+      <title>Make Your Own Games In Unreal</title>
+      <link>https://www.humblebundle.com/software/make-your-own-games-in-unreal-software</link>
+      <guid isPermaLink="false">makeyourowngamesinunreal_softwarebundle</guid>
+      <pubDate>Thu, 08 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/3b4450d10fdb29377274782e5a4f053bffd4d896.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=3ab209cbd9e5b0ef3f21c3ebecf324e3"&gt;&lt;br&gt;Fine-tune your game dev skills!&lt;br&gt;Ends: 2026-10-29</description>
     </item>
     <item>
       <title>Best Core Game Dev Assets &amp; Tools Megabundle</title>
