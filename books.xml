@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Tue, 13 Oct 2026 19:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:09:44 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Gamer's Kitchen Cookbooks by Insight Editions</title>
@@ -126,18 +126,18 @@
       <description>&lt;img src="https://hb.imgix.net/8485e8f16fae8daef7a0f64e08a724c0b4b5f243.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=e6bb6739d5641ca4eac55fc0332de80d"&gt;&lt;br&gt;Visions of the future&lt;br&gt;Ends: 2026-10-27</description>
     </item>
     <item>
+      <title>Best-Sellers of Amigurumi by Meteoor Books</title>
+      <link>https://www.humblebundle.com/books/bestsellers-amigurumi-meteoor-books-books</link>
+      <guid isPermaLink="false">bestsellersamigurumimeteoorbooks_bookbundle</guid>
+      <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/86e912cdcb626c8cdfcc777d8b954afa59281c8a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=e5443996803a525dabd576c73c40934a"&gt;&lt;br&gt;Craft an amigurumi menagerie&lt;br&gt;Ends: 2026-11-03</description>
+    </item>
+    <item>
       <title>DIY Halloween Displays and Holiday Gifts</title>
       <link>https://www.humblebundle.com/books/diy-electronics-gadgets-games-and-more-make-books</link>
       <guid isPermaLink="false">diyelectronicsgadgetsgamesandmoremake_bookbundle</guid>
       <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/7768aca530476bde2c8a00e3bc654d0683debcb8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=0ecaaea634f3ef736ffc9afd71cf4f20"&gt;&lt;br&gt;Make it happen with DIY tech skills!&lt;br&gt;Ends: 2026-11-03</description>
-    </item>
-    <item>
-      <title>Best-Sellers of Amigurumi by Meteoor Books</title>
-      <link>https://www.humblebundle.com/books/bestsellers-amigurumi-meteoor-books-books</link>
-      <guid isPermaLink="false">bestsellersamigurumimeteoorbooks_bookbundle</guid>
-      <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/c4760ac6a48f194d52ab835278049f8e6d9f0684.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=66c072040bd2472c07116eab760c38be"&gt;&lt;br&gt;Craft an amigurumi menagerie&lt;br&gt;Ends: 2026-11-03</description>
     </item>
   </channel>
 </rss>
