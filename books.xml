@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Fri, 16 Oct 2026 16:19:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 03:38:05 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Gamer's Kitchen Cookbooks by Insight Editions</title>
@@ -12,6 +12,13 @@
       <guid isPermaLink="false">gamerskitchencookbooksinsighteditions_bookbundle</guid>
       <pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/5dddb96db4bfc7b717dfe54780277cd900172bb8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1aeb1430e837d6bde1cd24e12ecf15c3"&gt;&lt;br&gt;Games have never looked so delicious&lt;br&gt;Ends: 2026-10-24</description>
+    </item>
+    <item>
+      <title>Castles &amp; Crusades RPG Experience</title>
+      <link>https://www.humblebundle.com/software/castles-crusades-rpg-experience-software</link>
+      <guid isPermaLink="false">castlescrusadesrpgexperience_softwarebundle</guid>
+      <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/327c799c3c6addfea5e2373c076e16c41cb79583.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d7e0046901309c770e4d12c23936c9e9"&gt;&lt;br&gt;Create your own adventure&lt;br&gt;Ends: 2026-11-06</description>
     </item>
     <item>
       <title>Gatchaman and Speed Racer by Mad Cave Studios</title>
@@ -140,6 +147,13 @@
       <description>&lt;img src="https://hb.imgix.net/27d1a5af3212346fb8ebda02da371593766efd7c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d0f6733c54c85ef8516124474011df0b"&gt;&lt;br&gt;A Dynamite Halloween treat&lt;br&gt;Ends: 2026-11-05</description>
     </item>
     <item>
+      <title>DIY Halloween Displays and Holiday Gifts</title>
+      <link>https://www.humblebundle.com/books/diy-electronics-gadgets-games-and-more-make-books</link>
+      <guid isPermaLink="false">diyelectronicsgadgetsgamesandmoremake_bookbundle</guid>
+      <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/7768aca530476bde2c8a00e3bc654d0683debcb8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=0ecaaea634f3ef736ffc9afd71cf4f20"&gt;&lt;br&gt;Make it happen with DIY tech skills!&lt;br&gt;Ends: 2026-11-03</description>
+    </item>
+    <item>
       <title>Java by Apress</title>
       <link>https://www.humblebundle.com/books/java-apress-books</link>
       <guid isPermaLink="false">javaapress_bookbundle</guid>
@@ -147,11 +161,11 @@
       <description>&lt;img src="https://hb.imgix.net/a9448128d86cc86344476fc3038eed2fa51fa313.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9ecc81a80b5bacaec2ea0056f4fc1d1f"&gt;&lt;br&gt;Find your groove with Java by Apress.&lt;br&gt;Ends: 2026-11-04</description>
     </item>
     <item>
-      <title>DIY Halloween Displays and Holiday Gifts</title>
-      <link>https://www.humblebundle.com/books/diy-electronics-gadgets-games-and-more-make-books</link>
-      <guid isPermaLink="false">diyelectronicsgadgetsgamesandmoremake_bookbundle</guid>
-      <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/7768aca530476bde2c8a00e3bc654d0683debcb8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=0ecaaea634f3ef736ffc9afd71cf4f20"&gt;&lt;br&gt;Make it happen with DIY tech skills!&lt;br&gt;Ends: 2026-11-03</description>
+      <title>Urban Shadows Physical Collection</title>
+      <link>https://www.humblebundle.com/books/urban-shadows-physical-collection-books</link>
+      <guid isPermaLink="false">urbanshadowsphysicalcollection_bookbundle</guid>
+      <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/ea00550e937d85ef4ff178d8b0980a17954398ea.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=95363942c9232ab64286272d1da03637"&gt;&lt;br&gt;Survive the city of shadows&lt;br&gt;Ends: 2026-11-06</description>
     </item>
   </channel>
 </rss>
