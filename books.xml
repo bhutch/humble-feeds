@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Sat, 17 Oct 2026 03:38:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 15:14:13 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Gamer's Kitchen Cookbooks by Insight Editions</title>
@@ -140,6 +140,13 @@
       <description>&lt;img src="https://hb.imgix.net/86e912cdcb626c8cdfcc777d8b954afa59281c8a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=e5443996803a525dabd576c73c40934a"&gt;&lt;br&gt;Craft an amigurumi menagerie&lt;br&gt;Ends: 2026-11-03</description>
     </item>
     <item>
+      <title>Java by Apress</title>
+      <link>https://www.humblebundle.com/books/java-apress-books</link>
+      <guid isPermaLink="false">javaapress_bookbundle</guid>
+      <pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/a9448128d86cc86344476fc3038eed2fa51fa313.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9ecc81a80b5bacaec2ea0056f4fc1d1f"&gt;&lt;br&gt;Find your groove with Java by Apress.&lt;br&gt;Ends: 2026-11-04</description>
+    </item>
+    <item>
       <title>The Dynamite Trick-or-Treat Bundle by Dynamite</title>
       <link>https://www.humblebundle.com/books/dynamite-trickortreat-bundle-dynamite-books</link>
       <guid isPermaLink="false">dynamitetrickortreatbundledynamite_bookbundle</guid>
@@ -152,13 +159,6 @@
       <guid isPermaLink="false">diyelectronicsgadgetsgamesandmoremake_bookbundle</guid>
       <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/7768aca530476bde2c8a00e3bc654d0683debcb8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=0ecaaea634f3ef736ffc9afd71cf4f20"&gt;&lt;br&gt;Make it happen with DIY tech skills!&lt;br&gt;Ends: 2026-11-03</description>
-    </item>
-    <item>
-      <title>Java by Apress</title>
-      <link>https://www.humblebundle.com/books/java-apress-books</link>
-      <guid isPermaLink="false">javaapress_bookbundle</guid>
-      <pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/a9448128d86cc86344476fc3038eed2fa51fa313.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9ecc81a80b5bacaec2ea0056f4fc1d1f"&gt;&lt;br&gt;Find your groove with Java by Apress.&lt;br&gt;Ends: 2026-11-04</description>
     </item>
     <item>
       <title>Urban Shadows Physical Collection</title>
