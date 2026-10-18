@@ -4,7 +4,7 @@
     <title>Humble Software Bundles</title>
     <link>https://www.humblebundle.com/software</link>
     <description>Current Humble Bundle software bundles</description>
-    <lastBuildDate>Sat, 17 Oct 2026 15:14:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 03:44:35 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Map Making MEGA Bundle Last Chance</title>
@@ -95,7 +95,7 @@
       <link>https://www.humblebundle.com/software/poly-game-dev-assets-collection-3-software</link>
       <guid isPermaLink="false">polygamedevassetscollection3_softwarebundle</guid>
       <pubDate>Sat, 19 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/0430e91192f933715148e3bc5daf19f3c55d0b30.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=81057ee39fdc5f916cd22f86f340bc6d"&gt;&lt;br&gt;The perfect POLY asset collection.&lt;br&gt;Ends: 2026-10-17</description>
+      <description>&lt;img src="https://hb.imgix.net/0430e91192f933715148e3bc5daf19f3c55d0b30.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=81057ee39fdc5f916cd22f86f340bc6d"&gt;&lt;br&gt;The perfect POLY asset collection.&lt;br&gt;Ends: 2026-10-24</description>
     </item>
     <item>
       <title>Create Magic with Magix</title>
@@ -110,6 +110,20 @@
       <guid isPermaLink="false">backroomsandliminalworldbuilderbundle_softwarebundle</guid>
       <pubDate>Tue, 15 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/25da09163d5daa175a59ab3c8fc0b8bc026677a9.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=b17cd1b8d50fbcd51061b5b4340d2344"&gt;&lt;br&gt;Create the next Backrooms!&lt;br&gt;Ends: 2026-10-20</description>
+    </item>
+    <item>
+      <title>The Complete Higgsfield AI Video Creation Bundle</title>
+      <link>https://www.humblebundle.com/software/complete-higgsfield-ai-video-creation-bundle-software</link>
+      <guid isPermaLink="false">completehiggsfieldaivideocreationbundle_softwarebundle</guid>
+      <pubDate>Sat, 17 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/e9b8dd7ba0257a899fe47b6c86305e753fc53b7f.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=4cbe57f3e75a0b8ca5ae3323ff47a1bc"&gt;&lt;br&gt;Transform your ideas with Higgsfield&lt;br&gt;Ends: 2026-11-07</description>
+    </item>
+    <item>
+      <title>Modern A.I. Game Dev Crash Course</title>
+      <link>https://www.humblebundle.com/software/modern-ai-game-dev-crash-course-software</link>
+      <guid isPermaLink="false">modernaigamedevcrashcourse_softwarebundle</guid>
+      <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=dd61ffaab343e502b965ca686c72bf12"&gt;&lt;br&gt;Your crash course in AI game development &lt;br&gt;Ends: 2026-11-03</description>
     </item>
     <item>
       <title>World Builders: Horrors and Haunts</title>
@@ -131,13 +145,6 @@
       <guid isPermaLink="false">lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle</guid>
       <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5ff106f7d300b5ab77b47c7200b00420"&gt;&lt;br&gt;Spine-crawling Lovecraftian miniatures await.&lt;br&gt;Ends: 2026-10-20</description>
-    </item>
-    <item>
-      <title>Modern A.I. Game Dev Crash Course</title>
-      <link>https://www.humblebundle.com/software/modern-ai-game-dev-crash-course-software</link>
-      <guid isPermaLink="false">modernaigamedevcrashcourse_softwarebundle</guid>
-      <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=dd61ffaab343e502b965ca686c72bf12"&gt;&lt;br&gt;Your crash course in AI game development &lt;br&gt;Ends: 2026-11-03</description>
     </item>
     <item>
       <title>Make Your Own Games In Unreal</title>
