@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Mon, 19 Oct 2026 03:54:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:31:28 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Gamer's Kitchen Cookbooks by Insight Editions</title>
@@ -47,13 +47,6 @@
       <guid isPermaLink="false">celebrating100yearsthichnhathanhcollection_bookbundle</guid>
       <pubDate>Sat, 10 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/c6cf13ab4cd36a1ce64d1b43fe76e4d0d5d58849.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=32c93a195351cb7d53522d0808a5637a"&gt;&lt;br&gt;A century of self care&lt;br&gt;Ends: 2026-10-31</description>
-    </item>
-    <item>
-      <title>C++ Programming Masterclass: Code Faster. Build Smarter. Master C++</title>
-      <link>https://www.humblebundle.com/books/c-programming-masterclass-code-faster-build-smarter-master-c-books</link>
-      <guid isPermaLink="false">cprogrammingmasterclasscodefasterbuildsmartermasterc_bookbundle</guid>
-      <pubDate>Mon, 21 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/64bb32851e07963f96a15c6997b4e7470aaa9c71.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=bdeae94675ea29e37c58b9f918767a6e"&gt;&lt;br&gt;In sync with the C++ Programming Masterclass&lt;br&gt;Ends: 2026-10-19</description>
     </item>
     <item>
       <title>Joe Haldeman: The Forever War and Beyond by Open Road Media</title>
@@ -133,11 +126,11 @@
       <description>&lt;img src="https://hb.imgix.net/8485e8f16fae8daef7a0f64e08a724c0b4b5f243.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=e6bb6739d5641ca4eac55fc0332de80d"&gt;&lt;br&gt;Visions of the future&lt;br&gt;Ends: 2026-10-27</description>
     </item>
     <item>
-      <title>Candela Obscura by Darrington Press &amp; Friends</title>
-      <link>https://www.humblebundle.com/books/candela-obscura-darrington-press-friends-books</link>
-      <guid isPermaLink="false">candelaobscuradarringtonpressfriends_bookbundle</guid>
-      <pubDate>Sat, 17 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/e3d6adda24b95809a37bfa04ebd232e765ee7315.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=80d00f681ca4e4e3a195ab62edd6bdf7"&gt;&lt;br&gt;Get The Descent, The Beast in the Binding and more!&lt;br&gt;Ends: 2026-11-07</description>
+      <title>IT Management Toolkit by Taylor &amp; Francis</title>
+      <link>https://www.humblebundle.com/books/it-management-toolkit-taylor-francis-books</link>
+      <guid isPermaLink="false">itmanagementtoolkittaylorfrancis_bookbundle</guid>
+      <pubDate>Mon, 19 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/ed6e2ba7ccd2ee180b5b1c1718ecb5b84b02672e.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=baf273bd269acf820ff64cceb2260c57"&gt;&lt;br&gt;Get Augmented Intelligence, It's Not in the Manual and more!&lt;br&gt;Ends: 2026-11-09</description>
     </item>
     <item>
       <title>Best-Sellers of Amigurumi by Meteoor Books</title>
@@ -145,6 +138,13 @@
       <guid isPermaLink="false">bestsellersamigurumimeteoorbooks_bookbundle</guid>
       <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/86e912cdcb626c8cdfcc777d8b954afa59281c8a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=e5443996803a525dabd576c73c40934a"&gt;&lt;br&gt;Craft an amigurumi menagerie&lt;br&gt;Ends: 2026-11-03</description>
+    </item>
+    <item>
+      <title>DIY Halloween Displays and Holiday Gifts</title>
+      <link>https://www.humblebundle.com/books/diy-electronics-gadgets-games-and-more-make-books</link>
+      <guid isPermaLink="false">diyelectronicsgadgetsgamesandmoremake_bookbundle</guid>
+      <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/7768aca530476bde2c8a00e3bc654d0683debcb8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=0ecaaea634f3ef736ffc9afd71cf4f20"&gt;&lt;br&gt;Make it happen with DIY tech skills!&lt;br&gt;Ends: 2026-11-03</description>
     </item>
     <item>
       <title>Java by Apress</title>
@@ -161,11 +161,11 @@
       <description>&lt;img src="https://hb.imgix.net/27d1a5af3212346fb8ebda02da371593766efd7c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d0f6733c54c85ef8516124474011df0b"&gt;&lt;br&gt;A Dynamite Halloween treat&lt;br&gt;Ends: 2026-11-05</description>
     </item>
     <item>
-      <title>DIY Halloween Displays and Holiday Gifts</title>
-      <link>https://www.humblebundle.com/books/diy-electronics-gadgets-games-and-more-make-books</link>
-      <guid isPermaLink="false">diyelectronicsgadgetsgamesandmoremake_bookbundle</guid>
-      <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/7768aca530476bde2c8a00e3bc654d0683debcb8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=0ecaaea634f3ef736ffc9afd71cf4f20"&gt;&lt;br&gt;Make it happen with DIY tech skills!&lt;br&gt;Ends: 2026-11-03</description>
+      <title>Candela Obscura by Darrington Press &amp; Friends</title>
+      <link>https://www.humblebundle.com/books/candela-obscura-darrington-press-friends-books</link>
+      <guid isPermaLink="false">candelaobscuradarringtonpressfriends_bookbundle</guid>
+      <pubDate>Sat, 17 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/e3d6adda24b95809a37bfa04ebd232e765ee7315.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=80d00f681ca4e4e3a195ab62edd6bdf7"&gt;&lt;br&gt;Get The Descent, The Beast in the Binding and more!&lt;br&gt;Ends: 2026-11-07</description>
     </item>
     <item>
       <title>Urban Shadows Physical Collection</title>
