@@ -4,7 +4,7 @@
     <title>Humble Software Bundles</title>
     <link>https://www.humblebundle.com/software</link>
     <description>Current Humble Bundle software bundles</description>
-    <lastBuildDate>Tue, 20 Oct 2026 04:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:34:12 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Map Making MEGA Bundle Last Chance</title>
@@ -126,6 +126,13 @@
       <description>&lt;img src="https://hb.imgix.net/e9b8dd7ba0257a899fe47b6c86305e753fc53b7f.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=4cbe57f3e75a0b8ca5ae3323ff47a1bc"&gt;&lt;br&gt;Transform your ideas with Higgsfield&lt;br&gt;Ends: 2026-11-07</description>
     </item>
     <item>
+      <title>Software Engineering 2026</title>
+      <link>https://www.humblebundle.com/software/software-engineering-2026-software</link>
+      <guid isPermaLink="false">softwareengineering2026_softwarebundle</guid>
+      <pubDate>Mon, 12 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=859d915e102c60c7a2b4354eb499fbeb"&gt;&lt;br&gt;Supercharge your software engineering skills.&lt;br&gt;Ends: 2026-11-02</description>
+    </item>
+    <item>
       <title>Godot Game Development Mega Bundle - 20 Complete Game Templates</title>
       <link>https://www.humblebundle.com/software/godot-game-development-mega-bundle-20-complete-game-templates-software</link>
       <guid isPermaLink="false">godotgamedevelopmentmegabundle20completegametemplates_softwarebundle</guid>
@@ -133,11 +140,11 @@
       <description>&lt;img src="https://hb.imgix.net/54b9f479b4f047779885e9f03180c9a6f7feac20.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=e198b3a1d1b6d2936b300d1b6d317e37"&gt;&lt;br&gt;Build games without the hassle.&lt;br&gt;Ends: 2026-11-08</description>
     </item>
     <item>
-      <title>Software Engineering 2026</title>
-      <link>https://www.humblebundle.com/software/software-engineering-2026-software</link>
-      <guid isPermaLink="false">softwareengineering2026_softwarebundle</guid>
-      <pubDate>Mon, 12 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=859d915e102c60c7a2b4354eb499fbeb"&gt;&lt;br&gt;Supercharge your software engineering skills.&lt;br&gt;Ends: 2026-11-02</description>
+      <title>Modern A.I. Game Dev Crash Course</title>
+      <link>https://www.humblebundle.com/software/modern-ai-game-dev-crash-course-software</link>
+      <guid isPermaLink="false">modernaigamedevcrashcourse_softwarebundle</guid>
+      <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=dd61ffaab343e502b965ca686c72bf12"&gt;&lt;br&gt;Your crash course in AI game development &lt;br&gt;Ends: 2026-11-03</description>
     </item>
     <item>
       <title>World Builders: Horrors and Haunts</title>
@@ -152,13 +159,6 @@
       <guid isPermaLink="false">lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle</guid>
       <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5ff106f7d300b5ab77b47c7200b00420"&gt;&lt;br&gt;Spine-crawling Lovecraftian miniatures await.&lt;br&gt;Ends: 2026-10-20</description>
-    </item>
-    <item>
-      <title>Modern A.I. Game Dev Crash Course</title>
-      <link>https://www.humblebundle.com/software/modern-ai-game-dev-crash-course-software</link>
-      <guid isPermaLink="false">modernaigamedevcrashcourse_softwarebundle</guid>
-      <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=dd61ffaab343e502b965ca686c72bf12"&gt;&lt;br&gt;Your crash course in AI game development &lt;br&gt;Ends: 2026-11-03</description>
     </item>
     <item>
       <title>Make Your Own Games In Unreal</title>
