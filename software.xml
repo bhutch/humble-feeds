@@ -4,7 +4,7 @@
     <title>Humble Software Bundles</title>
     <link>https://www.humblebundle.com/software</link>
     <description>Current Humble Bundle software bundles</description>
-    <lastBuildDate>Wed, 21 Oct 2026 03:55:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 16:52:20 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Map Making MEGA Bundle Last Chance</title>
@@ -119,13 +119,6 @@
       <description>&lt;img src="https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=859d915e102c60c7a2b4354eb499fbeb"&gt;&lt;br&gt;Supercharge your software engineering skills.&lt;br&gt;Ends: 2026-11-02</description>
     </item>
     <item>
-      <title>Game Dev Mega Cities</title>
-      <link>https://www.humblebundle.com/software/game-dev-mega-cities-software</link>
-      <guid isPermaLink="false">gamedevmegacities_softwarebundle</guid>
-      <pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=485935e678bf2776efa0fb99a8e39255"&gt;&lt;br&gt;Build next-gen mega cities with 500+ Assets! &lt;br&gt;Ends: 2026-10-27</description>
-    </item>
-    <item>
       <title>Godot Game Development Mega Bundle - 20 Complete Game Templates</title>
       <link>https://www.humblebundle.com/software/godot-game-development-mega-bundle-20-complete-game-templates-software</link>
       <guid isPermaLink="false">godotgamedevelopmentmegabundle20completegametemplates_softwarebundle</guid>
@@ -161,6 +154,13 @@
       <description>&lt;img src="https://hb.imgix.net/a3e162a702ac7c75d2978508e82140cfe88d9c9b.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=0e6d1b03b835293e0c0c96c36b5470a2"&gt;&lt;br&gt;Enhance your photos and videos like a pro&lt;br&gt;Ends: 2026-10-22</description>
     </item>
     <item>
+      <title>The Complete AI Solopreneur Bundle</title>
+      <link>https://www.humblebundle.com/software/complete-ai-solopreneur-bundle-software</link>
+      <guid isPermaLink="false">completeaisolopreneurbundle_softwarebundle</guid>
+      <pubDate>Mon, 05 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/637f71e8c077d934ab61250a205bdca00e26f336.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=46247674bd53bbfa3b45e801615eb802"&gt;&lt;br&gt;Become your own business&lt;br&gt;Ends: 2026-10-26</description>
+    </item>
+    <item>
       <title>Dungeon Adventures! - 3D Printable Miniatures &amp; Scenery</title>
       <link>https://www.humblebundle.com/software/dungeon-adventures-3d-printable-miniatures-scenery-software</link>
       <guid isPermaLink="false">dungeonadventures3dprintableminiaturesscenery_softwarebundle</guid>
@@ -168,11 +168,11 @@
       <description>&lt;img src="https://hb.imgix.net/7354fc9f5e3c3edf7bedfca60a35ef1ec4a52d90.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=f83797c58ca5e761d2a25adfe28769c5"&gt;&lt;br&gt;Bring your dungeon to life&lt;br&gt;Ends: 2026-10-24</description>
     </item>
     <item>
-      <title>The Complete AI Solopreneur Bundle</title>
-      <link>https://www.humblebundle.com/software/complete-ai-solopreneur-bundle-software</link>
-      <guid isPermaLink="false">completeaisolopreneurbundle_softwarebundle</guid>
-      <pubDate>Mon, 05 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/637f71e8c077d934ab61250a205bdca00e26f336.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=46247674bd53bbfa3b45e801615eb802"&gt;&lt;br&gt;Become your own business&lt;br&gt;Ends: 2026-10-26</description>
+      <title>Game Dev Mega Cities</title>
+      <link>https://www.humblebundle.com/software/game-dev-mega-cities-software</link>
+      <guid isPermaLink="false">gamedevmegacities_softwarebundle</guid>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=485935e678bf2776efa0fb99a8e39255"&gt;&lt;br&gt;Build next-gen mega cities with 500+ Assets! &lt;br&gt;Ends: 2026-10-27</description>
     </item>
   </channel>
 </rss>
