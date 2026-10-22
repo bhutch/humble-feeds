@@ -4,7 +4,7 @@
     <title>Humble Software Bundles</title>
     <link>https://www.humblebundle.com/software</link>
     <description>Current Humble Bundle software bundles</description>
-    <lastBuildDate>Wed, 21 Oct 2026 16:52:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:55:30 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Map Making MEGA Bundle Last Chance</title>
@@ -173,6 +173,13 @@
       <guid isPermaLink="false">gamedevmegacities_softwarebundle</guid>
       <pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=485935e678bf2776efa0fb99a8e39255"&gt;&lt;br&gt;Build next-gen mega cities with 500+ Assets! &lt;br&gt;Ends: 2026-10-27</description>
+    </item>
+    <item>
+      <title>Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures</title>
+      <link>https://www.humblebundle.com/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software</link>
+      <guid isPermaLink="false">lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle</guid>
+      <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5ff106f7d300b5ab77b47c7200b00420"&gt;&lt;br&gt;Spine-crawling Lovecraftian miniatures await.&lt;br&gt;Ends: 2026-10-27</description>
     </item>
   </channel>
 </rss>
