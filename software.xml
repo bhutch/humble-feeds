@@ -4,7 +4,7 @@
     <title>Humble Software Bundles</title>
     <link>https://www.humblebundle.com/software</link>
     <description>Current Humble Bundle software bundles</description>
-    <lastBuildDate>Thu, 22 Oct 2026 03:55:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:52:17 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Map Making MEGA Bundle Last Chance</title>
@@ -133,6 +133,13 @@
       <description>&lt;img src="https://hb.imgix.net/3b4450d10fdb29377274782e5a4f053bffd4d896.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=3ab209cbd9e5b0ef3f21c3ebecf324e3"&gt;&lt;br&gt;Fine-tune your game dev skills!&lt;br&gt;Ends: 2026-10-29</description>
     </item>
     <item>
+      <title>Picture Perfect - The Ultimate Photo &amp; Video Bundle</title>
+      <link>https://www.humblebundle.com/software/picture-perfect-ultimate-photo-video-bundle-software</link>
+      <guid isPermaLink="false">pictureperfectultimatephotovideobundle_softwarebundle</guid>
+      <pubDate>Thu, 01 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/a3e162a702ac7c75d2978508e82140cfe88d9c9b.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=0e6d1b03b835293e0c0c96c36b5470a2"&gt;&lt;br&gt;Enhance your photos and videos like a pro&lt;br&gt;Ends: 2026-10-22</description>
+    </item>
+    <item>
       <title>Modern A.I. Game Dev Crash Course</title>
       <link>https://www.humblebundle.com/software/modern-ai-game-dev-crash-course-software</link>
       <guid isPermaLink="false">modernaigamedevcrashcourse_softwarebundle</guid>
@@ -147,11 +154,11 @@
       <description>&lt;img src="https://hb.imgix.net/1e3a667bc61a77720d15b113086d4ff4e846ab84.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=64b2a7f22bd998cdb9b450cb28df7b63"&gt;&lt;br&gt;Fill your games with frights&lt;br&gt;Ends: 2026-10-26</description>
     </item>
     <item>
-      <title>Picture Perfect - The Ultimate Photo &amp; Video Bundle</title>
-      <link>https://www.humblebundle.com/software/picture-perfect-ultimate-photo-video-bundle-software</link>
-      <guid isPermaLink="false">pictureperfectultimatephotovideobundle_softwarebundle</guid>
-      <pubDate>Thu, 01 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/a3e162a702ac7c75d2978508e82140cfe88d9c9b.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=0e6d1b03b835293e0c0c96c36b5470a2"&gt;&lt;br&gt;Enhance your photos and videos like a pro&lt;br&gt;Ends: 2026-10-22</description>
+      <title>Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures</title>
+      <link>https://www.humblebundle.com/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software</link>
+      <guid isPermaLink="false">lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle</guid>
+      <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5ff106f7d300b5ab77b47c7200b00420"&gt;&lt;br&gt;Spine-crawling Lovecraftian miniatures await.&lt;br&gt;Ends: 2026-10-27</description>
     </item>
     <item>
       <title>The Complete AI Solopreneur Bundle</title>
@@ -173,13 +180,6 @@
       <guid isPermaLink="false">gamedevmegacities_softwarebundle</guid>
       <pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=485935e678bf2776efa0fb99a8e39255"&gt;&lt;br&gt;Build next-gen mega cities with 500+ Assets! &lt;br&gt;Ends: 2026-10-27</description>
-    </item>
-    <item>
-      <title>Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures</title>
-      <link>https://www.humblebundle.com/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software</link>
-      <guid isPermaLink="false">lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle</guid>
-      <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5ff106f7d300b5ab77b47c7200b00420"&gt;&lt;br&gt;Spine-crawling Lovecraftian miniatures await.&lt;br&gt;Ends: 2026-10-27</description>
     </item>
   </channel>
 </rss>
