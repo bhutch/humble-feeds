@@ -4,7 +4,7 @@
     <title>Humble Games Bundles</title>
     <link>https://www.humblebundle.com/games</link>
     <description>Current Humble Bundle games bundles</description>
-    <lastBuildDate>Sat, 24 Oct 2026 03:53:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:37:10 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>15th Anniversary - Sci-Fi Exposure</title>
@@ -98,18 +98,18 @@
       <description>&lt;img src="https://hb.imgix.net/6dd7c5483ec1c22103aee746b329368ca34d0f43.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=b3acb9dec4ad0dc765efae4906b57b6b"&gt;&lt;br&gt;Fun with the lights out&lt;br&gt;Ends: 2026-11-03</description>
     </item>
     <item>
-      <title>Double Fine Publisher Bundle</title>
-      <link>https://www.humblebundle.com/games/double-fine-publisher-bundle</link>
-      <guid isPermaLink="false">doublefinepublisherbundle_bundle</guid>
-      <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/d9a5d6766bd86ff35d10d73e33e4c71cfc1a75a7.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=088093d51afa83b4e5688bbc380f34ac"&gt;&lt;br&gt;The best of Double Fine&lt;br&gt;Ends: 2026-11-07</description>
-    </item>
-    <item>
       <title>The Triple-i Initiative Showcase Bundle</title>
       <link>https://www.humblebundle.com/games/triplei-initiative-showcase-bundle</link>
       <guid isPermaLink="false">tripleiinitiativeshowcasebundle_bundle</guid>
       <pubDate>Thu, 08 Oct 2026 17:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/c7cb91ecbcaed80008ad5612534745f7ca1b1a8d.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=8ef1799a9c49c00e12a0917527d3e681"&gt;&lt;br&gt;A no-bloat showcase of player-first games!&lt;br&gt;Ends: 2026-10-30</description>
+    </item>
+    <item>
+      <title>Double Fine Publisher Bundle</title>
+      <link>https://www.humblebundle.com/games/double-fine-publisher-bundle</link>
+      <guid isPermaLink="false">doublefinepublisherbundle_bundle</guid>
+      <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/d9a5d6766bd86ff35d10d73e33e4c71cfc1a75a7.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=088093d51afa83b4e5688bbc380f34ac"&gt;&lt;br&gt;The best of Double Fine&lt;br&gt;Ends: 2026-11-07</description>
     </item>
     <item>
       <title>Serenity Forge Emotional Impact Bundle</title>
