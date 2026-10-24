@@ -4,7 +4,7 @@
     <title>Humble Games Bundles</title>
     <link>https://www.humblebundle.com/games</link>
     <description>Current Humble Bundle games bundles</description>
-    <lastBuildDate>Fri, 23 Oct 2026 16:43:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:53:16 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>15th Anniversary - Sci-Fi Exposure</title>
@@ -12,6 +12,20 @@
       <guid isPermaLink="false">15thanniversaryscifiexposure_bundle</guid>
       <pubDate>Wed, 21 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/a79771410e0eb80bd84fe239d4b09f6d3cdcab97.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1d47e546d3660ae80c403f667da5e577"&gt;&lt;br&gt;Sci-fi like you’ve never seen before&lt;br&gt;Ends: 2026-11-12</description>
+    </item>
+    <item>
+      <title>Puzzlers to Puzzle You</title>
+      <link>https://www.humblebundle.com/games/puzzlers-to-puzzle-you</link>
+      <guid isPermaLink="false">puzzlerstopuzzleyou_bundle</guid>
+      <pubDate>Fri, 23 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/e54b62705b0d91d73a48ae07877ddea2b16eb9ec.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=8289dda3e6d2865476d9bbd08b476130"&gt;&lt;br&gt;Don’t get too puzzled&lt;br&gt;Ends: 2026-11-14</description>
+    </item>
+    <item>
+      <title>Phunkier Physics</title>
+      <link>https://www.humblebundle.com/games/phunkier-physics</link>
+      <guid isPermaLink="false">phunkierphysics_bundle</guid>
+      <pubDate>Fri, 23 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/bd674284bac7e55bf8c87d780eaf042eabefa9b4.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=552206b57e9ec3cf846c68700c3be6ab"&gt;&lt;br&gt;Physics meets imagination&lt;br&gt;Ends: 2026-11-14</description>
     </item>
     <item>
       <title>Flat2VR Bundle</title>
@@ -28,18 +42,25 @@
       <description>&lt;img src="https://hb.imgix.net/0230cde5acb385d31e03bdf00a6affdce80555ac.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=ac3a6cc3be256784edf2f60f9d4f377d"&gt;&lt;br&gt;Explore Hamble’s Halloween collection&lt;br&gt;Ends: 2026-11-05</description>
     </item>
     <item>
-      <title>Programming Puzzles Bundle</title>
-      <link>https://www.humblebundle.com/games/programming-puzzles-bundle</link>
-      <guid isPermaLink="false">programingpuzzlesbundle_bundle</guid>
-      <pubDate>Mon, 28 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/5e2300253cbeb2afc8c4419ba3f430c6e9488b4a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=59aea6384fd53dd1d4cdb9f049c1fb7c"&gt;&lt;br&gt;Puzzles for programmers&lt;br&gt;Ends: 2026-10-27</description>
-    </item>
-    <item>
       <title>Gals and Pals: PQube Japanese Games</title>
       <link>https://www.humblebundle.com/games/gals-and-pals-pqube-japanese-games</link>
       <guid isPermaLink="false">galsandpalspqubejapanesegames_bundle</guid>
       <pubDate>Fri, 09 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/0ef0b293bfd552d7fba6897030a5de1a280df953.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=78ffee16247cdb616bf5f71bbcb85876"&gt;&lt;br&gt;Explore PQube’s gorgeous girls of gaming&lt;br&gt;Ends: 2026-10-31</description>
+    </item>
+    <item>
+      <title>Beyond Reality: Sci-Fi &amp; Survival VR Collection</title>
+      <link>https://www.humblebundle.com/games/beyond-reality-scifi-survival-vr-collection</link>
+      <guid isPermaLink="false">beyondrealityscifisurvivalvrcollection_bundle</guid>
+      <pubDate>Wed, 07 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/2c340f6ebca8db9f918a8de608a82ebef559a8cf.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=f76a8860efe47b3c13a43e73b4b79bd2"&gt;&lt;br&gt;Adventure and terror in VR&lt;br&gt;Ends: 2026-10-29</description>
+    </item>
+    <item>
+      <title>Programming Puzzles Bundle</title>
+      <link>https://www.humblebundle.com/games/programming-puzzles-bundle</link>
+      <guid isPermaLink="false">programingpuzzlesbundle_bundle</guid>
+      <pubDate>Mon, 28 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/5e2300253cbeb2afc8c4419ba3f430c6e9488b4a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=59aea6384fd53dd1d4cdb9f049c1fb7c"&gt;&lt;br&gt;Puzzles for programmers&lt;br&gt;Ends: 2026-10-27</description>
     </item>
     <item>
       <title>Capcom Classics Bundle</title>
@@ -70,25 +91,18 @@
       <description>&lt;img src="https://hb.imgix.net/538d132496d3c50167c75b0558b19d53b99cecdb.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=94321a17c226c7787f371084be298e82"&gt;&lt;br&gt;Ready your gear—we’re buildin’!&lt;br&gt;Ends: 2026-11-05</description>
     </item>
     <item>
-      <title>Double Fine Publisher Bundle</title>
-      <link>https://www.humblebundle.com/games/double-fine-publisher-bundle</link>
-      <guid isPermaLink="false">doublefinepublisherbundle_bundle</guid>
-      <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/d9a5d6766bd86ff35d10d73e33e4c71cfc1a75a7.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=088093d51afa83b4e5688bbc380f34ac"&gt;&lt;br&gt;The best of Double Fine&lt;br&gt;Ends: 2026-11-07</description>
-    </item>
-    <item>
-      <title>Serenity Forge Emotional Impact Bundle</title>
-      <link>https://www.humblebundle.com/games/serenity-forge-emotional-impact-bundle</link>
-      <guid isPermaLink="false">serenityforgeemotionalimpactbundle_bundle</guid>
-      <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/466de046010e7c10d85af7ac166465825b23830a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=63276212d83ac9061896d42d97cf1637"&gt;&lt;br&gt;Games to test your emotions&lt;br&gt;Ends: 2026-11-07</description>
-    </item>
-    <item>
       <title>Cozy After Dark Showcase Bundle</title>
       <link>https://www.humblebundle.com/games/cozy-after-dark-showcase-bundle</link>
       <guid isPermaLink="false">cozyafterdarkshowcasebundle_bundle</guid>
       <pubDate>Mon, 12 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/6dd7c5483ec1c22103aee746b329368ca34d0f43.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=b3acb9dec4ad0dc765efae4906b57b6b"&gt;&lt;br&gt;Fun with the lights out&lt;br&gt;Ends: 2026-11-03</description>
+    </item>
+    <item>
+      <title>Double Fine Publisher Bundle</title>
+      <link>https://www.humblebundle.com/games/double-fine-publisher-bundle</link>
+      <guid isPermaLink="false">doublefinepublisherbundle_bundle</guid>
+      <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/d9a5d6766bd86ff35d10d73e33e4c71cfc1a75a7.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=088093d51afa83b4e5688bbc380f34ac"&gt;&lt;br&gt;The best of Double Fine&lt;br&gt;Ends: 2026-11-07</description>
     </item>
     <item>
       <title>The Triple-i Initiative Showcase Bundle</title>
@@ -98,11 +112,11 @@
       <description>&lt;img src="https://hb.imgix.net/c7cb91ecbcaed80008ad5612534745f7ca1b1a8d.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=8ef1799a9c49c00e12a0917527d3e681"&gt;&lt;br&gt;A no-bloat showcase of player-first games!&lt;br&gt;Ends: 2026-10-30</description>
     </item>
     <item>
-      <title>Beyond Reality: Sci-Fi &amp; Survival VR Collection</title>
-      <link>https://www.humblebundle.com/games/beyond-reality-scifi-survival-vr-collection</link>
-      <guid isPermaLink="false">beyondrealityscifisurvivalvrcollection_bundle</guid>
-      <pubDate>Wed, 07 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/2c340f6ebca8db9f918a8de608a82ebef559a8cf.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=f76a8860efe47b3c13a43e73b4b79bd2"&gt;&lt;br&gt;Adventure and terror in VR&lt;br&gt;Ends: 2026-10-29</description>
+      <title>Serenity Forge Emotional Impact Bundle</title>
+      <link>https://www.humblebundle.com/games/serenity-forge-emotional-impact-bundle</link>
+      <guid isPermaLink="false">serenityforgeemotionalimpactbundle_bundle</guid>
+      <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/466de046010e7c10d85af7ac166465825b23830a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=63276212d83ac9061896d42d97cf1637"&gt;&lt;br&gt;Games to test your emotions&lt;br&gt;Ends: 2026-11-07</description>
     </item>
   </channel>
 </rss>
