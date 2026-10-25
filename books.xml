@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Sat, 24 Oct 2026 15:37:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 03:52:30 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Blue Lock: The Perfect Shot Bundle by Kodansha</title>
@@ -21,13 +21,6 @@
       <description>&lt;img src="https://hb.imgix.net/ec1d92391ae86c2003862a8c85a1db3d534416e5.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=fb64e095e0540372a1abe9220897365a"&gt;&lt;br&gt;Tales of terror from the EC Archives&lt;br&gt;Ends: 2026-11-10</description>
     </item>
     <item>
-      <title>Batman Day Comics Bundle by DC Comics</title>
-      <link>https://www.humblebundle.com/books/batman-day-comics-bundle-dc-comics-books</link>
-      <guid isPermaLink="false">batmandaycomicsbundledccomics_bookbundle</guid>
-      <pubDate>Sat, 19 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/61acb85588c28261b33429f73291b5cd0a417443.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=18f5f7fc1b4db69db32b4dc2c1931a4f"&gt;&lt;br&gt;Rule the Night&lt;br&gt;Ends: 2026-10-24</description>
-    </item>
-    <item>
       <title>Candela Obscura by Darrington Press &amp; Friends</title>
       <link>https://www.humblebundle.com/books/candela-obscura-darrington-press-friends-books</link>
       <guid isPermaLink="false">candelaobscuradarringtonpressfriends_bookbundle</guid>
@@ -39,7 +32,7 @@
       <link>https://www.humblebundle.com/books/gamers-kitchen-cookbooks-insight-editions-books</link>
       <guid isPermaLink="false">gamerskitchencookbooksinsighteditions_bookbundle</guid>
       <pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/5dddb96db4bfc7b717dfe54780277cd900172bb8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1aeb1430e837d6bde1cd24e12ecf15c3"&gt;&lt;br&gt;Games have never looked so delicious&lt;br&gt;Ends: 2026-10-24</description>
+      <description>&lt;img src="https://hb.imgix.net/5dddb96db4bfc7b717dfe54780277cd900172bb8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1aeb1430e837d6bde1cd24e12ecf15c3"&gt;&lt;br&gt;Games have never looked so delicious&lt;br&gt;Ends: 2026-10-31</description>
     </item>
     <item>
       <title>Urban Shadows Physical Collection</title>
@@ -187,6 +180,13 @@
       <guid isPermaLink="false">javaapress_bookbundle</guid>
       <pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/a9448128d86cc86344476fc3038eed2fa51fa313.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9ecc81a80b5bacaec2ea0056f4fc1d1f"&gt;&lt;br&gt;Find your groove with Java by Apress.&lt;br&gt;Ends: 2026-11-04</description>
+    </item>
+    <item>
+      <title>Woodworking, Turning, and Carving: An Encore by Taunton Press / Abrams</title>
+      <link>https://www.humblebundle.com/books/woodworking-turning-and-carving-an-encore-by-taunton-press-abrams-books</link>
+      <guid isPermaLink="false">woodworkingturningandcarvinganencorebytauntonpressabrams_bookbundle</guid>
+      <pubDate>Sat, 24 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/6caf98992d6c5584664a7fbc0bec930f5e9bc79a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=7e72c17d41c003364c41b5004e3a83d9"&gt;&lt;br&gt;Master a time-honored craft!&lt;br&gt;Ends: 2026-11-14</description>
     </item>
     <item>
       <title>Robotics &amp; Automation Engineering Mastery Bundle by Packt</title>
