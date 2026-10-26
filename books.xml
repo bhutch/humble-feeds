@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Sun, 25 Oct 2026 15:47:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 03:56:30 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Blue Lock: The Perfect Shot Bundle by Kodansha</title>
@@ -182,18 +182,18 @@
       <description>&lt;img src="https://hb.imgix.net/a9448128d86cc86344476fc3038eed2fa51fa313.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9ecc81a80b5bacaec2ea0056f4fc1d1f"&gt;&lt;br&gt;Find your groove with Java by Apress.&lt;br&gt;Ends: 2026-11-04</description>
     </item>
     <item>
-      <title>Woodworking, Turning, and Carving: An Encore by Taunton Press / Abrams</title>
-      <link>https://www.humblebundle.com/books/woodworking-turning-and-carving-an-encore-by-taunton-press-abrams-books</link>
-      <guid isPermaLink="false">woodworkingturningandcarvinganencorebytauntonpressabrams_bookbundle</guid>
-      <pubDate>Sat, 24 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/6caf98992d6c5584664a7fbc0bec930f5e9bc79a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=7e72c17d41c003364c41b5004e3a83d9"&gt;&lt;br&gt;Master a time-honored craft!&lt;br&gt;Ends: 2026-11-14</description>
-    </item>
-    <item>
       <title>Robotics &amp; Automation Engineering Mastery Bundle by Packt</title>
       <link>https://www.humblebundle.com/books/robotics-automation-engineering-mastery-bundle-packt-books</link>
       <guid isPermaLink="false">roboticsautomationengineeringmasterybundlepackt_bookbundle</guid>
       <pubDate>Wed, 21 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/1362b61d4dcbbc3da4a946a403718565d8b603d8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=7474d164ec8712e6f90b7ae682700819"&gt;&lt;br&gt;Make life easier with robotics &amp;amp; automation.&lt;br&gt;Ends: 2026-11-11</description>
+    </item>
+    <item>
+      <title>Woodworking, Turning, and Carving: An Encore by Taunton Press / Abrams</title>
+      <link>https://www.humblebundle.com/books/woodworking-turning-and-carving-an-encore-by-taunton-press-abrams-books</link>
+      <guid isPermaLink="false">woodworkingturningandcarvinganencorebytauntonpressabrams_bookbundle</guid>
+      <pubDate>Sat, 24 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/6caf98992d6c5584664a7fbc0bec930f5e9bc79a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=7e72c17d41c003364c41b5004e3a83d9"&gt;&lt;br&gt;Master a time-honored craft!&lt;br&gt;Ends: 2026-11-14</description>
     </item>
   </channel>
 </rss>
