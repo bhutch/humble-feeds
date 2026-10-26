@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Mon, 26 Oct 2026 03:56:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:28:11 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Blue Lock: The Perfect Shot Bundle by Kodansha</title>
@@ -116,7 +116,7 @@
       <link>https://www.humblebundle.com/books/excel-wiley-books</link>
       <guid isPermaLink="false">excelwiley_bookbundle</guid>
       <pubDate>Mon, 05 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/bf4f5bc7a29a330fc4d7a1e2810a9161f8ad2281.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=71fd913a8d23d975eb0fb3e993360170"&gt;&lt;br&gt;Excel-erate your output with Microsoft 365&lt;br&gt;Ends: 2026-10-26</description>
+      <description>&lt;img src="https://hb.imgix.net/bf4f5bc7a29a330fc4d7a1e2810a9161f8ad2281.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=71fd913a8d23d975eb0fb3e993360170"&gt;&lt;br&gt;Excel-erate your output with Microsoft 365&lt;br&gt;Ends: 2026-11-02</description>
     </item>
     <item>
       <title>Gatchaman and Speed Racer by Mad Cave Studios</title>
@@ -180,6 +180,13 @@
       <guid isPermaLink="false">javaapress_bookbundle</guid>
       <pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/a9448128d86cc86344476fc3038eed2fa51fa313.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9ecc81a80b5bacaec2ea0056f4fc1d1f"&gt;&lt;br&gt;Find your groove with Java by Apress.&lt;br&gt;Ends: 2026-11-04</description>
+    </item>
+    <item>
+      <title>Data Science by O'Reilly</title>
+      <link>https://www.humblebundle.com/books/data-science-oreilly-books</link>
+      <guid isPermaLink="false">datascienceoreilly_bookbundle</guid>
+      <pubDate>Mon, 26 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/552bffb390529cc39c2e86ff8ea203e2e3b44933.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=26a60c3415d1b9b8b21f4e61e57e1d9b"&gt;&lt;br&gt;Demystify data science with elite eBooks&lt;br&gt;Ends: 2026-11-16</description>
     </item>
     <item>
       <title>Robotics &amp; Automation Engineering Mastery Bundle by Packt</title>
