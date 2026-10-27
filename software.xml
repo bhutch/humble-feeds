@@ -4,7 +4,7 @@
     <title>Humble Software Bundles</title>
     <link>https://www.humblebundle.com/software</link>
     <description>Current Humble Bundle software bundles</description>
-    <lastBuildDate>Tue, 27 Oct 2026 04:17:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:43:29 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Map Making MEGA Bundle Last Chance</title>
@@ -126,13 +126,6 @@
       <description>&lt;img src="https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=859d915e102c60c7a2b4354eb499fbeb"&gt;&lt;br&gt;Supercharge your software engineering skills.&lt;br&gt;Ends: 2026-11-02</description>
     </item>
     <item>
-      <title>Make Your Own Games In Unreal</title>
-      <link>https://www.humblebundle.com/software/make-your-own-games-in-unreal-software</link>
-      <guid isPermaLink="false">makeyourowngamesinunreal_softwarebundle</guid>
-      <pubDate>Thu, 08 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/3b4450d10fdb29377274782e5a4f053bffd4d896.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=3ab209cbd9e5b0ef3f21c3ebecf324e3"&gt;&lt;br&gt;Fine-tune your game dev skills!&lt;br&gt;Ends: 2026-10-29</description>
-    </item>
-    <item>
       <title>Data Engineering Masterclass</title>
       <link>https://www.humblebundle.com/software/data-engineering-masterclass-software</link>
       <guid isPermaLink="false">dataengineeringmasterclass_softwarebundle</guid>
@@ -152,6 +145,13 @@
       <guid isPermaLink="false">completehiggsfieldaivideocreationbundle_softwarebundle</guid>
       <pubDate>Sat, 17 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/e9b8dd7ba0257a899fe47b6c86305e753fc53b7f.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=4cbe57f3e75a0b8ca5ae3323ff47a1bc"&gt;&lt;br&gt;Transform your ideas with Higgsfield&lt;br&gt;Ends: 2026-11-07</description>
+    </item>
+    <item>
+      <title>Make Your Own Games In Unreal</title>
+      <link>https://www.humblebundle.com/software/make-your-own-games-in-unreal-software</link>
+      <guid isPermaLink="false">makeyourowngamesinunreal_softwarebundle</guid>
+      <pubDate>Thu, 08 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/3b4450d10fdb29377274782e5a4f053bffd4d896.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=3ab209cbd9e5b0ef3f21c3ebecf324e3"&gt;&lt;br&gt;Fine-tune your game dev skills!&lt;br&gt;Ends: 2026-10-29</description>
     </item>
     <item>
       <title>Underwater Creatures Mega Bundle - Unreal Engine &amp; Unity</title>
