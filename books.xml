@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Tue, 27 Oct 2026 17:43:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 04:47:43 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Blue Lock: The Perfect Shot Bundle by Kodansha</title>
@@ -84,13 +84,6 @@
       <description>&lt;img src="https://hb.imgix.net/c6cf13ab4cd36a1ce64d1b43fe76e4d0d5d58849.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=32c93a195351cb7d53522d0808a5637a"&gt;&lt;br&gt;A century of self care&lt;br&gt;Ends: 2026-10-31</description>
     </item>
     <item>
-      <title>Crochet Bags and Wearables by Open Road Media</title>
-      <link>https://www.humblebundle.com/books/crochet-bags-and-wearables-open-road-media-books</link>
-      <guid isPermaLink="false">crochetbagsandwearablesopenroadmedia_bookbundle</guid>
-      <pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/995023cdbf782361c11f550a484191728a003f2c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=46465876a679faef13809171d6619ce1"&gt;&lt;br&gt;Crochet your cares away&lt;br&gt;Ends: 2026-10-27</description>
-    </item>
-    <item>
       <title>DIY Halloween Displays and Holiday Gifts</title>
       <link>https://www.humblebundle.com/books/diy-electronics-gadgets-games-and-more-make-books</link>
       <guid isPermaLink="false">diyelectronicsgadgetsgamesandmoremake_bookbundle</guid>
@@ -147,13 +140,6 @@
       <description>&lt;img src="https://hb.imgix.net/810e275c9bc6ce1bd065fd3690b209de23669881.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=c8a5f88df340a6cb9667ef28192fd8a8"&gt;&lt;br&gt;Catch up on Fantagraphics favorites&lt;br&gt;Ends: 2026-10-29</description>
     </item>
     <item>
-      <title>African Futurism: Nnedi Okorafor, Wole Talabi, and Adam Oyebanji by DAW Books</title>
-      <link>https://www.humblebundle.com/books/african-futurism-nnedi-okorafor-wole-talabi-and-adam-oyebanji-daw-books-books</link>
-      <guid isPermaLink="false">africanfuturismnnediokoraforwoletalabiandadamoyebanjidawbooks_bookbundle</guid>
-      <pubDate>Tue, 06 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/8485e8f16fae8daef7a0f64e08a724c0b4b5f243.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=e6bb6739d5641ca4eac55fc0332de80d"&gt;&lt;br&gt;Visions of the future&lt;br&gt;Ends: 2026-10-27</description>
-    </item>
-    <item>
       <title>Cybersecurity Month 2026 by O'Reilly</title>
       <link>https://www.humblebundle.com/books/cybersecurity-month-2026-oreilly-books</link>
       <guid isPermaLink="false">cybersecuritymonth2026oreilly_bookbundle</guid>
@@ -180,6 +166,13 @@
       <guid isPermaLink="false">javaapress_bookbundle</guid>
       <pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/a9448128d86cc86344476fc3038eed2fa51fa313.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9ecc81a80b5bacaec2ea0056f4fc1d1f"&gt;&lt;br&gt;Find your groove with Java by Apress.&lt;br&gt;Ends: 2026-11-04</description>
+    </item>
+    <item>
+      <title>Rick and Morty Forever! The Grand Finale Bundle by Oni Press</title>
+      <link>https://www.humblebundle.com/books/ricky-and-morty-forever-the-grand-finale-by-onipress-books</link>
+      <guid isPermaLink="false">rickandmortyforeverthegrandfinalebyonipress_bookbundle</guid>
+      <pubDate>Tue, 27 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/f6f8f82ed1114211218823a9c2999974f7c1eddc.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=c0721c63abb64b11dcf000345548034d"&gt;&lt;br&gt;Wubba lubba dub dub!&lt;br&gt;Ends: 2026-11-17</description>
     </item>
     <item>
       <title>Data Science by O'Reilly</title>
