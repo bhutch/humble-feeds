@@ -4,7 +4,7 @@
     <title>Humble Software Bundles</title>
     <link>https://www.humblebundle.com/software</link>
     <description>Current Humble Bundle software bundles</description>
-    <lastBuildDate>Wed, 28 Oct 2026 04:47:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 18:05:24 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Map Making MEGA Bundle Last Chance</title>
@@ -12,6 +12,13 @@
       <guid isPermaLink="false">mapmakingmegabundlelastchance_softwarebundle</guid>
       <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/d190375b2881929ef71352004f5c67ea6b88190a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=45b0716a1f3b516320a0f666190c05d2"&gt;&lt;br&gt;Chart your own path to map making&lt;br&gt;Ends: 2026-11-03</description>
+    </item>
+    <item>
+      <title>Vampire: The Masquerade Complete V5 Collection for Alchemy VTT</title>
+      <link>https://www.humblebundle.com/software/vampire-masquerade-complete-v5-collection-for-alchemy-vtt-software</link>
+      <guid isPermaLink="false">vampiremasqueradecompletev5collectionforalchemyvtt_softwarebundle</guid>
+      <pubDate>Tue, 27 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/ab5d39aa47f4d9fc15a668c071ce4fbb1c373265.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=ef05ae81a3e08882f09b8fb8115fa6aa"&gt;&lt;br&gt;Sink your fangs in&lt;br&gt;Ends: 2026-11-17</description>
     </item>
     <item>
       <title>The Complete Works - A Massive collection of Royalty-Free Audio Tracks</title>
@@ -88,21 +95,21 @@
       <link>https://www.humblebundle.com/software/unity-powerhouse-bundle-software</link>
       <guid isPermaLink="false">unitypowerhousebundle_softwarebundle</guid>
       <pubDate>Wed, 07 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/525bf8d4c24dc3a45f3763557a584f9f08542528.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=ac1f534a4d9e5f04bca48860bed29a2a"&gt;&lt;br&gt;Build your world with Unity&lt;br&gt;Ends: 2026-10-28</description>
+      <description>&lt;img src="https://hb.imgix.net/525bf8d4c24dc3a45f3763557a584f9f08542528.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=ac1f534a4d9e5f04bca48860bed29a2a"&gt;&lt;br&gt;Build your world with Unity&lt;br&gt;Ends: 2026-11-04</description>
     </item>
     <item>
       <title>The Complete Java Developer Bundle</title>
       <link>https://www.humblebundle.com/software/complete-java-developer-bundle-software</link>
       <guid isPermaLink="false">completejavadeveloperbundle_softwarebundle</guid>
       <pubDate>Wed, 07 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/ee169cd00285a1a410ab45e1f1f6f542453d69d7.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1951767858c5acbbe099089343156aec"&gt;&lt;br&gt;Gotta have your Java&lt;br&gt;Ends: 2026-10-28</description>
+      <description>&lt;img src="https://hb.imgix.net/ee169cd00285a1a410ab45e1f1f6f542453d69d7.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1951767858c5acbbe099089343156aec"&gt;&lt;br&gt;Gotta have your Java&lt;br&gt;Ends: 2026-11-04</description>
     </item>
     <item>
-      <title>Vampire: The Masquerade Complete V5 Collection for Alchemy VTT</title>
-      <link>https://www.humblebundle.com/software/vampire-masquerade-complete-v5-collection-for-alchemy-vtt-software</link>
-      <guid isPermaLink="false">vampiremasqueradecompletev5collectionforalchemyvtt_softwarebundle</guid>
-      <pubDate>Tue, 27 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/ab5d39aa47f4d9fc15a668c071ce4fbb1c373265.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=ef05ae81a3e08882f09b8fb8115fa6aa"&gt;&lt;br&gt;Sink your fangs in&lt;br&gt;Ends: 2026-11-17</description>
+      <title>Sounds to Die For: The Horror Audio Collection</title>
+      <link>https://www.humblebundle.com/software/sounds-to-die-for-horror-audio-collection-software</link>
+      <guid isPermaLink="false">soundstodieforhorroraudiocollection_softwarebundle</guid>
+      <pubDate>Wed, 28 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/ec5e6e135c4f08bb1c57611588700ad767a769d9.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=bf6aeae8252745087ffc966453b63c1b"&gt;&lt;br&gt;Unlock sounds to die for!&lt;br&gt;Ends: 2026-11-18</description>
     </item>
     <item>
       <title>The Ultimate AI Image Toolkit</title>
@@ -126,13 +133,6 @@
       <description>&lt;img src="https://hb.imgix.net/bd38ff03953006dbc60a8f7195411401cefb7148.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=05bc278241a04d3253b66622c863574f"&gt;&lt;br&gt;Make waves with detailed underwater creature assets!&lt;br&gt;Ends: 2026-11-16</description>
     </item>
     <item>
-      <title>Game Dev Mega Cities</title>
-      <link>https://www.humblebundle.com/software/game-dev-mega-cities-software</link>
-      <guid isPermaLink="false">gamedevmegacities_softwarebundle</guid>
-      <pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=485935e678bf2776efa0fb99a8e39255"&gt;&lt;br&gt;Build next-gen mega cities with 500+ Assets! &lt;br&gt;Ends: 2026-11-03</description>
-    </item>
-    <item>
       <title>Data Engineering Masterclass</title>
       <link>https://www.humblebundle.com/software/data-engineering-masterclass-software</link>
       <guid isPermaLink="false">dataengineeringmasterclass_softwarebundle</guid>
@@ -154,11 +154,11 @@
       <description>&lt;img src="https://hb.imgix.net/3b4450d10fdb29377274782e5a4f053bffd4d896.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=3ab209cbd9e5b0ef3f21c3ebecf324e3"&gt;&lt;br&gt;Fine-tune your game dev skills!&lt;br&gt;Ends: 2026-10-29</description>
     </item>
     <item>
-      <title>Dungeon Adventures! - 3D Printable Miniatures &amp; Scenery</title>
-      <link>https://www.humblebundle.com/software/dungeon-adventures-3d-printable-miniatures-scenery-software</link>
-      <guid isPermaLink="false">dungeonadventures3dprintableminiaturesscenery_softwarebundle</guid>
-      <pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/7354fc9f5e3c3edf7bedfca60a35ef1ec4a52d90.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=f83797c58ca5e761d2a25adfe28769c5"&gt;&lt;br&gt;Bring your dungeon to life&lt;br&gt;Ends: 2026-10-31</description>
+      <title>Game Dev Mega Cities</title>
+      <link>https://www.humblebundle.com/software/game-dev-mega-cities-software</link>
+      <guid isPermaLink="false">gamedevmegacities_softwarebundle</guid>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=485935e678bf2776efa0fb99a8e39255"&gt;&lt;br&gt;Build next-gen mega cities with 500+ Assets! &lt;br&gt;Ends: 2026-11-03</description>
     </item>
     <item>
       <title>Modern A.I. Game Dev Crash Course</title>
@@ -166,6 +166,13 @@
       <guid isPermaLink="false">modernaigamedevcrashcourse_softwarebundle</guid>
       <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=dd61ffaab343e502b965ca686c72bf12"&gt;&lt;br&gt;Your crash course in AI game development &lt;br&gt;Ends: 2026-11-03</description>
+    </item>
+    <item>
+      <title>Dungeon Adventures! - 3D Printable Miniatures &amp; Scenery</title>
+      <link>https://www.humblebundle.com/software/dungeon-adventures-3d-printable-miniatures-scenery-software</link>
+      <guid isPermaLink="false">dungeonadventures3dprintableminiaturesscenery_softwarebundle</guid>
+      <pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/7354fc9f5e3c3edf7bedfca60a35ef1ec4a52d90.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=f83797c58ca5e761d2a25adfe28769c5"&gt;&lt;br&gt;Bring your dungeon to life&lt;br&gt;Ends: 2026-10-31</description>
     </item>
   </channel>
 </rss>
