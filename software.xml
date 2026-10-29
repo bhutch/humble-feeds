@@ -4,7 +4,7 @@
     <title>Humble Software Bundles</title>
     <link>https://www.humblebundle.com/software</link>
     <description>Current Humble Bundle software bundles</description>
-    <lastBuildDate>Wed, 28 Oct 2026 18:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:58:36 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Map Making MEGA Bundle Last Chance</title>
@@ -35,11 +35,25 @@
       <description>&lt;img src="https://hb.imgix.net/1e3a667bc61a77720d15b113086d4ff4e846ab84.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=64b2a7f22bd998cdb9b450cb28df7b63"&gt;&lt;br&gt;Fill your games with frights&lt;br&gt;Ends: 2026-11-02</description>
     </item>
     <item>
+      <title>Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures</title>
+      <link>https://www.humblebundle.com/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software</link>
+      <guid isPermaLink="false">lovecraftianhorrorsstlminiaturesmegabundlensminiatures_softwarebundle</guid>
+      <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5ff106f7d300b5ab77b47c7200b00420"&gt;&lt;br&gt;Spine-crawling Lovecraftian miniatures await.&lt;br&gt;Ends: 2026-10-31</description>
+    </item>
+    <item>
       <title>Blender 3D &amp; Game Development Bundle</title>
       <link>https://www.humblebundle.com/software/blender-3d-game-development-bundle-software</link>
       <guid isPermaLink="false">blender3dgamedevelopmentbundle_softwarebundle</guid>
       <pubDate>Sat, 24 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/82f53e29a05043c13617145d169bdd8d15b8b41c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=3d6f79c25db77e05f8fe7da6e8ab2646"&gt;&lt;br&gt;Become a better Blender user today! &lt;br&gt;Ends: 2026-11-14</description>
+    </item>
+    <item>
+      <title>Sounds to Die For: The Horror Audio Collection</title>
+      <link>https://www.humblebundle.com/software/sounds-to-die-for-horror-audio-collection-software</link>
+      <guid isPermaLink="false">soundstodieforhorroraudiocollection_softwarebundle</guid>
+      <pubDate>Wed, 28 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/ec5e6e135c4f08bb1c57611588700ad767a769d9.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=bf6aeae8252745087ffc966453b63c1b"&gt;&lt;br&gt;Unlock sounds to die for!&lt;br&gt;Ends: 2026-11-18</description>
     </item>
     <item>
       <title>Ultimate SFX for Games</title>
@@ -103,13 +117,6 @@
       <guid isPermaLink="false">completejavadeveloperbundle_softwarebundle</guid>
       <pubDate>Wed, 07 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/ee169cd00285a1a410ab45e1f1f6f542453d69d7.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1951767858c5acbbe099089343156aec"&gt;&lt;br&gt;Gotta have your Java&lt;br&gt;Ends: 2026-11-04</description>
-    </item>
-    <item>
-      <title>Sounds to Die For: The Horror Audio Collection</title>
-      <link>https://www.humblebundle.com/software/sounds-to-die-for-horror-audio-collection-software</link>
-      <guid isPermaLink="false">soundstodieforhorroraudiocollection_softwarebundle</guid>
-      <pubDate>Wed, 28 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/ec5e6e135c4f08bb1c57611588700ad767a769d9.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=bf6aeae8252745087ffc966453b63c1b"&gt;&lt;br&gt;Unlock sounds to die for!&lt;br&gt;Ends: 2026-11-18</description>
     </item>
     <item>
       <title>The Ultimate AI Image Toolkit</title>
