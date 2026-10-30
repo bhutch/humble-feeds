@@ -4,7 +4,7 @@
     <title>Humble Software Bundles</title>
     <link>https://www.humblebundle.com/software</link>
     <description>Current Humble Bundle software bundles</description>
-    <lastBuildDate>Thu, 29 Oct 2026 18:13:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 04:58:31 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Map Making MEGA Bundle Last Chance</title>
@@ -126,6 +126,13 @@
       <description>&lt;img src="https://hb.imgix.net/bd38ff03953006dbc60a8f7195411401cefb7148.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=05bc278241a04d3253b66622c863574f"&gt;&lt;br&gt;Make waves with detailed underwater creature assets!&lt;br&gt;Ends: 2026-11-16</description>
     </item>
     <item>
+      <title>Data Engineering Masterclass</title>
+      <link>https://www.humblebundle.com/software/data-engineering-masterclass-software</link>
+      <guid isPermaLink="false">dataengineeringmasterclass_softwarebundle</guid>
+      <pubDate>Thu, 22 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/b1c879e060a10678cb7cd6961b2f5d8ec0232c6c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=413ce08b4ca374b1282f5e6fd5c4626d"&gt;&lt;br&gt;A masterclass in data engineering advancement&lt;br&gt;Ends: 2026-11-12</description>
+    </item>
+    <item>
       <title>The Complete Higgsfield AI Video Creation Bundle</title>
       <link>https://www.humblebundle.com/software/complete-higgsfield-ai-video-creation-bundle-software</link>
       <guid isPermaLink="false">completehiggsfieldaivideocreationbundle_softwarebundle</guid>
@@ -138,13 +145,6 @@
       <guid isPermaLink="false">gamedevmegacities_softwarebundle</guid>
       <pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=485935e678bf2776efa0fb99a8e39255"&gt;&lt;br&gt;Build next-gen mega cities with 500+ Assets! &lt;br&gt;Ends: 2026-11-03</description>
-    </item>
-    <item>
-      <title>Data Engineering Masterclass</title>
-      <link>https://www.humblebundle.com/software/data-engineering-masterclass-software</link>
-      <guid isPermaLink="false">dataengineeringmasterclass_softwarebundle</guid>
-      <pubDate>Thu, 22 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/b1c879e060a10678cb7cd6961b2f5d8ec0232c6c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=413ce08b4ca374b1282f5e6fd5c4626d"&gt;&lt;br&gt;A masterclass in data engineering advancement&lt;br&gt;Ends: 2026-11-12</description>
     </item>
     <item>
       <title>Modern A.I. Game Dev Crash Course</title>
