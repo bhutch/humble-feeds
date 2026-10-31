@@ -4,7 +4,7 @@
     <title>Humble Software Bundles</title>
     <link>https://www.humblebundle.com/software</link>
     <description>Current Humble Bundle software bundles</description>
-    <lastBuildDate>Sat, 31 Oct 2026 04:45:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 17:01:21 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Map Making MEGA Bundle Last Chance</title>
@@ -112,13 +112,6 @@
       <description>&lt;img src="https://hb.imgix.net/0c95d1284bfa9b8689bec3bc4da0b3f4f7a0180f.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=49e1efbf8c606a69c380812d4cc5e7ec"&gt;&lt;br&gt;Your imagination, running on your own computer.&lt;br&gt;Ends: 2026-11-17</description>
     </item>
     <item>
-      <title>Underwater Creatures Mega Bundle - Unreal Engine &amp; Unity</title>
-      <link>https://www.humblebundle.com/software/underwater-creatures-mega-bundle-unreal-engine-unity-software</link>
-      <guid isPermaLink="false">underwatercreaturesmegabundleunrealengineunity_softwarebundle</guid>
-      <pubDate>Mon, 26 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/bd38ff03953006dbc60a8f7195411401cefb7148.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=05bc278241a04d3253b66622c863574f"&gt;&lt;br&gt;Make waves with detailed underwater creature assets!&lt;br&gt;Ends: 2026-11-16</description>
-    </item>
-    <item>
       <title>The Complete Higgsfield AI Video Creation Bundle</title>
       <link>https://www.humblebundle.com/software/complete-higgsfield-ai-video-creation-bundle-software</link>
       <guid isPermaLink="false">completehiggsfieldaivideocreationbundle_softwarebundle</guid>
@@ -138,6 +131,13 @@
       <guid isPermaLink="false">dataengineeringmasterclass_softwarebundle</guid>
       <pubDate>Thu, 22 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/b1c879e060a10678cb7cd6961b2f5d8ec0232c6c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=413ce08b4ca374b1282f5e6fd5c4626d"&gt;&lt;br&gt;A masterclass in data engineering advancement&lt;br&gt;Ends: 2026-11-12</description>
+    </item>
+    <item>
+      <title>Underwater Creatures Mega Bundle - Unreal Engine &amp; Unity</title>
+      <link>https://www.humblebundle.com/software/underwater-creatures-mega-bundle-unreal-engine-unity-software</link>
+      <guid isPermaLink="false">underwatercreaturesmegabundleunrealengineunity_softwarebundle</guid>
+      <pubDate>Mon, 26 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/bd38ff03953006dbc60a8f7195411401cefb7148.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=05bc278241a04d3253b66622c863574f"&gt;&lt;br&gt;Make waves with detailed underwater creature assets!&lt;br&gt;Ends: 2026-11-16</description>
     </item>
     <item>
       <title>Modern A.I. Game Dev Crash Course</title>
