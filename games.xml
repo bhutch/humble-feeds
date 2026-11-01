@@ -4,7 +4,7 @@
     <title>Humble Games Bundles</title>
     <link>https://www.humblebundle.com/games</link>
     <description>Current Humble Bundle games bundles</description>
-    <lastBuildDate>Sat, 31 Oct 2026 17:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 05:07:49 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>15th Anniversary - Sci-Fi Exposure</title>
@@ -119,18 +119,18 @@
       <description>&lt;img src="https://hb.imgix.net/6dd7c5483ec1c22103aee746b329368ca34d0f43.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=b3acb9dec4ad0dc765efae4906b57b6b"&gt;&lt;br&gt;Fun with the lights out&lt;br&gt;Ends: 2026-11-03</description>
     </item>
     <item>
-      <title>Serenity Forge Emotional Impact Bundle</title>
-      <link>https://www.humblebundle.com/games/serenity-forge-emotional-impact-bundle</link>
-      <guid isPermaLink="false">serenityforgeemotionalimpactbundle_bundle</guid>
-      <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/466de046010e7c10d85af7ac166465825b23830a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=63276212d83ac9061896d42d97cf1637"&gt;&lt;br&gt;Games to test your emotions&lt;br&gt;Ends: 2026-11-07</description>
-    </item>
-    <item>
       <title>Double Fine Publisher Bundle</title>
       <link>https://www.humblebundle.com/games/double-fine-publisher-bundle</link>
       <guid isPermaLink="false">doublefinepublisherbundle_bundle</guid>
       <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/d9a5d6766bd86ff35d10d73e33e4c71cfc1a75a7.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=088093d51afa83b4e5688bbc380f34ac"&gt;&lt;br&gt;The best of Double Fine&lt;br&gt;Ends: 2026-11-07</description>
+    </item>
+    <item>
+      <title>Serenity Forge Emotional Impact Bundle</title>
+      <link>https://www.humblebundle.com/games/serenity-forge-emotional-impact-bundle</link>
+      <guid isPermaLink="false">serenityforgeemotionalimpactbundle_bundle</guid>
+      <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/466de046010e7c10d85af7ac166465825b23830a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=63276212d83ac9061896d42d97cf1637"&gt;&lt;br&gt;Games to test your emotions&lt;br&gt;Ends: 2026-11-07</description>
     </item>
   </channel>
 </rss>

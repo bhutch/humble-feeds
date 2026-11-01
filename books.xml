@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Sat, 31 Oct 2026 17:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 05:07:49 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Best-Sellers of Amigurumi by Meteoor Books</title>
@@ -63,25 +63,11 @@
       <description>&lt;img src="https://hb.imgix.net/327c799c3c6addfea5e2373c076e16c41cb79583.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d7e0046901309c770e4d12c23936c9e9"&gt;&lt;br&gt;Create your own adventure&lt;br&gt;Ends: 2026-11-06</description>
     </item>
     <item>
-      <title>Celebrating 100 Years of Mindfulness, Peace, and Compassion: The Essential Thich Nhat Hanh Collection</title>
-      <link>https://www.humblebundle.com/books/celebrating-100-years--thich-nhat-hanh-collection-books</link>
-      <guid isPermaLink="false">celebrating100yearsthichnhathanhcollection_bookbundle</guid>
-      <pubDate>Sat, 10 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/c6cf13ab4cd36a1ce64d1b43fe76e4d0d5d58849.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=32c93a195351cb7d53522d0808a5637a"&gt;&lt;br&gt;A century of self care&lt;br&gt;Ends: 2026-10-31</description>
-    </item>
-    <item>
       <title>Urban Shadows Physical Collection</title>
       <link>https://www.humblebundle.com/books/urban-shadows-physical-collection-books</link>
       <guid isPermaLink="false">urbanshadowsphysicalcollection_bookbundle</guid>
       <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/ea00550e937d85ef4ff178d8b0980a17954398ea.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=95363942c9232ab64286272d1da03637"&gt;&lt;br&gt;Survive the city of shadows&lt;br&gt;Ends: 2026-11-06</description>
-    </item>
-    <item>
-      <title>Cybersecurity Month 2026 by O'Reilly</title>
-      <link>https://www.humblebundle.com/books/cybersecurity-month-2026-oreilly-books</link>
-      <guid isPermaLink="false">cybersecuritymonth2026oreilly_bookbundle</guid>
-      <pubDate>Mon, 28 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/b0bfca53c721b412281fe48d1fdf54f868871d52.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d10328192f10a0f74a000ada33a12445"&gt;&lt;br&gt;Fortify your digital worlds with elite cybersecurity.&lt;br&gt;Ends: 2026-10-31</description>
     </item>
     <item>
       <title>IT Management Toolkit by Taylor &amp; Francis</title>
@@ -96,20 +82,6 @@
       <guid isPermaLink="false">javaapress_bookbundle</guid>
       <pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/a9448128d86cc86344476fc3038eed2fa51fa313.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9ecc81a80b5bacaec2ea0056f4fc1d1f"&gt;&lt;br&gt;Find your groove with Java by Apress.&lt;br&gt;Ends: 2026-11-04</description>
-    </item>
-    <item>
-      <title>Gatchaman and Speed Racer by Mad Cave Studios</title>
-      <link>https://www.humblebundle.com/books/gatchaman-and-speed-racer-mad-cave-studios-books</link>
-      <guid isPermaLink="false">gatchamanandspeedracermadcavestudios_bookbundle</guid>
-      <pubDate>Sat, 26 Sep 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/6ebc84e7fd060d8648eb1541c4bf91b9606fcc3a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=b792419ea9e9ce21f74c9e266aac3e66"&gt;&lt;br&gt;Catch up with Speed Racer &amp;amp; friends!&lt;br&gt;Ends: 2026-10-31</description>
-    </item>
-    <item>
-      <title>Gamer's Kitchen Cookbooks by Insight Editions</title>
-      <link>https://www.humblebundle.com/books/gamers-kitchen-cookbooks-insight-editions-books</link>
-      <guid isPermaLink="false">gamerskitchencookbooksinsighteditions_bookbundle</guid>
-      <pubDate>Sat, 03 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/5dddb96db4bfc7b717dfe54780277cd900172bb8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1aeb1430e837d6bde1cd24e12ecf15c3"&gt;&lt;br&gt;Games have never looked so delicious&lt;br&gt;Ends: 2026-10-31</description>
     </item>
     <item>
       <title>Candela Obscura by Darrington Press &amp; Friends</title>
@@ -138,6 +110,13 @@
       <guid isPermaLink="false">roboticsautomationengineeringmasterybundlepackt_bookbundle</guid>
       <pubDate>Wed, 21 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/1362b61d4dcbbc3da4a946a403718565d8b603d8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=7474d164ec8712e6f90b7ae682700819"&gt;&lt;br&gt;Make life easier with robotics &amp;amp; automation.&lt;br&gt;Ends: 2026-11-11</description>
+    </item>
+    <item>
+      <title>The Halloween Horror Bundle by Vault Comics</title>
+      <link>https://www.humblebundle.com/books/halloween-horror-bundle-vault-comics-books</link>
+      <guid isPermaLink="false">halloweenhorrorbundlevaultcomics_bookbundle</guid>
+      <pubDate>Sat, 31 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/a9e16790b554fdc25b65e879485c9e23cf3a7a53.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5e5b1b7526b9f489c9e435642b888a02"&gt;&lt;br&gt;Spooky comics for spooky season&lt;br&gt;Ends: 2026-11-21</description>
     </item>
     <item>
       <title>Beadle &amp; Grimm's D&amp;D Classic Module Dice Sets</title>
