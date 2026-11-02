@@ -4,7 +4,7 @@
     <title>Humble Games Bundles</title>
     <link>https://www.humblebundle.com/games</link>
     <description>Current Humble Bundle games bundles</description>
-    <lastBuildDate>Mon, 02 Nov 2026 05:08:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:31:47 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>15th Anniversary - Sci-Fi Exposure</title>
@@ -105,6 +105,13 @@
       <description>&lt;img src="https://hb.imgix.net/538d132496d3c50167c75b0558b19d53b99cecdb.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=94321a17c226c7787f371084be298e82"&gt;&lt;br&gt;Ready your gear—we’re buildin’!&lt;br&gt;Ends: 2026-11-05</description>
     </item>
     <item>
+      <title>Crimes and Curiosity Bundle by S2 Games</title>
+      <link>https://www.humblebundle.com/games/crimes-and-curiosity-bundle-s2-games</link>
+      <guid isPermaLink="false">crimesandcuriositybundles2games_bundle</guid>
+      <pubDate>Mon, 02 Nov 2026 19:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/1ae73bd9253efb4f32dac981b6f3e4857f2829a7.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=660013837d62bf1cc8ca3be6d1142ae5"&gt;&lt;br&gt;Crack cases and unravel mysteries!&lt;br&gt;Ends: 2026-11-24</description>
+    </item>
+    <item>
       <title>Cozy After Dark Showcase Bundle</title>
       <link>https://www.humblebundle.com/games/cozy-after-dark-showcase-bundle</link>
       <guid isPermaLink="false">cozyafterdarkshowcasebundle_bundle</guid>
@@ -112,18 +119,18 @@
       <description>&lt;img src="https://hb.imgix.net/6dd7c5483ec1c22103aee746b329368ca34d0f43.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=b3acb9dec4ad0dc765efae4906b57b6b"&gt;&lt;br&gt;Fun with the lights out&lt;br&gt;Ends: 2026-11-03</description>
     </item>
     <item>
-      <title>Double Fine Publisher Bundle</title>
-      <link>https://www.humblebundle.com/games/double-fine-publisher-bundle</link>
-      <guid isPermaLink="false">doublefinepublisherbundle_bundle</guid>
-      <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/d9a5d6766bd86ff35d10d73e33e4c71cfc1a75a7.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=088093d51afa83b4e5688bbc380f34ac"&gt;&lt;br&gt;The best of Double Fine&lt;br&gt;Ends: 2026-11-07</description>
-    </item>
-    <item>
       <title>Serenity Forge Emotional Impact Bundle</title>
       <link>https://www.humblebundle.com/games/serenity-forge-emotional-impact-bundle</link>
       <guid isPermaLink="false">serenityforgeemotionalimpactbundle_bundle</guid>
       <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/466de046010e7c10d85af7ac166465825b23830a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=63276212d83ac9061896d42d97cf1637"&gt;&lt;br&gt;Games to test your emotions&lt;br&gt;Ends: 2026-11-07</description>
+    </item>
+    <item>
+      <title>Double Fine Publisher Bundle</title>
+      <link>https://www.humblebundle.com/games/double-fine-publisher-bundle</link>
+      <guid isPermaLink="false">doublefinepublisherbundle_bundle</guid>
+      <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/d9a5d6766bd86ff35d10d73e33e4c71cfc1a75a7.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=088093d51afa83b4e5688bbc380f34ac"&gt;&lt;br&gt;The best of Double Fine&lt;br&gt;Ends: 2026-11-07</description>
     </item>
   </channel>
 </rss>
