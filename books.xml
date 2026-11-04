@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Wed, 04 Nov 2026 05:29:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 19:31:56 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Best-Sellers of Amigurumi by Meteoor Books</title>
@@ -77,11 +77,11 @@
       <description>&lt;img src="https://hb.imgix.net/ed6e2ba7ccd2ee180b5b1c1718ecb5b84b02672e.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=baf273bd269acf820ff64cceb2260c57"&gt;&lt;br&gt;Become a leader in IT&lt;br&gt;Ends: 2026-11-09</description>
     </item>
     <item>
-      <title>Java by Apress</title>
-      <link>https://www.humblebundle.com/books/java-apress-books</link>
-      <guid isPermaLink="false">javaapress_bookbundle</guid>
-      <pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/a9448128d86cc86344476fc3038eed2fa51fa313.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=9ecc81a80b5bacaec2ea0056f4fc1d1f"&gt;&lt;br&gt;Find your groove with Java by Apress.&lt;br&gt;Ends: 2026-11-04</description>
+      <title>African Futurism: Nnedi Okorafor, Wole Talabi, and Adam Oyebanji by DAW Books</title>
+      <link>https://www.humblebundle.com/books/african-futurism-nnedi-okorafor-wole-talabi-and-adam-oyebanji-daw-books-books</link>
+      <guid isPermaLink="false">africanfuturismnnediokoraforwoletalabiandadamoyebanjidawbooks_bookbundle</guid>
+      <pubDate>Tue, 06 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/8485e8f16fae8daef7a0f64e08a724c0b4b5f243.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=e6bb6739d5641ca4eac55fc0332de80d"&gt;&lt;br&gt;Visions of the future&lt;br&gt;Ends: 2026-11-17</description>
     </item>
     <item>
       <title>Candela Obscura by Darrington Press &amp; Friends</title>
@@ -110,6 +110,13 @@
       <guid isPermaLink="false">roboticsautomationengineeringmasterybundlepackt_bookbundle</guid>
       <pubDate>Wed, 21 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/1362b61d4dcbbc3da4a946a403718565d8b603d8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=7474d164ec8712e6f90b7ae682700819"&gt;&lt;br&gt;Make life easier with robotics &amp;amp; automation.&lt;br&gt;Ends: 2026-11-11</description>
+    </item>
+    <item>
+      <title>Fantagraphics Presents Takumigraphics: The Art &amp; Craft of East Asian Comics</title>
+      <link>https://www.humblebundle.com/books/fantagraphics-presents-takumigraphics-art-craft-east-asian-comics-books</link>
+      <guid isPermaLink="false">fantagraphicspresentstakumigraphicsartcrafteastasiancomics_bookbundle</guid>
+      <pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/2217dd7274ebc62d117bcaae50f43a6b388b0ef8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=278eafb6831d56571811d62018765af3"&gt;&lt;br&gt;Comics with an East Asian twist&lt;br&gt;Ends: 2026-11-25</description>
     </item>
     <item>
       <title>AI Cybersecurity Career Blueprint by Packt</title>

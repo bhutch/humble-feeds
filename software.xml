@@ -4,7 +4,7 @@
     <title>Humble Software Bundles</title>
     <link>https://www.humblebundle.com/software</link>
     <description>Current Humble Bundle software bundles</description>
-    <lastBuildDate>Wed, 04 Nov 2026 05:29:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 19:31:56 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Map Making MEGA Bundle Last Chance</title>
@@ -81,14 +81,14 @@
       <link>https://www.humblebundle.com/software/unity-powerhouse-bundle-software</link>
       <guid isPermaLink="false">unitypowerhousebundle_softwarebundle</guid>
       <pubDate>Wed, 07 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/525bf8d4c24dc3a45f3763557a584f9f08542528.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=ac1f534a4d9e5f04bca48860bed29a2a"&gt;&lt;br&gt;Build your world with Unity&lt;br&gt;Ends: 2026-11-04</description>
+      <description>&lt;img src="https://hb.imgix.net/525bf8d4c24dc3a45f3763557a584f9f08542528.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=ac1f534a4d9e5f04bca48860bed29a2a"&gt;&lt;br&gt;Build your world with Unity&lt;br&gt;Ends: 2026-11-11</description>
     </item>
     <item>
       <title>The Complete Java Developer Bundle</title>
       <link>https://www.humblebundle.com/software/complete-java-developer-bundle-software</link>
       <guid isPermaLink="false">completejavadeveloperbundle_softwarebundle</guid>
       <pubDate>Wed, 07 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/ee169cd00285a1a410ab45e1f1f6f542453d69d7.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1951767858c5acbbe099089343156aec"&gt;&lt;br&gt;Gotta have your Java&lt;br&gt;Ends: 2026-11-04</description>
+      <description>&lt;img src="https://hb.imgix.net/ee169cd00285a1a410ab45e1f1f6f542453d69d7.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1951767858c5acbbe099089343156aec"&gt;&lt;br&gt;Gotta have your Java&lt;br&gt;Ends: 2026-11-11</description>
     </item>
     <item>
       <title>Timeless Worlds - Environment Packs</title>
@@ -96,13 +96,6 @@
       <guid isPermaLink="false">timelessworldsenvironmentpacks_softwarebundle</guid>
       <pubDate>Mon, 02 Nov 2026 19:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/f86b707b9844f4044fbbb7907869a11ffa9ff8a8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=6e42f1df21d0c07428a0504d8db5c507"&gt;&lt;br&gt;Create iconic worlds with 400+ assets!&lt;br&gt;Ends: 2026-11-23</description>
-    </item>
-    <item>
-      <title>Make 30 Games with Godot, Unreal &amp; Unity - Black Friday Bundle</title>
-      <link>https://www.humblebundle.com/software/make-30-games-with-godot-unreal-unity-black-friday-bundle-software</link>
-      <guid isPermaLink="false">make30gameswithgodotunrealunityblackfridaybundle_softwarebundle</guid>
-      <pubDate>Tue, 03 Nov 2026 19:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/b7d537983d7450346c2b0f5b31e04d6ef7ac1048.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1e19101eae6cef4f25bd03482c48aa94"&gt;&lt;br&gt;Create your own video games!&lt;br&gt;Ends: 2026-11-24</description>
     </item>
     <item>
       <title>Freedom to Create with COREL Graphics Suite 2025 Last Chance Encore</title>
@@ -133,11 +126,25 @@
       <description>&lt;img src="https://hb.imgix.net/0c95d1284bfa9b8689bec3bc4da0b3f4f7a0180f.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=49e1efbf8c606a69c380812d4cc5e7ec"&gt;&lt;br&gt;Your imagination, running on your own computer.&lt;br&gt;Ends: 2026-11-17</description>
     </item>
     <item>
+      <title>Make 30 Games with Godot, Unreal &amp; Unity - Black Friday Bundle</title>
+      <link>https://www.humblebundle.com/software/make-30-games-with-godot-unreal-unity-black-friday-bundle-software</link>
+      <guid isPermaLink="false">make30gameswithgodotunrealunityblackfridaybundle_softwarebundle</guid>
+      <pubDate>Tue, 03 Nov 2026 19:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/b7d537983d7450346c2b0f5b31e04d6ef7ac1048.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=1e19101eae6cef4f25bd03482c48aa94"&gt;&lt;br&gt;Create your own video games!&lt;br&gt;Ends: 2026-11-24</description>
+    </item>
+    <item>
       <title>The Complete Higgsfield AI Video Creation Bundle</title>
       <link>https://www.humblebundle.com/software/complete-higgsfield-ai-video-creation-bundle-software</link>
       <guid isPermaLink="false">completehiggsfieldaivideocreationbundle_softwarebundle</guid>
       <pubDate>Sat, 17 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/e9b8dd7ba0257a899fe47b6c86305e753fc53b7f.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=4cbe57f3e75a0b8ca5ae3323ff47a1bc"&gt;&lt;br&gt;Transform your ideas with Higgsfield&lt;br&gt;Ends: 2026-11-07</description>
+    </item>
+    <item>
+      <title>Software Engineering 2026</title>
+      <link>https://www.humblebundle.com/software/software-engineering-2026-software</link>
+      <guid isPermaLink="false">softwareengineering2026_softwarebundle</guid>
+      <pubDate>Mon, 12 Oct 2026 18:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=859d915e102c60c7a2b4354eb499fbeb"&gt;&lt;br&gt;Supercharge your software engineering skills.&lt;br&gt;Ends: 2026-11-09</description>
     </item>
     <item>
       <title>Dungeon Adventures! - 3D Printable Miniatures &amp; Scenery</title>
@@ -159,13 +166,6 @@
       <guid isPermaLink="false">underwatercreaturesmegabundleunrealengineunity_softwarebundle</guid>
       <pubDate>Mon, 26 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/bd38ff03953006dbc60a8f7195411401cefb7148.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=05bc278241a04d3253b66622c863574f"&gt;&lt;br&gt;Make waves with detailed underwater creature assets!&lt;br&gt;Ends: 2026-11-16</description>
-    </item>
-    <item>
-      <title>Software Engineering 2026</title>
-      <link>https://www.humblebundle.com/software/software-engineering-2026-software</link>
-      <guid isPermaLink="false">softwareengineering2026_softwarebundle</guid>
-      <pubDate>Mon, 12 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=859d915e102c60c7a2b4354eb499fbeb"&gt;&lt;br&gt;Supercharge your software engineering skills.&lt;br&gt;Ends: 2026-11-09</description>
     </item>
   </channel>
 </rss>
