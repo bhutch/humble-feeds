@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Wed, 04 Nov 2026 19:31:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:49:51 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>Best-Sellers of Amigurumi by Meteoor Books</title>
@@ -112,13 +112,6 @@
       <description>&lt;img src="https://hb.imgix.net/1362b61d4dcbbc3da4a946a403718565d8b603d8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=7474d164ec8712e6f90b7ae682700819"&gt;&lt;br&gt;Make life easier with robotics &amp;amp; automation.&lt;br&gt;Ends: 2026-11-11</description>
     </item>
     <item>
-      <title>Fantagraphics Presents Takumigraphics: The Art &amp; Craft of East Asian Comics</title>
-      <link>https://www.humblebundle.com/books/fantagraphics-presents-takumigraphics-art-craft-east-asian-comics-books</link>
-      <guid isPermaLink="false">fantagraphicspresentstakumigraphicsartcrafteastasiancomics_bookbundle</guid>
-      <pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/2217dd7274ebc62d117bcaae50f43a6b388b0ef8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=278eafb6831d56571811d62018765af3"&gt;&lt;br&gt;Comics with an East Asian twist&lt;br&gt;Ends: 2026-11-25</description>
-    </item>
-    <item>
       <title>AI Cybersecurity Career Blueprint by Packt</title>
       <link>https://www.humblebundle.com/books/ai-cybersecurity-career-blueprint-packt-books</link>
       <guid isPermaLink="false">aicybersecuritycareerblueprintpackt_bookbundle</guid>
@@ -131,6 +124,13 @@
       <guid isPermaLink="false">100yearspoulandersonopenroadmedia_bookbundle</guid>
       <pubDate>Tue, 03 Nov 2026 19:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/e67dc83ebeaa320340af18619eaff2d878408ce4.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=048e6d4878987e0b37dab254ca8d2aff"&gt;&lt;br&gt;A century of stories&lt;br&gt;Ends: 2026-11-26</description>
+    </item>
+    <item>
+      <title>Fantagraphics Presents Takumigraphics: The Art &amp; Craft of East Asian Comics</title>
+      <link>https://www.humblebundle.com/books/fantagraphics-presents-takumigraphics-art-craft-east-asian-comics-books</link>
+      <guid isPermaLink="false">fantagraphicspresentstakumigraphicsartcrafteastasiancomics_bookbundle</guid>
+      <pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/2217dd7274ebc62d117bcaae50f43a6b388b0ef8.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=278eafb6831d56571811d62018765af3"&gt;&lt;br&gt;Comics with an East Asian twist&lt;br&gt;Ends: 2026-11-25</description>
     </item>
     <item>
       <title>The Halloween Horror Bundle by Vault Comics</title>
