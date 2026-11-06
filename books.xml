@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Fri, 06 Nov 2026 05:46:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 19:04:23 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>The EC Archives: Tales From the Crypt and Other Stories by Dark Horse &amp; EC Comics</title>
@@ -46,7 +46,7 @@
       <link>https://www.humblebundle.com/software/castles-crusades-rpg-experience-software</link>
       <guid isPermaLink="false">castlescrusadesrpgexperience_softwarebundle</guid>
       <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/327c799c3c6addfea5e2373c076e16c41cb79583.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d7e0046901309c770e4d12c23936c9e9"&gt;&lt;br&gt;Create your own adventure&lt;br&gt;Ends: 2026-11-06</description>
+      <description>&lt;img src="https://hb.imgix.net/327c799c3c6addfea5e2373c076e16c41cb79583.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d7e0046901309c770e4d12c23936c9e9"&gt;&lt;br&gt;Create your own adventure&lt;br&gt;Ends: 2026-11-13</description>
     </item>
     <item>
       <title>Woodworking, Turning, and Carving: An Encore by Taunton Press / Abrams</title>
@@ -112,13 +112,6 @@
       <description>&lt;img src="https://hb.imgix.net/8485e8f16fae8daef7a0f64e08a724c0b4b5f243.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=e6bb6739d5641ca4eac55fc0332de80d"&gt;&lt;br&gt;Visions of the future&lt;br&gt;Ends: 2026-11-17</description>
     </item>
     <item>
-      <title>Urban Shadows Physical Collection</title>
-      <link>https://www.humblebundle.com/books/urban-shadows-physical-collection-books</link>
-      <guid isPermaLink="false">urbanshadowsphysicalcollection_bookbundle</guid>
-      <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/ea00550e937d85ef4ff178d8b0980a17954398ea.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=95363942c9232ab64286272d1da03637"&gt;&lt;br&gt;Survive the city of shadows&lt;br&gt;Ends: 2026-11-06</description>
-    </item>
-    <item>
       <title>Python Mastery by Pragmatic Programmers</title>
       <link>https://www.humblebundle.com/books/python-mastery-pragmatic-programmers-books</link>
       <guid isPermaLink="false">pythonmasterypragmaticprogrammers_bookbundle</guid>
@@ -145,6 +138,13 @@
       <guid isPermaLink="false">halloweenhorrorbundlevaultcomics_bookbundle</guid>
       <pubDate>Sat, 31 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/a9e16790b554fdc25b65e879485c9e23cf3a7a53.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5e5b1b7526b9f489c9e435642b888a02"&gt;&lt;br&gt;Spooky comics for spooky season&lt;br&gt;Ends: 2026-11-21</description>
+    </item>
+    <item>
+      <title>Warhammer Fantasy Roleplay 40th Anniversary Celebration Bundle</title>
+      <link>https://www.humblebundle.com/books/warhammer-fantasy-roleplay-40th-anniversary-celebration-bundle-books</link>
+      <guid isPermaLink="false">warhammerfantasyroleplay40thanniversarycelebrationbundle_bookbundle</guid>
+      <pubDate>Fri, 06 Nov 2026 19:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/e0748b8bad2a58090198a9c70ce46f7cf7338dba.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=c56a8d9b293bd8e2d842b85cf26f5904"&gt;&lt;br&gt;Celebrate 40 years of Warhammer Fantasy Roleplay!&lt;br&gt;Ends: 2026-11-27</description>
     </item>
     <item>
       <title>Before Absolute: How Legends Were Born by Image Comics</title>
