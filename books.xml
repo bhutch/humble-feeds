@@ -4,7 +4,7 @@
     <title>Humble Books Bundles</title>
     <link>https://www.humblebundle.com/books</link>
     <description>Current Humble Bundle books bundles</description>
-    <lastBuildDate>Mon, 09 Nov 2026 05:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:36:23 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>The EC Archives: Tales From the Crypt and Other Stories by Dark Horse &amp; EC Comics</title>
@@ -42,6 +42,13 @@
       <description>&lt;img src="https://hb.imgix.net/d6f904017c16804c3925729a90ebac54c2950684.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=def850b2fb8e669483538c9542889ed4"&gt;&lt;br&gt;Defend your digital world with AI.&lt;br&gt;Ends: 2026-11-23</description>
     </item>
     <item>
+      <title>The Dynamite Trick-or-Treat Bundle by Dynamite</title>
+      <link>https://www.humblebundle.com/books/dynamite-trickortreat-bundle-dynamite-books</link>
+      <guid isPermaLink="false">dynamitetrickortreatbundledynamite_bookbundle</guid>
+      <pubDate>Thu, 15 Oct 2026 20:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/27d1a5af3212346fb8ebda02da371593766efd7c.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=d0f6733c54c85ef8516124474011df0b"&gt;&lt;br&gt;A Dynamite Halloween treat&lt;br&gt;Ends: 2026-11-12</description>
+    </item>
+    <item>
       <title>Castles &amp; Crusades RPG Experience</title>
       <link>https://www.humblebundle.com/software/castles-crusades-rpg-experience-software</link>
       <guid isPermaLink="false">castlescrusadesrpgexperience_softwarebundle</guid>
@@ -63,13 +70,6 @@
       <description>&lt;img src="https://hb.imgix.net/f6f8f82ed1114211218823a9c2999974f7c1eddc.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=c0721c63abb64b11dcf000345548034d"&gt;&lt;br&gt;Wubba lubba dub dub!&lt;br&gt;Ends: 2026-11-17</description>
     </item>
     <item>
-      <title>Excel by Wiley</title>
-      <link>https://www.humblebundle.com/books/excel-wiley-books</link>
-      <guid isPermaLink="false">excelwiley_bookbundle</guid>
-      <pubDate>Mon, 05 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/bf4f5bc7a29a330fc4d7a1e2810a9161f8ad2281.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=71fd913a8d23d975eb0fb3e993360170"&gt;&lt;br&gt;Excel-erate your output with Microsoft 365&lt;br&gt;Ends: 2026-11-09</description>
-    </item>
-    <item>
       <title>Robotics &amp; Automation Engineering Mastery Bundle by Packt</title>
       <link>https://www.humblebundle.com/books/robotics-automation-engineering-mastery-bundle-packt-books</link>
       <guid isPermaLink="false">roboticsautomationengineeringmasterybundlepackt_bookbundle</guid>
@@ -81,7 +81,7 @@
       <link>https://www.humblebundle.com/books/it-management-toolkit-taylor-francis-books</link>
       <guid isPermaLink="false">itmanagementtoolkittaylorfrancis_bookbundle</guid>
       <pubDate>Mon, 19 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/ed6e2ba7ccd2ee180b5b1c1718ecb5b84b02672e.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=baf273bd269acf820ff64cceb2260c57"&gt;&lt;br&gt;Become a leader in IT&lt;br&gt;Ends: 2026-11-09</description>
+      <description>&lt;img src="https://hb.imgix.net/ed6e2ba7ccd2ee180b5b1c1718ecb5b84b02672e.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=baf273bd269acf820ff64cceb2260c57"&gt;&lt;br&gt;Become a leader in IT&lt;br&gt;Ends: 2026-11-16</description>
     </item>
     <item>
       <title>Blue Lock: The Perfect Shot Bundle by Kodansha</title>
@@ -133,6 +133,13 @@
       <description>&lt;img src="https://hb.imgix.net/a9e16790b554fdc25b65e879485c9e23cf3a7a53.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5e5b1b7526b9f489c9e435642b888a02"&gt;&lt;br&gt;Spooky comics for spooky season&lt;br&gt;Ends: 2026-11-21</description>
     </item>
     <item>
+      <title>Certifications and Security for Cloud and DevOps by Wiley</title>
+      <link>https://www.humblebundle.com/books/certifications-and-security-for-cloud-and-devops-wiley-books</link>
+      <guid isPermaLink="false">certificationsandsecurityforcloudanddevopswiley_bookbundle</guid>
+      <pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/73336554bebf1a3f3b899bbc7c868956ec6713e6.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=173e6ad4d9627feb9bb2af75afd3b72d"&gt;&lt;br&gt;Ace your Cloud and DevOps exams!&lt;br&gt;Ends: 2026-11-30</description>
+    </item>
+    <item>
       <title>Warhammer Fantasy Roleplay 40th Anniversary Celebration Bundle</title>
       <link>https://www.humblebundle.com/books/warhammer-fantasy-roleplay-40th-anniversary-celebration-bundle-books</link>
       <guid isPermaLink="false">warhammerfantasyroleplay40thanniversarycelebrationbundle_bookbundle</guid>
@@ -140,18 +147,18 @@
       <description>&lt;img src="https://hb.imgix.net/e0748b8bad2a58090198a9c70ce46f7cf7338dba.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=c56a8d9b293bd8e2d842b85cf26f5904"&gt;&lt;br&gt;Celebrate 40 years of Warhammer Fantasy Roleplay!&lt;br&gt;Ends: 2026-11-27</description>
     </item>
     <item>
-      <title>Alan Dean Foster: Humanx, Spellsinger &amp; More by Open Road Media</title>
-      <link>https://www.humblebundle.com/books/alan-dean-foster-humanx-spellsinger-more-open-road-media-books</link>
-      <guid isPermaLink="false">alandeanfosterhumanxspellsingermoreopenroadmedia_bookbundle</guid>
-      <pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/40c0fd3405f67309b5f12d6bda96f2ada66f669a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=8c88576f6766a3f6187c1a11582dfc21"&gt;&lt;br&gt;Fantastical worlds and far-flung futures&lt;br&gt;Ends: 2026-11-28</description>
-    </item>
-    <item>
       <title>Before Absolute: How Legends Were Born by Image Comics</title>
       <link>https://www.humblebundle.com/books/before-absolute-how-legends-were-born-image-comics-books</link>
       <guid isPermaLink="false">beforeabsolutehowlegendswerebornimagecomics_bookbundle</guid>
       <pubDate>Thu, 05 Nov 2026 19:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/9c224c4daef231183783cd982a9669683e3b5496.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=0886e396e8dbd80d4da7c8298085d922"&gt;&lt;br&gt;Original comics from Absolute legends&lt;br&gt;Ends: 2026-11-26</description>
+    </item>
+    <item>
+      <title>Alan Dean Foster: Humanx, Spellsinger &amp; More by Open Road Media</title>
+      <link>https://www.humblebundle.com/books/alan-dean-foster-humanx-spellsinger-more-open-road-media-books</link>
+      <guid isPermaLink="false">alandeanfosterhumanxspellsingermoreopenroadmedia_bookbundle</guid>
+      <pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/40c0fd3405f67309b5f12d6bda96f2ada66f669a.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=8c88576f6766a3f6187c1a11582dfc21"&gt;&lt;br&gt;Fantastical worlds and far-flung futures&lt;br&gt;Ends: 2026-11-28</description>
     </item>
     <item>
       <title>Fantagraphics Presents Takumigraphics: The Art &amp; Craft of East Asian Comics</title>
