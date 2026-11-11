@@ -4,7 +4,7 @@
     <title>Humble Games Bundles</title>
     <link>https://www.humblebundle.com/games</link>
     <description>Current Humble Bundle games bundles</description>
-    <lastBuildDate>Tue, 10 Nov 2026 19:28:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:23:14 +0000</lastBuildDate>
     <generator>humble-feed (~/tools/media)</generator>
     <item>
       <title>15th Anniversary - Sci-Fi Exposure</title>
@@ -47,13 +47,6 @@
       <guid isPermaLink="false">residentevilbiohazardunleashed2026_bundle</guid>
       <pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/5ded2835a5f8f68ba974c560c0be26231bad32a4.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=6cf2ecb04758aca0f4f743a9c875c537"&gt;&lt;br&gt;The ultimate Resident Evil Bundle is here&lt;br&gt;Ends: 2026-12-03</description>
-    </item>
-    <item>
-      <title>Flat2VR Bundle</title>
-      <link>https://www.humblebundle.com/games/flat2vr-bundle</link>
-      <guid isPermaLink="false">flat2vrbundle_bundle</guid>
-      <pubDate>Tue, 20 Oct 2026 18:00:00 +0000</pubDate>
-      <description>&lt;img src="https://hb.imgix.net/db711a76bfd1c458d54b935d01bd9e1793518274.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=6f8c5f73784e761f7cfb44601875b5b9"&gt;&lt;br&gt;Play VR games that never fall flat!&lt;br&gt;Ends: 2026-11-11</description>
     </item>
     <item>
       <title>Hamble's Fright or Fight Halloween Bundle</title>
@@ -117,6 +110,13 @@
       <guid isPermaLink="false">maximumentertainmentindiehits_bundle</guid>
       <pubDate>Wed, 28 Oct 2026 18:00:00 +0000</pubDate>
       <description>&lt;img src="https://hb.imgix.net/13d9cfde5f2c1d378ad32b22d21dc9257a9cd5bc.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=82c3743463bc9ca374082165f3dc22d1"&gt;&lt;br&gt;Indies that pack a punch!&lt;br&gt;Ends: 2026-11-12</description>
+    </item>
+    <item>
+      <title>11.11 Singles Day - Celebration of Chinese Gaming!</title>
+      <link>https://www.humblebundle.com/games/1111-singles-day-celebration-chinese-gaming</link>
+      <guid isPermaLink="false">1111singlesdaycelebrationchinesegaming_bundle</guid>
+      <pubDate>Tue, 10 Nov 2026 19:30:00 +0000</pubDate>
+      <description>&lt;img src="https://hb.imgix.net/9ecde54cacafac56ea8393d43f5a6e96b333e11f.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;h=600&amp;amp;w=1200&amp;amp;s=5f87e3547d7e57ca4651f6386bde0249"&gt;&lt;br&gt;Celebrate your independence and help stop Asian hate!&lt;br&gt;Ends: 2026-12-02</description>
     </item>
   </channel>
 </rss>
